@@ -5,3 +5,9 @@
 
 What I saw looked awesome, but the moment I tried building it myself… something weird came out.
 
+Please check READMD_language.md
+
+https://youtu.be/1ClH665W7-U
+
+exe file link :
+https://drive.google.com/file/d/14r5IES2WS3XpIt9rDI75IXMF5qqHYhwE/view?usp=sharing
