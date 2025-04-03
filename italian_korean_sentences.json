@@ -1,0 +1,842 @@
+[
+  {
+    "it": "Devo andare a dormire.",
+    "ko": "자야 합니다.",
+    "romanized": "Devo andare a dormire."
+  },
+  {
+    "it": "Che cos'è?",
+    "ko": "그것은 무엇입니까?",
+    "romanized": "Che cos'e?"
+  },
+  {
+    "it": "La parola d'accesso è \"Muiriel\".",
+    "ko": "비밀번호는 \"Muiriel\"입니다.",
+    "romanized": "La parola d'accesso e \"Muiriel\"."
+  },
+  {
+    "it": "Mi manchi.",
+    "ko": "보고 싶어.",
+    "romanized": "Mi manchi."
+  },
+  {
+    "it": "Sei sicuro?",
+    "ko": "정말이에요?",
+    "romanized": "Sei sicuro?"
+  },
+  {
+    "it": "Mi piacerebbe tanto andare in Giappone.",
+    "ko": "일본에 갈 수 있었으면 좋겠어요.",
+    "romanized": "Mi piacerebbe tanto andare in Giappone."
+  },
+  {
+    "it": "Ti amo.",
+    "ko": "사랑해요.",
+    "romanized": "Ti amo."
+  },
+  {
+    "it": "Sorprendersi, stupirsi, è cominciare a capire.",
+    "ko": "놀라워 하고, 궁금해 하는 것이 이해의 시작이다.",
+    "romanized": "Sorprendersi, stupirsi, e cominciare a capire."
+  },
+  {
+    "it": "Non c'è dubbio che il tutto è infinito.",
+    "ko": "그러나 우주는 무한하다.",
+    "romanized": "Non c'e dubbio che il tutto e infinito."
+  },
+  {
+    "it": "Per essere perfetta le mancava solo un difetto.",
+    "ko": "한가지만 빼면 그녀는 완벽해요.",
+    "romanized": "Per essere perfetta le mancava solo un difetto."
+  },
+  {
+    "it": "Eppure, è sempre vero anche il contrario.",
+    "ko": "그러나, 그 반대도 또한 항상 진실이다.",
+    "romanized": "Eppure, e sempre vero anche il contrario."
+  },
+  {
+    "it": "Non vediamo le cose come sono, ma come siamo.",
+    "ko": "그 모습 그대로 사물을 보지 않고, 우리 자신의 모습으로 그것을 바라본다.",
+    "romanized": "Non vediamo le cose come sono, ma come siamo."
+  },
+  {
+    "it": "Il mondo è una gabbia di matti.",
+    "ko": "이 세상은 미치광이들의 소굴이다",
+    "romanized": "Il mondo e una gabbia di matti."
+  },
+  {
+    "it": "L'Italia è un paese molto bello.",
+    "ko": "이탈리아는 아주 아름다운 나라입니다.",
+    "romanized": "L'Italia e un paese molto bello."
+  },
+  {
+    "it": "Non desiderare è lo stesso che avere.",
+    "ko": "바라는 것이 없으면 부족함이 없다.",
+    "romanized": "Non desiderare e lo stesso che avere."
+  },
+  {
+    "it": "Mi fa male la testa.",
+    "ko": "나 머리 아파.",
+    "romanized": "Mi fa male la testa."
+  },
+  {
+    "it": "Ciao, Tom.",
+    "ko": "안녕, 톰.",
+    "romanized": "Ciao, Tom."
+  },
+  {
+    "it": "Che fai?",
+    "ko": "뭐해?",
+    "romanized": "Che fai?"
+  },
+  {
+    "it": "Come funziona questa macchina fotografica?",
+    "ko": "이 카메라가 어떻게 작동하지?",
+    "romanized": "Come funziona questa macchina fotografica?"
+  },
+  {
+    "it": "Non so.",
+    "ko": "모르겠어요.",
+    "romanized": "Non so."
+  },
+  {
+    "it": "Siamo vecchi amici.",
+    "ko": "우리는 오래된 친구들이다.",
+    "romanized": "Siamo vecchi amici."
+  },
+  {
+    "it": "Sono occupato ora.",
+    "ko": "지금 바빠요.",
+    "romanized": "Sono occupato ora."
+  },
+  {
+    "it": "Cinque più due fa sette.",
+    "ko": "5 더하기 2는 7이다.",
+    "romanized": "Cinque piu due fa sette."
+  },
+  {
+    "it": "Buon compleanno, Muiriel!",
+    "ko": "생일 축하해 Muiriel!",
+    "romanized": "Buon compleanno, Muiriel!"
+  },
+  {
+    "it": "Voglio imparare il cinese l'anno prossimo.",
+    "ko": "나는 내년에 중국어를 배우고 싶다.",
+    "romanized": "Voglio imparare il cinese l'anno prossimo."
+  },
+  {
+    "it": "Buongiorno!",
+    "ko": "안녕하세요.",
+    "romanized": "Buongiorno!"
+  },
+  {
+    "it": "Buonasera!",
+    "ko": "안녕하세요.",
+    "romanized": "Buonasera!"
+  },
+  {
+    "it": "Il mio amico studia coreano.",
+    "ko": "내친구는 한국어를 공부해요.",
+    "romanized": "Il mio amico studia coreano."
+  },
+  {
+    "it": "Fu amore a prima vista.",
+    "ko": "우린 서로 첫눈에 반했어요.",
+    "romanized": "Fu amore a prima vista."
+  },
+  {
+    "it": "Tagliò la torta in sei fette e ne diede una a ciascun bambino.",
+    "ko": "그녀가 케이크를 여섯 조각으로 잘라서 애들에게 한조각씩 줬다.",
+    "romanized": "Taglio la torta in sei fette e ne diede una a ciascun bambino."
+  },
+  {
+    "it": "È stato amore a prima vista.",
+    "ko": "우린 서로 첫눈에 반했어요.",
+    "romanized": "E stato amore a prima vista."
+  },
+  {
+    "it": "L'acqua è trasparente.",
+    "ko": "물은 투명하다.",
+    "romanized": "L'acqua e trasparente."
+  },
+  {
+    "it": "Non mi va di mangiare.",
+    "ko": "별로 먹고 싶지 않아요.",
+    "romanized": "Non mi va di mangiare."
+  },
+  {
+    "it": "Ha smesso di piovere.",
+    "ko": "비가 그쳤다.",
+    "romanized": "Ha smesso di piovere."
+  },
+  {
+    "it": "Questo non è un incidente.",
+    "ko": "이건 사고가 아냐.",
+    "romanized": "Questo non e un incidente."
+  },
+  {
+    "it": "La mia amica studia coreano.",
+    "ko": "내친구는 한국어를 공부해요.",
+    "romanized": "La mia amica studia coreano."
+  },
+  {
+    "it": "Il mio amico studia il coreano.",
+    "ko": "내친구는 한국어를 공부해요.",
+    "romanized": "Il mio amico studia il coreano."
+  },
+  {
+    "it": "La mia amica studia il coreano.",
+    "ko": "내친구는 한국어를 공부해요.",
+    "romanized": "La mia amica studia il coreano."
+  },
+  {
+    "it": "Dio creò il cielo e la terra.",
+    "ko": "하느님이 천지를 창조하셨다.",
+    "romanized": "Dio creo il cielo e la terra."
+  },
+  {
+    "it": "Anche un viaggio di mille miglia comincia con un passo.",
+    "ko": "천리길도 한 걸음부터.",
+    "romanized": "Anche un viaggio di mille miglia comincia con un passo."
+  },
+  {
+    "it": "Perché mente?",
+    "ko": "왜 거짓말을 해요?",
+    "romanized": "Perche mente?"
+  },
+  {
+    "it": "Sei una ragazza carina.",
+    "ko": "너 참 예쁜 아이구나.",
+    "romanized": "Sei una ragazza carina."
+  },
+  {
+    "it": "Avete scelto?",
+    "ko": "고르셨습니까?",
+    "romanized": "Avete scelto?"
+  },
+  {
+    "it": "Qual è il suo impiego?",
+    "ko": "직업이 무엇입니까?",
+    "romanized": "Qual e il suo impiego?"
+  },
+  {
+    "it": "Vorrei vederti domani.",
+    "ko": "내일 널 만나고 싶어.",
+    "romanized": "Vorrei vederti domani."
+  },
+  {
+    "it": "I miei bambini sono a scuola.",
+    "ko": "우리 애들은 학교에 있어요.",
+    "romanized": "I miei bambini sono a scuola."
+  },
+  {
+    "it": "Tu devi accettare il tuo ruolo.",
+    "ko": "넌 너의 역할을 받아들일 필요가 있어.",
+    "romanized": "Tu devi accettare il tuo ruolo."
+  },
+  {
+    "it": "I bambini e gli ubriachi non mentono.",
+    "ko": "아이와 술취한 사람은 거짓말 하지 않는다.",
+    "romanized": "I bambini e gli ubriachi non mentono."
+  },
+  {
+    "it": "Cos'è questo suono assordante?",
+    "ko": "이 시끄러운 소리는 뭐예요?",
+    "romanized": "Cos'e questo suono assordante?"
+  },
+  {
+    "it": "Ma sono pericolose per la salute queste cose?",
+    "ko": "그건 은건강을위험?",
+    "romanized": "Ma sono pericolose per la salute queste cose?"
+  },
+  {
+    "it": "Nessuno di noi è contrario alla sua idea.",
+    "ko": "우리 중 아무도 그 사람의 의견에 반대하지 않는다.",
+    "romanized": "Nessuno di noi e contrario alla sua idea."
+  },
+  {
+    "it": "Nessuna di noi è contraria alla sua idea.",
+    "ko": "우리 중 아무도 그 사람의 의견에 반대하지 않는다.",
+    "romanized": "Nessuna di noi e contraria alla sua idea."
+  },
+  {
+    "it": "Io posso portare un messaggio.",
+    "ko": "메세지 전해 드릴께요.",
+    "romanized": "Io posso portare un messaggio."
+  },
+  {
+    "it": "La borsa è piena.",
+    "ko": "가방이 가득합니다.",
+    "romanized": "La borsa e piena."
+  },
+  {
+    "it": "Buon pomeriggio.",
+    "ko": "안녕하세요.",
+    "romanized": "Buon pomeriggio."
+  },
+  {
+    "it": "Qual è la data di oggi?",
+    "ko": "오늘이 며칠이지?",
+    "romanized": "Qual e la data di oggi?"
+  },
+  {
+    "it": "Dove vuoi andare?",
+    "ko": "어디 가고싶어요?",
+    "romanized": "Dove vuoi andare?"
+  },
+  {
+    "it": "Tu dov'eri tre anni fa?",
+    "ko": "3년전 당신은 어디에 있었습니까?",
+    "romanized": "Tu dov'eri tre anni fa?"
+  },
+  {
+    "it": "Corri più velocemente, altrimenti perderai il treno.",
+    "ko": "더 빨리 뛰어. 안그럼 기차 놓칠수도 있어.",
+    "romanized": "Corri piu velocemente, altrimenti perderai il treno."
+  },
+  {
+    "it": "Hey, cos'è successo?",
+    "ko": "무슨 일이 있었던 거야?",
+    "romanized": "Hey, cos'e successo?"
+  },
+  {
+    "it": "Stanisław Jerzy Lec una volta disse: \"Capita di dover tacere per essere ascoltati\".",
+    "ko": "종종 다른 사람을 말을 듣기 위해 우리는 침묵을 지킬 필요가 있다.",
+    "romanized": "Stanisław Jerzy Lec una volta disse: \"Capita di dover tacere per essere ascoltati\"."
+  },
+  {
+    "it": "Torna al laboratorio.",
+    "ko": "연구실로 돌아가.",
+    "romanized": "Torna al laboratorio."
+  },
+  {
+    "it": "Due più due fa quattro.",
+    "ko": "2 더하기 2는 4야.",
+    "romanized": "Due piu due fa quattro."
+  },
+  {
+    "it": "Dimmi cosa gli hai dato.",
+    "ko": "네가 그에게 준 것을 얘기해 줘.",
+    "romanized": "Dimmi cosa gli hai dato."
+  },
+  {
+    "it": "Dove posso imparare a fare surf?",
+    "ko": "어디서 서핑하는 법을 배울 수 있어?",
+    "romanized": "Dove posso imparare a fare surf?"
+  },
+  {
+    "it": "Mia madre preferisce mia sorella a me.",
+    "ko": "우리 엄마는 나보다 동생을 더 좋아해.",
+    "romanized": "Mia madre preferisce mia sorella a me."
+  },
+  {
+    "it": "Mia madre preferisce mio fratello a me.",
+    "ko": "우리 엄마는 나보다 동생을 더 좋아해.",
+    "romanized": "Mia madre preferisce mio fratello a me."
+  },
+  {
+    "it": "Questa non è un'opzione.",
+    "ko": "선택 사항이 아니야.",
+    "romanized": "Questa non e un'opzione."
+  },
+  {
+    "it": "Sta studiando francese da 8 anni.",
+    "ko": "그는 8년동안 불어를 공부하고 있다.",
+    "romanized": "Sta studiando francese da 8 anni."
+  },
+  {
+    "it": "Penso che dovremmo fare qualcosa di stupido.",
+    "ko": "우리 좀 바보짓을 해야할 것 같아.",
+    "romanized": "Penso che dovremmo fare qualcosa di stupido."
+  },
+  {
+    "it": "Grazie per l'avvertimento.",
+    "ko": "경고 고마워.",
+    "romanized": "Grazie per l'avvertimento."
+  },
+  {
+    "it": "Mia figlia è ancora piuttosto giovane.",
+    "ko": "내 딸은 아직 꽤 어려.",
+    "romanized": "Mia figlia e ancora piuttosto giovane."
+  },
+  {
+    "it": "Ti sei mai sentito solo?",
+    "ko": "외로웠던 적이 있어?",
+    "romanized": "Ti sei mai sentito solo?"
+  },
+  {
+    "it": "Ti sei mai sentita sola?",
+    "ko": "외로웠던 적이 있어?",
+    "romanized": "Ti sei mai sentita sola?"
+  },
+  {
+    "it": "Ti abituerai presto a vivere qui.",
+    "ko": "곧 여기에서 사는 것에 적응될 거예요.",
+    "romanized": "Ti abituerai presto a vivere qui."
+  },
+  {
+    "it": "A chi tocca ora?",
+    "ko": "이제 누구 차례지?",
+    "romanized": "A chi tocca ora?"
+  },
+  {
+    "it": "Chi è il prossimo?",
+    "ko": "이제 누구 차례지?",
+    "romanized": "Chi e il prossimo?"
+  },
+  {
+    "it": "È un fascista.",
+    "ko": "그 사람은 파시스트야.",
+    "romanized": "E un fascista."
+  },
+  {
+    "it": "Era una scelta di Tom.",
+    "ko": "그건 톰의 선택이었어.",
+    "romanized": "Era una scelta di Tom."
+  },
+  {
+    "it": "La scelta spettava a Tom.",
+    "ko": "그건 톰의 선택이었어.",
+    "romanized": "La scelta spettava a Tom."
+  },
+  {
+    "it": "Non voglio assolutamente perderlo.",
+    "ko": "나는 정말로 그것을 놓치고 싶지 않다.",
+    "romanized": "Non voglio assolutamente perderlo."
+  },
+  {
+    "it": "Comincia a cantare.",
+    "ko": "노래 시작해.",
+    "romanized": "Comincia a cantare."
+  },
+  {
+    "it": "Sei identico a tuo padre.",
+    "ko": "너는 아빠랑 똑같다.",
+    "romanized": "Sei identico a tuo padre."
+  },
+  {
+    "it": "Ultimo avvertimento!",
+    "ko": "마지막 경고다!",
+    "romanized": "Ultimo avvertimento!"
+  },
+  {
+    "it": "Ho imparato a nuotare quando ero piccolo.",
+    "ko": "내가 어렸을 때 어떻게 수영하는 지를 배웠어.",
+    "romanized": "Ho imparato a nuotare quando ero piccolo."
+  },
+  {
+    "it": "Ho imparato a nuotare quando ero piccola.",
+    "ko": "내가 어렸을 때 어떻게 수영하는 지를 배웠어.",
+    "romanized": "Ho imparato a nuotare quando ero piccola."
+  },
+  {
+    "it": "In realtà so suonare il pianoforte abbastanza bene.",
+    "ko": "난 사실 피아노를 꽤 잘 쳐.",
+    "romanized": "In realta so suonare il pianoforte abbastanza bene."
+  },
+  {
+    "it": "Ho preso il raffreddore.",
+    "ko": "감기에 걸렸어.",
+    "romanized": "Ho preso il raffreddore."
+  },
+  {
+    "it": "Dov'è l'ospedale più vicino?",
+    "ko": "제일 가까운 병원이 어디에요?",
+    "romanized": "Dov'e l'ospedale piu vicino?"
+  },
+  {
+    "it": "Come stai?",
+    "ko": "잘 지냈어？.",
+    "romanized": "Come stai?"
+  },
+  {
+    "it": "Tutto bene?",
+    "ko": "잘 지냈어？.",
+    "romanized": "Tutto bene?"
+  },
+  {
+    "it": "Come va?",
+    "ko": "잘 지냈어？.",
+    "romanized": "Come va?"
+  },
+  {
+    "it": "Scusa per il ritardo.",
+    "ko": "늦게 온 것을 용서해 주세요.",
+    "romanized": "Scusa per il ritardo."
+  },
+  {
+    "it": "Scusate per il ritardo.",
+    "ko": "늦게 온 것을 용서해 주세요.",
+    "romanized": "Scusate per il ritardo."
+  },
+  {
+    "it": "Perdonate il ritardo.",
+    "ko": "늦게 온 것을 용서해 주세요.",
+    "romanized": "Perdonate il ritardo."
+  },
+  {
+    "it": "Sto pensando di studiare coreano il prossimo semestre.",
+    "ko": "다음 학기에 한국어를 배울까 생각해요",
+    "romanized": "Sto pensando di studiare coreano il prossimo semestre."
+  },
+  {
+    "it": "Puoi scegliere tra tè nero, caffè e latte.",
+    "ko": "홍차, 커피, 우유 중에 고를 수 있어.",
+    "romanized": "Puoi scegliere tra te nero, caffe e latte."
+  },
+  {
+    "it": "Hey, tu! Vieni qui.",
+    "ko": "야, 너! 이리 와 봐.",
+    "romanized": "Hey, tu! Vieni qui."
+  },
+  {
+    "it": "Non sono potuto andare alla festa di compleanno.",
+    "ko": "난 생일 파티에 못 갔어.",
+    "romanized": "Non sono potuto andare alla festa di compleanno."
+  },
+  {
+    "it": "Va bene.",
+    "ko": "괜찮아.",
+    "romanized": "Va bene."
+  },
+  {
+    "it": "Sto bene.",
+    "ko": "괜찮아.",
+    "romanized": "Sto bene."
+  },
+  {
+    "it": "Tutto bene.",
+    "ko": "괜찮아.",
+    "romanized": "Tutto bene."
+  },
+  {
+    "it": "Ha venduto la sua anima?",
+    "ko": "그가 그의 영혼을 팔았어?",
+    "romanized": "Ha venduto la sua anima?"
+  },
+  {
+    "it": "Il mio nome è Tom.",
+    "ko": "제 이름은 톰입니다.",
+    "romanized": "Il mio nome e Tom."
+  },
+  {
+    "it": "Ieri stavo male.",
+    "ko": "나는 어제 아팠다.",
+    "romanized": "Ieri stavo male."
+  },
+  {
+    "it": "Vi consiglio di leggere le poesie di Fernando Pessoa.",
+    "ko": "페르난도 페소아의 시를 읽어보길 권한다.",
+    "romanized": "Vi consiglio di leggere le poesie di Fernando Pessoa."
+  },
+  {
+    "it": "Mi sono scusata.",
+    "ko": "죄송합니다.",
+    "romanized": "Mi sono scusata."
+  },
+  {
+    "it": "Io vorrei essere intelligente come lei.",
+    "ko": "나도 당신처럼 똑똑해지고 싶습니다.",
+    "romanized": "Io vorrei essere intelligente come lei."
+  },
+  {
+    "it": "Noi siamo ancora amici.",
+    "ko": "우리는 여전히 친구사이다.",
+    "romanized": "Noi siamo ancora amici."
+  },
+  {
+    "it": "Lui amava tutto su di lei.",
+    "ko": "그는 그녀에 관한 모든 것을 좋아했다.",
+    "romanized": "Lui amava tutto su di lei."
+  },
+  {
+    "it": "No!",
+    "ko": "아니!",
+    "romanized": "No!"
+  },
+  {
+    "it": "Perché no?",
+    "ko": "왜 안돼?",
+    "romanized": "Perche no?"
+  },
+  {
+    "it": "Io sono Tom.",
+    "ko": "나는 톰이야.",
+    "romanized": "Io sono Tom."
+  },
+  {
+    "it": "Grazie.",
+    "ko": "고마워.",
+    "romanized": "Grazie."
+  },
+  {
+    "it": "Grazie!",
+    "ko": "고마워!",
+    "romanized": "Grazie!"
+  },
+  {
+    "it": "Ciao, Tom!",
+    "ko": "안녕, 톰!",
+    "romanized": "Ciao, Tom!"
+  },
+  {
+    "it": "È facile per me leggere questo libro.",
+    "ko": "이 책을 읽는 것은 나에게 쉽다.",
+    "romanized": "E facile per me leggere questo libro."
+  },
+  {
+    "it": "Sono coreano.",
+    "ko": "한국 사람입니다.",
+    "romanized": "Sono coreano."
+  },
+  {
+    "it": "Sono coreana.",
+    "ko": "한국 사람입니다.",
+    "romanized": "Sono coreana."
+  },
+  {
+    "it": "Sono sudcoreano.",
+    "ko": "한국 사람입니다.",
+    "romanized": "Sono sudcoreano."
+  },
+  {
+    "it": "Sono troppo grasso.",
+    "ko": "나 너무 뚱뚱해.",
+    "romanized": "Sono troppo grasso."
+  },
+  {
+    "it": "Io sono troppo grasso.",
+    "ko": "나 너무 뚱뚱해.",
+    "romanized": "Io sono troppo grasso."
+  },
+  {
+    "it": "Sono troppo grassa.",
+    "ko": "나 너무 뚱뚱해.",
+    "romanized": "Sono troppo grassa."
+  },
+  {
+    "it": "Io sono troppo grassa.",
+    "ko": "나 너무 뚱뚱해.",
+    "romanized": "Io sono troppo grassa."
+  },
+  {
+    "it": "Io ti perdono.",
+    "ko": "난 널 용서한다.",
+    "romanized": "Io ti perdono."
+  },
+  {
+    "it": "Ho due figli. Uno è a Tokyo e l'altro a Nagoya.",
+    "ko": "나는 아들이 둘 있는데 하나는 도쿄에 있고 다른 하나는 나고야에 있다.",
+    "romanized": "Ho due figli. Uno e a Tokyo e l'altro a Nagoya."
+  },
+  {
+    "it": "Io ho due figli. Uno è a Tokyo e l'altro a Nagoya.",
+    "ko": "나는 아들이 둘 있는데 하나는 도쿄에 있고 다른 하나는 나고야에 있다.",
+    "romanized": "Io ho due figli. Uno e a Tokyo e l'altro a Nagoya."
+  },
+  {
+    "it": "Erano le sette e mezza.",
+    "ko": "일곱 시 반이었다.",
+    "romanized": "Erano le sette e mezza."
+  },
+  {
+    "it": "Tom ama le banane.",
+    "ko": "톰은 바나나를 정말 좋아한다.",
+    "romanized": "Tom ama le banane."
+  },
+  {
+    "it": "La Svizzera si trova tra Francia, Italia, Austria e Germania.",
+    "ko": "스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.",
+    "romanized": "La Svizzera si trova tra Francia, Italia, Austria e Germania."
+  },
+  {
+    "it": "La Svizzera è situata tra Francia, Italia, Austria e Germania.",
+    "ko": "스위스는 프랑스와 이탈리아, 오스트리아, 독일 사이에 있다.",
+    "romanized": "La Svizzera e situata tra Francia, Italia, Austria e Germania."
+  },
+  {
+    "it": "Voglio essere felice.",
+    "ko": "나는 행복해지고 싶어.",
+    "romanized": "Voglio essere felice."
+  },
+  {
+    "it": "Io voglio essere felice.",
+    "ko": "나는 행복해지고 싶어.",
+    "romanized": "Io voglio essere felice."
+  },
+  {
+    "it": "Questo computer ha un processore Pentium.",
+    "ko": "이 컴퓨터는 펜티엄 프로세서를 탑재했어.",
+    "romanized": "Questo computer ha un processore Pentium."
+  },
+  {
+    "it": "Lo spagnolo è parlato in molti paesi.",
+    "ko": "스페인어는 많은 국가에서 쓰인다.",
+    "romanized": "Lo spagnolo e parlato in molti paesi."
+  },
+  {
+    "it": "Tom rassicurò Mary.",
+    "ko": "톰은 메리를 안심시켰다.",
+    "romanized": "Tom rassicuro Mary."
+  },
+  {
+    "it": "Il Brasile è il paese più grande del Sudamerica.",
+    "ko": "브라질은 남미에서 가장 큰 나라입니다.",
+    "romanized": "Il Brasile e il paese piu grande del Sudamerica."
+  },
+  {
+    "it": "Cavalli è il plurale di \"cavallo\".",
+    "ko": "말들은 \"말\"의 복수형이야.",
+    "romanized": "Cavalli e il plurale di \"cavallo\"."
+  },
+  {
+    "it": "In Grecia ci sono molte isole.",
+    "ko": "그리스에는 섬이 많다.",
+    "romanized": "In Grecia ci sono molte isole."
+  },
+  {
+    "it": "Ci sono molte isole in Grecia.",
+    "ko": "그리스에는 섬이 많다.",
+    "romanized": "Ci sono molte isole in Grecia."
+  },
+  {
+    "it": "La risposta è sì.",
+    "ko": "대답은 그렇다이다.",
+    "romanized": "La risposta e si."
+  },
+  {
+    "it": "Importiamo caffè dal Brasile.",
+    "ko": "우리는 브라질에서 커피를 수입한다.",
+    "romanized": "Importiamo caffe dal Brasile."
+  },
+  {
+    "it": "Non è impossibile.",
+    "ko": "불가능하지 않다.",
+    "romanized": "Non e impossibile."
+  },
+  {
+    "it": "Il nostro ristorante è il migliore.",
+    "ko": "우리 레스토랑이 최고다.",
+    "romanized": "Il nostro ristorante e il migliore."
+  },
+  {
+    "it": "Non voglio vivere.",
+    "ko": "살고 싶지 않아.",
+    "romanized": "Non voglio vivere."
+  },
+  {
+    "it": "Io non voglio vivere.",
+    "ko": "살고 싶지 않아.",
+    "romanized": "Io non voglio vivere."
+  },
+  {
+    "it": "A me piace questo lavoro.",
+    "ko": "나는 이 일이 좋다.",
+    "romanized": "A me piace questo lavoro."
+  },
+  {
+    "it": "Mi piace questo lavoro.",
+    "ko": "나는 이 일이 좋다.",
+    "romanized": "Mi piace questo lavoro."
+  },
+  {
+    "it": "Non mi piacciono gli insegnanti a cui piacciono gli studenti a cui non piace fare domande.",
+    "ko": "나는 질문을 좋아하지 않는 학생을 좋아하는 선생님을 좋아하지 않아.",
+    "romanized": "Non mi piacciono gli insegnanti a cui piacciono gli studenti a cui non piace fare domande."
+  },
+  {
+    "it": "A me non piacciono gli insegnanti a cui piacciono gli studenti a cui non piace fare domande.",
+    "ko": "나는 질문을 좋아하지 않는 학생을 좋아하는 선생님을 좋아하지 않아.",
+    "romanized": "A me non piacciono gli insegnanti a cui piacciono gli studenti a cui non piace fare domande."
+  },
+  {
+    "it": "Voglio mangiare del kimbap.",
+    "ko": "나는 김밥을 먹고 싶어요.",
+    "romanized": "Voglio mangiare del kimbap."
+  },
+  {
+    "it": "Io voglio mangiare del kimbap.",
+    "ko": "나는 김밥을 먹고 싶어요.",
+    "romanized": "Io voglio mangiare del kimbap."
+  },
+  {
+    "it": "Voglio mangiare del gimbap.",
+    "ko": "나는 김밥을 먹고 싶어요.",
+    "romanized": "Voglio mangiare del gimbap."
+  },
+  {
+    "it": "Io voglio mangiare del gimbap.",
+    "ko": "나는 김밥을 먹고 싶어요.",
+    "romanized": "Io voglio mangiare del gimbap."
+  },
+  {
+    "it": "Passaporto, per favore.",
+    "ko": "여권 주세요.",
+    "romanized": "Passaporto, per favore."
+  },
+  {
+    "it": "Acqua, per favore.",
+    "ko": "물 주세요.",
+    "romanized": "Acqua, per favore."
+  },
+  {
+    "it": "Io sono Tom Hunter.",
+    "ko": "저는 Tom Hunter입니다.",
+    "romanized": "Io sono Tom Hunter."
+  },
+  {
+    "it": "Sono Tom Hunter.",
+    "ko": "저는 Tom Hunter입니다.",
+    "romanized": "Sono Tom Hunter."
+  },
+  {
+    "it": "Tom è mio amico.",
+    "ko": "톰은 나의 친구다.",
+    "romanized": "Tom e mio amico."
+  },
+  {
+    "it": "Okay.",
+    "ko": "오케이.",
+    "romanized": "Okay."
+  },
+  {
+    "it": "Le leonesse non hanno la criniera.",
+    "ko": "암사자에는 갈기가 없어.",
+    "romanized": "Le leonesse non hanno la criniera."
+  },
+  {
+    "it": "Ho preso una grande decisione oggi.",
+    "ko": "오늘 거대한 결정을 내렸어요.",
+    "romanized": "Ho preso una grande decisione oggi."
+  },
+  {
+    "it": "La mia gola è un po' secca.",
+    "ko": "목이 조금 마릅니다.",
+    "romanized": "La mia gola e un po' secca."
+  },
+  {
+    "it": "Mio fratello è anche mia sorella.",
+    "ko": "제 남동생은 제 여동생이기도 합니다.",
+    "romanized": "Mio fratello e anche mia sorella."
+  },
+  {
+    "it": "Il simbolo chimico H significa idrogeno.",
+    "ko": "화학 기호 H는 수소를 나타낸다.",
+    "romanized": "Il simbolo chimico H significa idrogeno."
+  },
+  {
+    "it": "Uno, due, tre, quattro, cinque.",
+    "ko": "하나, 둘, 셋, 넷, 다섯.",
+    "romanized": "Uno, due, tre, quattro, cinque."
+  },
+  {
+    "it": "Cinque è il numero tra quattro e sei.",
+    "ko": "오는 사와 육 사이의 숫자이다.",
+    "romanized": "Cinque e il numero tra quattro e sei."
+  },
+  {
+    "it": "Tom va a Boston ogni anno.",
+    "ko": "톰은 매년 보스턴에 가요.",
+    "romanized": "Tom va a Boston ogni anno."
+  }
+]

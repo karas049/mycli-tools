@@ -1,0 +1,5977 @@
+[
+  {
+    "ja": "何かしてみましょう。",
+    "ko": "뭔가 해보자!",
+    "romanized": "nanikashitemimashou 。"
+  },
+  {
+    "ja": "私は眠らなければなりません。",
+    "ko": "자야 합니다.",
+    "romanized": "watashihanemuranakerebanarimasen 。"
+  },
+  {
+    "ja": "何してるの？",
+    "ko": "뭐해?",
+    "romanized": "nanishiteruno ？"
+  },
+  {
+    "ja": "今日は６月１８日で、ムーリエルの誕生日です！",
+    "ko": "오늘은 6월 18일, Muiriel의 생일입니다!",
+    "romanized": "konnichiha ６ gatsu １８ nichide 、 muurierunotanjoubidesu ！"
+  },
+  {
+    "ja": "お誕生日おめでとうムーリエル！",
+    "ko": "생일 축하해 Muiriel!",
+    "romanized": "otanjoubiomedetoumuurieru ！"
+  },
+  {
+    "ja": "ムーリエルは２０歳になりました。",
+    "ko": "Muiriel은 지금 20살입니다.",
+    "romanized": "muurieruha ２０ toshininarimashita 。"
+  },
+  {
+    "ja": "パスワードはMuirielです。",
+    "ko": "비밀번호는 Muiriel입니다.",
+    "romanized": "pasuwaadoha  Muiriel  desu 。"
+  },
+  {
+    "ja": "すぐに戻ります。",
+    "ko": "곧 돌아올께요.",
+    "romanized": "sugunimodorimasu 。"
+  },
+  {
+    "ja": "きりがない。",
+    "ko": "이건 절대 끝나지 않을거야.",
+    "romanized": "kiriganai 。"
+  },
+  {
+    "ja": "何と言ったらいいか・・・。",
+    "ko": "뭐라고 말해야 할지 정말 모르겠어...",
+    "romanized": "nantoittaraiika . . . 。"
+  },
+  {
+    "ja": "私は山にいました。",
+    "ko": "나는 산에 있었어.",
+    "romanized": "watashihayamaniimashita 。"
+  },
+  {
+    "ja": "それは最近の写真？",
+    "ko": "이 사진 최근 거에요?",
+    "romanized": "sorehasaikinnoshashin ？"
+  },
+  {
+    "ja": "時間があるか分かりません。",
+    "ko": "시간 있는지 잘 모르겠어요.",
+    "romanized": "jikangaarukawakarimasen 。"
+  },
+  {
+    "ja": "この世界の教育にはがっかりしてしまう。",
+    "ko": "이 세상의 교육이 나를 실망시켜요.",
+    "romanized": "konosekainokyouikunihagakkarishiteshimau 。"
+  },
+  {
+    "ja": "私は一日に100ユーロ稼ぎます。",
+    "ko": "저는 하루에 100유로를 법니다.",
+    "romanized": "watashihatsuitachini 100 yuurokasegimasu 。"
+  },
+  {
+    "ja": "それはあなたが一人になりたくないからです。",
+    "ko": "왜냐하면 당신은 혼자가 되고 싶지 않기 때문이에요.",
+    "romanized": "sorehaanatagahitorininaritakunaikaradesu 。"
+  },
+  {
+    "ja": "会えなくて淋しい。",
+    "ko": "보고 싶어.",
+    "romanized": "aenakutesabishii 。"
+  },
+  {
+    "ja": "眠った方がいいよ。",
+    "ko": "당신 좀 자야겠어요.",
+    "romanized": "nemutsutahougaiiyo 。"
+  },
+  {
+    "ja": "行くよ。",
+    "ko": "나는 갈 거에요.",
+    "romanized": "ikuyo 。"
+  },
+  {
+    "ja": "残念ながらそれは本当なのです。",
+    "ko": "유감스럽게도 사실이네요.",
+    "romanized": "zannennagarasorehahontounanodesu 。"
+  },
+  {
+    "ja": "本当？",
+    "ko": "정말이에요?",
+    "romanized": "hontou ？"
+  },
+  {
+    "ja": "起きた時私は悲しかった。",
+    "ko": "일어났을 때 슬펐어.",
+    "romanized": "okitatokiwatashihakanashikatta 。"
+  },
+  {
+    "ja": "孤独な人は、他人を恐れるから一人なのだ。",
+    "ko": "혼자인 사람은 다른 사람들을 두려워하기 때문에 혼자다.",
+    "romanized": "kodokunaninha 、 taninwoosorerukarahitorinanoda 。"
+  },
+  {
+    "ja": "日本へ行けたらいいのに。",
+    "ko": "일본에 갈 수 있었으면 좋겠어요.",
+    "romanized": "nipponheiketaraiinoni 。"
+  },
+  {
+    "ja": "人ごみは大嫌い。",
+    "ko": "사람 많은 게 싫어요.",
+    "romanized": "ningomihadaikirai 。"
+  },
+  {
+    "ja": "私は寝なければなりません。",
+    "ko": "자야겠어요.",
+    "romanized": "watashihanenakerebanarimasen 。"
+  },
+  {
+    "ja": "今日はもう聞かないよ。",
+    "ko": "오늘은 더 이상 물어보지 않겠어요.",
+    "romanized": "konnichihamoukikanaiyo 。"
+  },
+  {
+    "ja": "謝罪はあったにせよ、私はまだ彼に腹を立てている。",
+    "ko": "그가 사과를 했음에도 불구하고, 난 아직 화가 나 있어요.",
+    "romanized": "shazaihaattaniseyo 、 watashihamadakareniharawotateteiru 。"
+  },
+  {
+    "ja": "誰にも分からないよ。",
+    "ko": "아는분이 없을겁니다.",
+    "romanized": "darenimowakaranaiyo 。"
+  },
+  {
+    "ja": "答えが分かったんだ、でもあまりにすぐに分かったものだから正解であるはずがないんだ。",
+    "ko": "해결책을 찾았지만 너무 빨리 찾아서 맞는 답이 아닌거 같습니다.",
+    "romanized": "kotaegawakattanda 、 demoamarinisuguniwakattamonodakaraseikaidearuhazuganainda 。"
+  },
+  {
+    "ja": "何が問題なの？",
+    "ko": "무엇이 문제입니까?",
+    "romanized": "nanigamondainano ？"
+  },
+  {
+    "ja": "愛してる。",
+    "ko": "사랑해요.",
+    "romanized": "itoshiteru 。"
+  },
+  {
+    "ja": "もう何をしたらいいか分からない。",
+    "ko": "더이상 어떻게 해야할지 모르겠어.",
+    "romanized": "mounaniwoshitaraiikawakaranai 。"
+  },
+  {
+    "ja": "いつかフランスに行くことは避けられない、それがいつかは分からないけれど。",
+    "ko": "나는 언젠가는 프랑스에 꼭 가야되는데, 그게 언제인지는 모르겠어.",
+    "romanized": "itsukafuransuniikukotohasakerarenai 、 soregaitsukahawakaranaikeredo 。"
+  },
+  {
+    "ja": "それは誰にでもできるというものではない。",
+    "ko": "아무나 할 수 있는 것이 아닙니다.",
+    "romanized": "sorehadarenidemodekirutoiumonodehanai 。"
+  },
+  {
+    "ja": "みんなあなたに会いたがってる。あなたは有名なのよ！",
+    "ko": "모두가 너를 만나고 싶어해, 너 유명하네!",
+    "romanized": "minnaanataniaitagatteru 。 anatahayuumeinanoyo ！"
+  },
+  {
+    "ja": "何でうまくいかないか君に説明するにはずいぶん時間がかかりそうだ。",
+    "ko": "왜 안되는지 설명할려면 시간 너무 많이 걸리겠다.",
+    "romanized": "nandeumakuikanaikakunnisetsumeisurunihazuibunjikangakakarisouda 。"
+  },
+  {
+    "ja": "どうかしたの？と小さな白いウサギが聞きました。",
+    "ko": "작고 흰 토끼는 무슨 일 있니? 라고 물어봤습니다.",
+    "romanized": " doukashitano ？  tochiisanashiroiusagigakikimashita 。"
+  },
+  {
+    "ja": "これはとてもおもしろそうだねとひろしが言います。",
+    "ko": "히로시는 이것 재미 있을 것 같다고 말한다.",
+    "romanized": " korehatotemoomoshirosoudane  tohiroshigaiimasu 。"
+  },
+  {
+    "ja": "私たちがそこへ行くかどうかを決めるのは君の責任だ。",
+    "ko": "우리가 가든지 안 가든지는 네가 결정해.",
+    "romanized": "watashitachigasokoheikukadoukawokimerunohakunnosekininda 。"
+  },
+  {
+    "ja": "そのことを後悔しながら余生を送りたくない。",
+    "ko": "저는 남은 인생을 그것에 대해 후회하면서 지내고 싶지 않아요.",
+    "romanized": "sonokotowokoukaishinagarayoseiwookuritakunai 。"
+  },
+  {
+    "ja": "私には夢がある。",
+    "ko": "나는 꿈이 있어.",
+    "romanized": "watashinihayumegaaru 。"
+  },
+  {
+    "ja": "驚くこと、不思議に思うことは理解し始めるということなんだ。",
+    "ko": "놀라워 하고, 궁금해 하는 것이 이해의 시작이다.",
+    "romanized": "odorokukoto 、 fushiginiomoukotoharikaishihajimerutoiukotonanda 。"
+  },
+  {
+    "ja": "だが宇宙は無限だ。",
+    "ko": "그러나 우주는 무한하다.",
+    "romanized": "dagauchuuhamugenda 。"
+  },
+  {
+    "ja": "完璧であるには、欠点だけが欠けていた。",
+    "ko": "한가지만 빼면 그녀는 완벽해요.",
+    "romanized": "kanpekidearuniha 、 kettendakegakaketeita 。"
+  },
+  {
+    "ja": "しかし、逆もまた真である。",
+    "ko": "그러나, 그 반대도 또한 항상 진실이다.",
+    "romanized": "shikashi 、 gyakumomatamakotodearu 。"
+  },
+  {
+    "ja": "物事は、ありのまま見るのではなく、自分自身をそこに見る。",
+    "ko": "그 모습 그대로 사물을 보지 않고, 우리 자신의 모습으로 그것을 바라본다.",
+    "romanized": "monogotoha 、 arinomamamirunodehanaku 、 jibunjishinwosokonimiru 。"
+  },
+  {
+    "ja": "世界は奇人の巣だ。",
+    "ko": "이 세상은 미치광이들의 소굴이다",
+    "romanized": "sekaihakijinnosuda 。"
+  },
+  {
+    "ja": "馬鹿みたい！",
+    "ko": "너 멍청하게 보여.",
+    "romanized": "bakamitai ！"
+  },
+  {
+    "ja": "買い物に行かなければならない。一時間で戻るよ。",
+    "ko": "난 쇼핑 가야되요, 한 시간 안에 돌아올게요.",
+    "romanized": "kaimononiikanakerebanaranai 。 ichijikandemodoruyo 。"
+  },
+  {
+    "ja": "イタリアはとても美しい国です。",
+    "ko": "이탈리아는 아주 아름다운 나라입니다.",
+    "romanized": "itariahatotemoutsukushiikunidesu 。"
+  },
+  {
+    "ja": "欲しくないという事は持っていると同じことだ。",
+    "ko": "바라는 것이 없으면 부족함이 없다.",
+    "romanized": "hosshikunaitoiukotohamotsuteirutoonajikotoda 。"
+  },
+  {
+    "ja": "頭痛がする。",
+    "ko": "나 머리 아파.",
+    "romanized": "zutsuugasuru 。"
+  },
+  {
+    "ja": "過去は知られているが変えられない。未来は未知だが変えることができる。",
+    "ko": "과거는 되돌릴 수 없습니다. 미래는 알 수 없는 것이지만 바꿀 수 있는 것입니다.",
+    "romanized": "kakohashirareteirugakaerarenai 。 miraihamichidagakaerukotogadekiru 。"
+  },
+  {
+    "ja": "このような辞書には、冷蔵庫という言葉を使った例文が少なくとも2つは載っているはずだ。",
+    "ko": "이러한 사전에는 냉장고에 대한 적어도 두가지의 예문이 있어야 한다.",
+    "romanized": "konoyounajishoniha 、  reizouko  toiukotobawotsukattareibungasukunakutomo 2 tsuhanotsuteiruhazuda 。"
+  },
+  {
+    "ja": "どこに住んでいますか？",
+    "ko": "어디에 살고 있습니까?",
+    "romanized": "dokonisundeimasuka ？"
+  },
+  {
+    "ja": "明日お会いしたいのですが。",
+    "ko": "내일 뵙고 싶습니다만.",
+    "romanized": "ashitaoaishitainodesuga 。"
+  },
+  {
+    "ja": "無料でそれが得られる。",
+    "ko": "무료로 그것을 얻을 수 있다.",
+    "romanized": "muryoudesoregaerareru 。"
+  },
+  {
+    "ja": "悲しみに暮れるその女性は友人たちに慰められた。",
+    "ko": "슬퍼하는 여자가 친구들에게서 위안을 받았다.",
+    "romanized": "kanashiminikurerusonojoseihayuujintachininagusamerareta 。"
+  },
+  {
+    "ja": "彼女は隣の人の幸運を妬んでいた。",
+    "ko": "그는 이웃주민의 행운을 부러워했다.",
+    "romanized": "kanojohatonarinoninnokouunwotondeita 。"
+  },
+  {
+    "ja": "彼女は気が変わりそうだ。",
+    "ko": "그녀가 마음을 바꿀 것 같다.",
+    "romanized": "kanojohakigakawarisouda 。"
+  },
+  {
+    "ja": "彼女は楽しい夢を見た。",
+    "ko": "그녀는 즐거운 꿈을 꾸었다.",
+    "romanized": "kanojohatanoshiiyumewomita 。"
+  },
+  {
+    "ja": "彼女はまもなく病気から回復するでしょう。",
+    "ko": "그녀는 곧 질병에서 회복할 것입니다.",
+    "romanized": "kanojohamamonakubyoukikarakaifukusurudeshou 。"
+  },
+  {
+    "ja": "彼女は２日前に亡くなった。",
+    "ko": "그녀는 이틀전에 돌아가셨다.",
+    "romanized": "kanojoha ２ nichimaeninakunatta 。"
+  },
+  {
+    "ja": "彼女は１０歳の時まで広島に住んでいた。",
+    "ko": "그녀는 10 살때까지 히로시마에서 살았어요.",
+    "romanized": "kanojoha １０ toshinotokimadehiroshimanisundeita 。"
+  },
+  {
+    "ja": "彼女の視線を背中に感じた。",
+    "ko": "그녀의 시선을 등 뒤에서 느꼈다.",
+    "romanized": "kanojonoshisenwosenakanikanjita 。"
+  },
+  {
+    "ja": "彼らはあきらめなかった。",
+    "ko": "그들은 희망을 버리지 않았다.",
+    "romanized": "karerahaakiramenakatta 。"
+  },
+  {
+    "ja": "彼らは俳優です。",
+    "ko": "그들은 배우입니다.",
+    "romanized": "karerahahaiyuudesu 。"
+  },
+  {
+    "ja": "彼らの我慢も限界だった。",
+    "ko": "그들의 인내심도 한계였다.",
+    "romanized": "kareranogamanmogenkaidatta 。"
+  },
+  {
+    "ja": "彼は問題提起した。",
+    "ko": "그는 문제 (를) 제기했다.",
+    "romanized": "karehamondaiteikishita 。"
+  },
+  {
+    "ja": "彼は早く出発することを勧めた。",
+    "ko": "그는 일찍 출발하는 것을 조언했다.",
+    "romanized": "karehahayakushuppatsusurukotowosusumeta 。"
+  },
+  {
+    "ja": "彼は決して幸福ではなかった。",
+    "ko": "그는 결코 행복하지 않았다.",
+    "romanized": "karehakesshitekoufukudehanakatta 。"
+  },
+  {
+    "ja": "彼は学校にバスで行きます。",
+    "ko": "그는 버스를 타고 학교에 가요.",
+    "romanized": "karehagakkounibasudeikimasu 。"
+  },
+  {
+    "ja": "彼は家の誉れだ。",
+    "ko": "그는 집안의 자랑이다.",
+    "romanized": "karehaienohomareda 。"
+  },
+  {
+    "ja": "彼はフランス語を話すことも書くこともできる。",
+    "ko": "그는 불어로 말하고 쓸 수 있다.",
+    "romanized": "karehafuransugowohanasukotomokakukotomodekiru 。"
+  },
+  {
+    "ja": "彼は８年間フランス語を勉強している。",
+    "ko": "그는 8년동안 불어를 공부하고 있다.",
+    "romanized": "kareha ８ nenkanfuransugowobenkyoushiteiru 。"
+  },
+  {
+    "ja": "彼は８０キロを超えている。",
+    "ko": "그는 80 키로 이상 나간다.",
+    "romanized": "kareha ８０ kirowokoeteiru 。"
+  },
+  {
+    "ja": "彼は７月初めにロンドンへ向かった。",
+    "ko": "그는 7월 초에 런던으로 향했다.",
+    "romanized": "kareha ７ tsukihajimenirondonhemukatta 。"
+  },
+  {
+    "ja": "彼の新しい小説は読む価値がある。",
+    "ko": "그의 새로운 소설은 읽을만한 가치가 있다.",
+    "romanized": "kanoatarashiishousetsuhayomukachigaaru 。"
+  },
+  {
+    "ja": "彼が偉大な芸術家であることははっきりしている。",
+    "ko": "그가 재능있는 예술가인 것은 확실하다.",
+    "romanized": "karegaidainageijutsukadearukotohahakkirishiteiru 。"
+  },
+  {
+    "ja": "彼がいつ戻るか確かではない。",
+    "ko": "그가 언제 돌아올지 확실하지 않다.",
+    "romanized": "karegaitsumodorukatashikadehanai 。"
+  },
+  {
+    "ja": "発音記号が読めますか？",
+    "ko": "발음표시는 읽을 수 있으십니까?",
+    "romanized": "hatsuonkigougayomemasuka ？"
+  },
+  {
+    "ja": "入院する必要がありますか。",
+    "ko": "입원 할 필요가 있습니까?",
+    "romanized": "nyuuinsuruhitsuyougaarimasuka 。"
+  },
+  {
+    "ja": "日本語の話せるスタッフがいますか。",
+    "ko": "일본어를 하는 직원들이 있나요?",
+    "romanized": "nihongonohanaserusutaffugaimasuka 。"
+  },
+  {
+    "ja": "二つのうちどちらか選ばなければならなかった。",
+    "ko": "둘 중에 하나를 선택하지 않으면 안됬다.",
+    "romanized": "futatsunouchidochirakaerabanakerebanaranakatta 。"
+  },
+  {
+    "ja": "大声で泣きながら、女の子は母親を探していた。",
+    "ko": "그 여자애가 큰 소리로 울면서 어머니를 찾고 있었다.",
+    "romanized": "oogoedenakinagara 、 onnanokohahahaoyawosagashiteita 。"
+  },
+  {
+    "ja": "千に百を加えると千百になる。",
+    "ko": "천에 백을 더하면 천백이 된다.",
+    "romanized": "sennihyakuwokuwaerutosenhyakuninaru 。"
+  },
+  {
+    "ja": "絶対にダメだ。",
+    "ko": "절대로 안 된다.",
+    "romanized": "zettainidameda 。"
+  },
+  {
+    "ja": "神が世界を創造した。",
+    "ko": "신이 세상을 창조하였다.",
+    "romanized": "kamigasekaiwosouzoushita 。"
+  },
+  {
+    "ja": "趣味の話になると彼はいつも真剣な顔つきになる。",
+    "ko": "자신의 취미에 대해 이야기 할 때, 그는 항상 진지한 얼굴이 된다.",
+    "romanized": "shuminohanashininarutokarehaitsumoshinkennakaotsukininaru 。"
+  },
+  {
+    "ja": "私達はその植物を数週間詳しく研究した。",
+    "ko": "우리는 그 식물을 몇 주 동안 자세하게 연구했다.",
+    "romanized": "watashitachihasonoshokubutsuwosuushuukankuwashikukenkyuushita 。"
+  },
+  {
+    "ja": "私は兵庫大学の学生です。",
+    "ko": "효고 대학생입니다.",
+    "romanized": "watashihahyougodaigakunogakuseidesu 。"
+  },
+  {
+    "ja": "昨日、映画を見に行きました。",
+    "ko": "저는 어제 영화를 보러 갔습니다.",
+    "romanized": "kinou 、 eigawominiikimashita 。"
+  },
+  {
+    "ja": "私は横浜に住んでいる。",
+    "ko": "나는 요코하마에 살고 있다.",
+    "romanized": "watashihayokohamanisundeiru 。"
+  },
+  {
+    "ja": "私はスケートをしに湖に行った。",
+    "ko": "나는 호수에 스케이트를 타러 갔다.",
+    "romanized": "watashihasukeetowoshinimizuuminiitta 。"
+  },
+  {
+    "ja": "お金が無くなってしまった。",
+    "ko": "난 돈이 다 떨어지고 말았다.",
+    "romanized": "okinganakunatteshimatta 。"
+  },
+  {
+    "ja": "私はいつも忙しい。",
+    "ko": "저는 항상 바빠요.",
+    "romanized": "watashihaitsumoisogashii 。"
+  },
+  {
+    "ja": "私たちは幸福です。",
+    "ko": "저희 행복해요.",
+    "romanized": "watashitachihakoufukudesu 。"
+  },
+  {
+    "ja": "私たちの中で彼の考えに反対してる者はいない。",
+    "ko": "우리 중 아무도 그 사람의 의견에 반대하지 않는다.",
+    "romanized": "watashitachinonakadekanokangaenihantaishiterumonohainai 。"
+  },
+  {
+    "ja": "私が疲れるのは、暑さというよりはむしろ湿度のせいだ。",
+    "ko": "내가 피곤한 건 더워서라기 보다 습해서야.",
+    "romanized": "watashigatsukarerunoha 、 atsusatoiuyorihamushiroshitsudonoseida 。"
+  },
+  {
+    "ja": "今年もよろしくお願いします。",
+    "ko": "올해도 잘 부탁합니다.",
+    "romanized": "konnenmoyoroshikuonegaishimasu 。"
+  },
+  {
+    "ja": "こんにちは、私、ナンシーよ！",
+    "ko": "안녕하세요. 난시입니다.",
+    "romanized": "konnichiha 、 watashi 、 nanshiiyo ！"
+  },
+  {
+    "ja": "行かなければならない。",
+    "ko": "넌 가야 해요.",
+    "romanized": "ikanakerebanaranai 。"
+  },
+  {
+    "ja": "空席はありますか。",
+    "ko": "자리 있어요?",
+    "romanized": "kuusekihaarimasuka 。"
+  },
+  {
+    "ja": "恐れ入りますが、その写真をもう一度みせてください。",
+    "ko": "실례합니다만, 그 사진을 한 번 더 봐주시겠습니까?",
+    "romanized": "osoreirimasuga 、 sonoshashinwomouichidomisetekudasai 。"
+  },
+  {
+    "ja": "給料のほかに、彼は投資からも金が入ってくる。",
+    "ko": "급료와는 별도로, 그는 투자로도 돈을 받았다.",
+    "romanized": "kyuuryounohokani 、 karehatoushikaramokingaitsutsutekuru 。"
+  },
+  {
+    "ja": "外国語の習得には忍耐が必要だ。",
+    "ko": "외국어 습득에는 인내가 필요하다.",
+    "romanized": "gaikokugonoshuutokunihanintaigahitsuyouda 。"
+  },
+  {
+    "ja": "雨が止んだ。",
+    "ko": "비가 그쳤다.",
+    "romanized": "amegayanda 。"
+  },
+  {
+    "ja": "わたしはそうするつもりは無かった。",
+    "ko": "나는 그럴 생각은 없었다.",
+    "romanized": "watashihasousurutsumorihanakatta 。"
+  },
+  {
+    "ja": "わしのメガネはどこにいったんだ？",
+    "ko": "내 안경은 어디 있어요?",
+    "romanized": "washinomeganehadokoniittanda ？"
+  },
+  {
+    "ja": "プエルトリコの位置を地図の上に示しなさい。",
+    "ko": "푸에르토리코의 위치를 지도 위에 보여주세요.",
+    "romanized": "puerutorikonoichiwochizunouenishimeshinasai 。"
+  },
+  {
+    "ja": "パーティーの終わりがけに、まだ病院のことでぶつぶつと何かを言っていたとき、彼は氷のかけらで足を滑らせて、左足を折ってしまった。",
+    "ko": "파티 막바지에 그는 아직도 병원에 대해서 뭔가 중얼거리고 있었는데 얼음 조각에 미끄러 넘어져 왼쪽다리를 부러졌다.",
+    "romanized": "paateiinoowarigakeni 、 madabyouinnokotodebutsubutsutonanikawoitteitatoki 、 karehakoorinokakeradeashiwosuberasete 、 hidariashiwootsuteshimatta 。"
+  },
+  {
+    "ja": "どこへ行きたいの？",
+    "ko": "어디에 가고 싶으세요?",
+    "romanized": "dokoheikitaino ？"
+  },
+  {
+    "ja": "どこに行きたいの？",
+    "ko": "어디에 가고 싶으세요?",
+    "romanized": "dokoniikitaino ？"
+  },
+  {
+    "ja": "どうぞよろしく。",
+    "ko": "만나서 반갑습니다.",
+    "romanized": "douzoyoroshiku 。"
+  },
+  {
+    "ja": "どうして彼は憎まれるのか。",
+    "ko": "어째서 그는 미움을 받는 것인가?",
+    "romanized": "doushitekarehanikumarerunoka 。"
+  },
+  {
+    "ja": "どうして君のお父さんはあの男の正体を見抜いたのかわからない。",
+    "ko": "어떻게 그의 아버지가 저 남자의 정체를 간파한 것인지 알 수 없어요.",
+    "romanized": "doushitekunnootousanhaanootokonoshoutaiwominuitanokawakaranai 。"
+  },
+  {
+    "ja": "それは何ですか。",
+    "ko": "그것은 무엇입니까?",
+    "romanized": "sorehanandesuka 。"
+  },
+  {
+    "ja": "その二つの国が合併する見込みはない。",
+    "ko": "이 두 나라가 연합할 가능성은 없다.",
+    "romanized": "sonofutatsunokunigagappeisurumikomihanai 。"
+  },
+  {
+    "ja": "その男は低い声で話した。",
+    "ko": "그 남자는 작은 목소리로 말했다.",
+    "romanized": "sonootokohahikuikoedehanashita 。"
+  },
+  {
+    "ja": "その仕事を１日で終えるのは私には不可能だ。",
+    "ko": "이 일을 하루만에 끝낸다는 것은 나로서는 불가능하다.",
+    "romanized": "sonoshigotowo １ nichideoerunohawatashinihafukanouda 。"
+  },
+  {
+    "ja": "その会社は去年１０億円の損失を被った。",
+    "ko": "그 회사가 작년에 십억엔의 손실을 보았다.",
+    "romanized": "sonokaishahakyonen １０ okuennosonshitsuwoootsuta 。"
+  },
+  {
+    "ja": "こんにちは、トム。",
+    "ko": "안녕, 톰.",
+    "romanized": "konnichiha 、 tomu 。"
+  },
+  {
+    "ja": "この場所に？",
+    "ko": "여기서요?",
+    "romanized": "konobashoni ？"
+  },
+  {
+    "ja": "コートは掛けてください。",
+    "ko": "코트를 걸어주세요.",
+    "romanized": "kootohakaketekudasai 。"
+  },
+  {
+    "ja": "おはようございます。",
+    "ko": "안녕하세요.",
+    "romanized": "ohayougozaimasu 。"
+  },
+  {
+    "ja": "昨日地震があった。",
+    "ko": "어제 지진이 있었어요.",
+    "romanized": "kinoujishingaatta 。"
+  },
+  {
+    "ja": "最近いつも雨が降っている。",
+    "ko": "최근 항상 비가 오고 있어요.",
+    "romanized": "saikinitsumoamegafutsuteiru 。"
+  },
+  {
+    "ja": "八月に私の彼女と一緒に日本へ行きます。",
+    "ko": "나는 팔월에 여자친구와 함께 일본으로 가갰어요.",
+    "romanized": "hachigatsuniwatashinokanojotoisshoninipponheikimasu 。"
+  },
+  {
+    "ja": "田中さんは試験に合格したようです。",
+    "ko": "다나카 씨는 시험에 합격한 것 같습니다.",
+    "romanized": "tanakasanhashikennigoukakushitayoudesu 。"
+  },
+  {
+    "ja": "あけましておめでとうございます。",
+    "ko": "새해 복 많이 받으세요.",
+    "romanized": "akemashiteomedetougozaimasu 。"
+  },
+  {
+    "ja": "ごめん、愛してる。",
+    "ko": "미안하다 사랑한다.",
+    "romanized": "gomen 、 itoshiteru 。"
+  },
+  {
+    "ja": "こんにちは。",
+    "ko": "안녕하세요.",
+    "romanized": "konnichiha 。"
+  },
+  {
+    "ja": "もしもし。",
+    "ko": "여보세요?",
+    "romanized": "moshimoshi 。"
+  },
+  {
+    "ja": "こんばんは。",
+    "ko": "안녕하세요.",
+    "romanized": "konbanha 。"
+  },
+  {
+    "ja": "例えば、これはペンです。",
+    "ko": "예를 들면, 이것은 펜이다.",
+    "romanized": "tatoeba 、 korehapendesu 。"
+  },
+  {
+    "ja": "私はキムパプを食べたいです。",
+    "ko": "나는 김밥을 먹고 싶어요.",
+    "romanized": "watashihakimupapuwotabetaidesu 。"
+  },
+  {
+    "ja": "雨が降ってるからタクシーに乗りました。",
+    "ko": "비가 내려서 택시를 탔습니다.",
+    "romanized": "amegafutsuterukaratakushiininorimashita 。"
+  },
+  {
+    "ja": "どうしてあなたは嘘をつくの？",
+    "ko": "왜 거짓말을 해요?",
+    "romanized": "doushiteanatahausowotsukuno ？"
+  },
+  {
+    "ja": "女の人は奇麗です。",
+    "ko": "여자들은 아름다워요.",
+    "romanized": "onnanohitohakireidesu 。"
+  },
+  {
+    "ja": "昨日私は本を買いました。",
+    "ko": "어제 저는 책을 샀어요.",
+    "romanized": "kinouwatashihahonwokaimashita 。"
+  },
+  {
+    "ja": "これは中国の扇です。",
+    "ko": "이것은 중국의 부채입니다.",
+    "romanized": "korehachuugokunoougidesu 。"
+  },
+  {
+    "ja": "今日は。",
+    "ko": "안녕하세요.",
+    "romanized": "konnichiha 。"
+  },
+  {
+    "ja": "バターは牛乳から作られる。",
+    "ko": "버터는 우유로 만든다.",
+    "romanized": "bataahagyuunyuukaratsukurareru 。"
+  },
+  {
+    "ja": "火曜日に会いましょう。",
+    "ko": "화요일에 만나요.",
+    "romanized": "kayoubiniaimashou 。"
+  },
+  {
+    "ja": "手に何を持ってるの？",
+    "ko": "너 손에 무엇을 가지고 있니?",
+    "romanized": "teninaniwomotsuteruno ？"
+  },
+  {
+    "ja": "友達は図書館に勉強するために来ます。",
+    "ko": "친구는 도서관에 공부하러 와요",
+    "romanized": "tomodachihatoshokannibenkyousurutamenikimasu 。"
+  },
+  {
+    "ja": "それが起こっていることを信じられない。",
+    "ko": "이런 일이 일어난다니 믿을 수가 없어요.",
+    "romanized": "soregaokotteirukotowoshinjirarenai 。"
+  },
+  {
+    "ja": "怪我で血が流れた。",
+    "ko": "상처에서 피가 흘렀다.",
+    "romanized": "kegadechiganagareta 。"
+  },
+  {
+    "ja": "僕たちは全世界の切手を集める。",
+    "ko": "우리는 전 세계의 우표를 모은다.",
+    "romanized": "bokutachihazensekainokittewoatsumeru 。"
+  },
+  {
+    "ja": "追いかけて来ないでください。",
+    "ko": "따라오지 마세요.",
+    "romanized": "oikaketekonaidekudasai 。"
+  },
+  {
+    "ja": "星は一つも見えなかった。",
+    "ko": "별은 하나도 보이지 않았다.",
+    "romanized": "hoshihahitotsumomienakatta 。"
+  },
+  {
+    "ja": "この本は私のです。",
+    "ko": "이 책은 내 것입니다.",
+    "romanized": "konohonhawatashinodesu 。"
+  },
+  {
+    "ja": "今日は学校に行かない日だ。",
+    "ko": "오늘은 학교에 가지 않는 날이다.",
+    "romanized": "konnichihagakkouniikanainichida 。"
+  },
+  {
+    "ja": "スーザンの料理が立派だ。",
+    "ko": "수잔의 음식 솜씨가 훌륭하다.",
+    "romanized": "suuzannoryourigarippada 。"
+  },
+  {
+    "ja": "あの女の子が大きいな声で鳴きながら母を探していた。",
+    "ko": "그 여자애가 큰 소리로 울면서 어머니를 찾고 있었다.",
+    "romanized": "anoonnanokogaookiinakoedenakinagarahahawosagashiteita 。"
+  },
+  {
+    "ja": "新しいミシンを買った。",
+    "ko": "새로운 재봉틀을 샀다.",
+    "romanized": "atarashiimishinwokatsuta 。"
+  },
+  {
+    "ja": "彼の部屋はいつも整えがよくできっている。",
+    "ko": "그의 방은 언제나 정돈이 잘 되어 있다.",
+    "romanized": "kanoheyahaitsumototonoegayokudekitteiru 。"
+  },
+  {
+    "ja": "私の夢は作家になることです。",
+    "ko": "제꿈은 작가가 되는 것입니다.",
+    "romanized": "watashinoyumehasakkaninarukotodesu 。"
+  },
+  {
+    "ja": "我々の会社は有限会社だ。",
+    "ko": "우리 회사는 유한회사이다.",
+    "romanized": "warewarenokaishahayuugengaishada 。"
+  },
+  {
+    "ja": "このテキストを日本語からフランス語に翻訳してください。",
+    "ko": "이 텍스트를 일본어에서 불어로 번역하시오.",
+    "romanized": "konotekisutowonihongokarafuransugonihonyakushitekudasai 。"
+  },
+  {
+    "ja": "韓国に行きたいんです。",
+    "ko": "한국에 가고 싶어요.",
+    "romanized": "kankokuniikitaindesu 。"
+  },
+  {
+    "ja": "これは安いです。",
+    "ko": "이건 쉬워요.",
+    "romanized": "korehayasuidesu 。"
+  },
+  {
+    "ja": "私は女になりました。",
+    "ko": "저는 여자가 됐어요.",
+    "romanized": "watashihaonnaninarimashita 。"
+  },
+  {
+    "ja": "彼は冗談を全然理解できない。",
+    "ko": "그는 장난을 전혀 이해하지 못한다.",
+    "romanized": "karehajoudanwozenzenrikaidekinai 。"
+  },
+  {
+    "ja": "この学生たちが韓国人だ。",
+    "ko": "이 학생들이 한국사람이다.",
+    "romanized": "konogakuseitachigakankokujinda 。"
+  },
+  {
+    "ja": "母がケーキを作っています。",
+    "ko": "어머니가 케이크를 만들고 계세요.",
+    "romanized": "hahagakeekiwotsukutsuteimasu 。"
+  },
+  {
+    "ja": "彼は初めてヘルスクラブに行ったときには一所懸命だったが、何ヶ月後、まじめな態度を失って、結局、ヘルスクラブを辞めた。",
+    "ko": "그는 처음 헬스클럽에 갔을때는 정말 열심이었지만 몇 달이 지난후 게으름을 피우기 시작했고 결국 관두고 말았다.",
+    "romanized": "karehahajimeteherusukurabuniittatokinihaisshokenmeidattaga 、 nankagetsunochi 、 majimenataidowoutsute 、 kekkyoku 、 herusukurabuwoyameta 。"
+  },
+  {
+    "ja": "卵がまだ熱い。",
+    "ko": "달걀이 아직 뜨겁다.",
+    "romanized": "tamagogamadaatsui 。"
+  },
+  {
+    "ja": "本、注文した？",
+    "ko": "책 주문했어?",
+    "romanized": "hon 、 chuumonshita ？"
+  },
+  {
+    "ja": "僕は死ぬことが怖くないです。",
+    "ko": "전 죽음이 두렵지 않습니다.",
+    "romanized": "bokuhashinukotogakowakunaidesu 。"
+  },
+  {
+    "ja": "銀行の番号を教えてください。",
+    "ko": "계좌 번호를 알려주시면 감사하겠습니다.",
+    "romanized": "ginkounobangouwooshietekudasai 。"
+  },
+  {
+    "ja": "言語を材料に形成される詩は自由な表現力をお勧めている、が、様々な良識手段に依拠する。",
+    "ko": "언어를 재료로 형성되는 시는 자유로운 표현력을 권장하지만 다양한 양식수단에 의거한다.",
+    "romanized": "gengowozairyounikeiseisarerushihajiyuunahyougenryokuwoosusumeteiru 、 ga 、 samazamanaryoushikishudanniikyosuru 。"
+  },
+  {
+    "ja": "私が小さい頃には海に泳ぐために行ったたなあ。",
+    "ko": "내가 어릴 때는 바다에 수영하러 가곤 했었지.",
+    "romanized": "watashigachisaigoronihauminioyogutameniittatanaa 。"
+  },
+  {
+    "ja": "この手紙をおじさんに送りました。",
+    "ko": "이 편지를 할아버지께 보냈습니다.",
+    "romanized": "konotegamiwoojisanniokurimashita 。"
+  },
+  {
+    "ja": "その股間の長さを過小評価した。",
+    "ko": "그 구간의 길이를 과소 평가했다.",
+    "romanized": "sonokokannonagasawokashouhyoukashita 。"
+  },
+  {
+    "ja": "今日、大変な一日を送った。",
+    "ko": "오늘 힘든 하루를 보냈다.",
+    "romanized": "kyou 、 taihennatsuitachiwookutsuta 。"
+  },
+  {
+    "ja": "彼に私が言わなきゃならないか？。",
+    "ko": "그에게 내가 말해야 하나?",
+    "romanized": "kareniwatashigaiwanakyanaranaika ？ 。"
+  },
+  {
+    "ja": "失礼ですが、英語できますが？",
+    "ko": "실례지만 영어 할 줄 아세요?",
+    "romanized": "shitsureidesuga 、 eigodekimasuga ？"
+  },
+  {
+    "ja": "彼はスペイン語だけじゃなく、フランス語もできる。",
+    "ko": "그는 스페인어뿐만 아니라, 프랑스어도 말한다.",
+    "romanized": "karehasupeingodakejanaku 、 furansugomodekiru 。"
+  },
+  {
+    "ja": "残念ながらわたしはあなたの招待をことわるしかありません。",
+    "ko": "유감스럽게도 저는 당신의 초대를 거절해야 합니다.",
+    "romanized": "zannennagarawatashihaanatanoshoutaiwokotowarushikaarimasen 。"
+  },
+  {
+    "ja": "彼女は踊るのが上手だと私は思います。",
+    "ko": "저는 그녀가 춤을 잘 춘다고 생각합니다.",
+    "romanized": "kanojohaodorunogajouzudatowatashihaomoimasu 。"
+  },
+  {
+    "ja": "準備をするためにもっと時間が必要だ。",
+    "ko": "좀더 준비할 시간이 필요해.",
+    "romanized": "junbiwosurutamenimottojikangahitsuyouda 。"
+  },
+  {
+    "ja": "お父さんにそっくりだね。",
+    "ko": "너는 아빠랑 똑같다.",
+    "romanized": "otousannisokkuridane 。"
+  },
+  {
+    "ja": "雨ニモマケズ／風ニモマケズ／雪ニモ夏ノ暑サニモマケヌ／丈夫ナカラダヲモチ／慾ハナク／決シテ瞋ラズ／イツモシズカニワラッテイル",
+    "ko": "비에도 지지 않고, 바람에도 지지 않고, 눈에도 여름의 더위에도 지지 않는 튼튼한 몸을 가지고 결코 화내지 않으면서 언제나 조용히 웃고 있다.",
+    "romanized": "amenimomakezu ／ kazenimomakezu ／ yukinimonatsunoshosanimomakenu ／ joubunakaradawomochi ／ yokuhanaku ／ ketsushiteshinrazu ／ itsumoshizukaniwaratteiru"
+  },
+  {
+    "ja": "中国から来ました。",
+    "ko": "중국에서 왔습니다.",
+    "romanized": "chuugokukarakimashita 。"
+  },
+  {
+    "ja": "こどもたちが自転車に乗っています。",
+    "ko": "아이들이 자전거를 타고 있다.",
+    "romanized": "kodomotachigajitenshaninotteimasu 。"
+  },
+  {
+    "ja": "要は、彼らがあまりに若すぎるということです。",
+    "ko": "요점은 그들이 너무 어리다는 것이다.",
+    "romanized": "youha 、 kareragaamarinimosugirutoiukotodesu 。"
+  },
+  {
+    "ja": "彼らは、その人の中に権威をみています。",
+    "ko": "그들은 그에게서 권위를 보았다.",
+    "romanized": "kareraha 、 sononinnonakaniken ' iwomiteimasu 。"
+  },
+  {
+    "ja": "その子の肯定的な面を見よう。",
+    "ko": "그것의 긍정적인 면을 보자.",
+    "romanized": "sonokonokouteitekinamenwomiyou 。"
+  },
+  {
+    "ja": "彼らは疲れている。",
+    "ko": "그들은 피곤하다.",
+    "romanized": "karerahatsukareteiru 。"
+  },
+  {
+    "ja": "その人は部屋の片側から違う側に歩いた。",
+    "ko": "그는 방 한쪽에서 다른 쪽으로 갔었다.",
+    "romanized": "sononinhaheyanokatagawakarachigaugawaniaruita 。"
+  },
+  {
+    "ja": "わたしも会えて嬉しいよ。",
+    "ko": "나도 만나서 반가워요.",
+    "romanized": "watashimoaeteureshiiyo 。"
+  },
+  {
+    "ja": "トムは衝撃を受けたようだ。",
+    "ko": "톰은 충격을 받은 것 같다.",
+    "romanized": "tomuhashougekiwouketayouda 。"
+  },
+  {
+    "ja": "天に月がある。",
+    "ko": "하늘에 달이 있다.",
+    "romanized": "tennigatsugaaru 。"
+  },
+  {
+    "ja": "ツイッターの理念は“あなたの世界で何が新しいか探し出す方法”である。",
+    "ko": "트위터의 슬로건은 '당신이 사는 세상에서 지금 무슨 일이 일어나고 있는지 알 수 있는 가장 좋은 방법'이다.",
+    "romanized": "tsuittaanorinenha “ anatanosekaidenanigaatarashiikasagashidasuhouhou ” dearu 。"
+  },
+  {
+    "ja": "私は明日の午前6時にチェックアウトします。",
+    "ko": "저는 내일 오전 6시에 체크아웃 하겠습니다.",
+    "romanized": "watashihaashitanogozen 6 tokinichekkuautoshimasu 。"
+  },
+  {
+    "ja": "あの人がそれをわたしにくれたの。",
+    "ko": "그가 그것을 내게 줬어요.",
+    "romanized": "anoningasorewowatashinikuretano 。"
+  },
+  {
+    "ja": "あの人はわたしにその本はおもしろいって言ったの。",
+    "ko": "그는 나에게 그 책은 재미있다고 했어요.",
+    "romanized": "anoninhawatashinisonohonhaomoshiroitteittano 。"
+  },
+  {
+    "ja": "ダムの底に水車小屋があった。",
+    "ko": "댐 밑에 물방앗간이 있었다.",
+    "romanized": "damunosokonisuishagoyagaatta 。"
+  },
+  {
+    "ja": "目上の方々を尊敬するべきだ。",
+    "ko": "어른들을 존경해야한다.",
+    "romanized": "meuenokatagatawosonkeisurubekida 。"
+  },
+  {
+    "ja": "もうわたしはとても年をとったから歩くことが困難だ。",
+    "ko": "이제 나는 너무 늙어서 걷기 어렵다.",
+    "romanized": "mouwatashihatotemonenwotottakaraarukukotogakonnanda 。"
+  },
+  {
+    "ja": "その人は回復する可能性がありません。",
+    "ko": "그는 회복될 가능성이 없습니다.",
+    "romanized": "sononinhakaifukusurukanouseigaarimasen 。"
+  },
+  {
+    "ja": "時をつかまえろ！",
+    "ko": "시간을 잡아라!",
+    "romanized": "tokiwotsukamaero ！"
+  },
+  {
+    "ja": "社会が変化している。",
+    "ko": "사회가 변화하고 있다.",
+    "romanized": "shakaigahenkashiteiru 。"
+  },
+  {
+    "ja": "イスマエルと呼んでください。",
+    "ko": "이스마엘이라고 부르세요.",
+    "romanized": "isumaerutoyondekudasai 。"
+  },
+  {
+    "ja": "幸せな人生を送りたいんです。",
+    "ko": "나는 행복한 삶을 살고 싶어요.",
+    "romanized": "shiawasenajinseiwookuritaindesu 。"
+  },
+  {
+    "ja": "工場の排気ガスが大気を汚染している。",
+    "ko": "공업 배기가스가 공기를 오염시킨다.",
+    "romanized": "koujounohaikigasugataikiwoosenshiteiru 。"
+  },
+  {
+    "ja": "今夜、空には星がとても明るく輝いている。",
+    "ko": "오늘 밤 하늘에는 별들이 아주 밝게 빛나고 있어.",
+    "romanized": "konya 、 soranihahoshigatotemoakarukukagayaiteiru 。"
+  },
+  {
+    "ja": "二人のこどもが塀に座っています。",
+    "ko": "아이 두 명이 담장에 앉아 있어요.",
+    "romanized": "futarinokodomogaheinisuwatsuteimasu 。"
+  },
+  {
+    "ja": "サンタさん、クリスマスのプレゼントに彼女が欲しいです。",
+    "ko": "산타 할아버지, 크리스마스 선물로 여자친구를 받고 싶어요",
+    "romanized": "santasan 、 kurisumasunopurezentonikanojogahoshiidesu 。"
+  },
+  {
+    "ja": "面白い提案だね。ちょっと考慮しよう。",
+    "ko": "재미 있는 제안이야. 그게 좀 고려야겠다.",
+    "romanized": "omoshiroiteiandane 。 chottokouryoshiyou 。"
+  },
+  {
+    "ja": "その人は医者です。",
+    "ko": "그는 의사예요.",
+    "romanized": "sononinhaishadesu 。"
+  },
+  {
+    "ja": "のどが渇いた。",
+    "ko": "난 목이 마르다.",
+    "romanized": "nodogakatsuita 。"
+  },
+  {
+    "ja": "今日宿題すごく多いんだよ。",
+    "ko": "오늘 숙제가 너무 많아요.",
+    "romanized": "kyoushukudaisugokuooindayo 。"
+  },
+  {
+    "ja": "学校行ってくるね。",
+    "ko": "나는 학교에 가요.",
+    "romanized": "gakkouittekurune 。"
+  },
+  {
+    "ja": "この技術の利点って何なのかな？",
+    "ko": "이 기술의 이점은 무엇인가요?",
+    "romanized": "konogijutsunoritenttenaninanokana ？"
+  },
+  {
+    "ja": "はい、そうですね。空気がすごく湿気ってますね。",
+    "ko": "네, 그래요. 공기 중에 습기가 너무 많아요.",
+    "romanized": "hai 、 soudesune 。 kuukigasugokushikkettemasune 。"
+  },
+  {
+    "ja": "別に話が無いなら、挨拶しなくていい。",
+    "ko": "다른 할 말이 없으면, 나한테 인사할 필요가 없어.",
+    "romanized": "betsunihanashiganainara 、 aisatsushinakuteii 。"
+  },
+  {
+    "ja": "私は男を見る。",
+    "ko": "나는 남자를 봐요.",
+    "romanized": "watashihaotokowomiru 。"
+  },
+  {
+    "ja": "私は韓国語を勉強します。",
+    "ko": "저는 한국어를 공부해요.",
+    "romanized": "watashihakankokugowobenkyoushimasu 。"
+  },
+  {
+    "ja": "トーマスは映画を見ています。",
+    "ko": "토마스가 영화를 보고 있어요",
+    "romanized": "toomasuhaeigawomiteimasu 。"
+  },
+  {
+    "ja": "よろしくお願いします！",
+    "ko": "잘 부탁합니다!",
+    "romanized": "yoroshikuonegaishimasu ！"
+  },
+  {
+    "ja": "違います。",
+    "ko": "아닙니다.",
+    "romanized": "chigaimasu 。"
+  },
+  {
+    "ja": "私の犬は大きいです。",
+    "ko": "내 개는 큽니다.",
+    "romanized": "watashinoinuhaookiidesu 。"
+  },
+  {
+    "ja": "私はボートが欲しい。",
+    "ko": "나는 배를 원해요.",
+    "romanized": "watashihabootogahoshii 。"
+  },
+  {
+    "ja": "会社員です。",
+    "ko": "회사원입니다.",
+    "romanized": "kaishaindesu 。"
+  },
+  {
+    "ja": "パスポートを見せてください。",
+    "ko": "여권을 보여 주세요.",
+    "romanized": "pasupootowomisetekudasai 。"
+  },
+  {
+    "ja": "韓国にはどういったご用で来られましたか？",
+    "ko": "한국에는 무슨 일로 오셨습니까?",
+    "romanized": "kankokunihadouittagoyoudekoraremashitaka ？"
+  },
+  {
+    "ja": "ご伝言、うけたまわります。",
+    "ko": "전하실 말씀 있으시면 남겨주세요.",
+    "romanized": "godengon 、 uketamawarimasu 。"
+  },
+  {
+    "ja": "出来れば明日までに帰ります。",
+    "ko": "가능하면 내일까지 돌아갑니다.",
+    "romanized": "dekirebaashitamadenikaerimasu 。"
+  },
+  {
+    "ja": "うちの会社で誰が一番歌がうまい？",
+    "ko": "우리 회사에서 최고의 가수는 누구입니까?",
+    "romanized": "uchinokaishadedaregaichibanutagaumai ？"
+  },
+  {
+    "ja": "うちの会社で、コンピューターの世界に飛び込んだのは彼が最初だ。",
+    "ko": "우리 회사에서 컴퓨터의 세계에 뛰어든 그가 처음이다.",
+    "romanized": "uchinokaishade 、 konpyuutaanosekainitobikondanohakaregasaishoda 。"
+  },
+  {
+    "ja": "好き嫌い言わないで全部食べなさい。",
+    "ko": "좋고 싫음 말하지 전부 먹으십시오.",
+    "romanized": "sukikiraiiwanaidezenbutabenasai 。"
+  },
+  {
+    "ja": "勉強する。",
+    "ko": "공부해요.",
+    "romanized": "benkyousuru 。"
+  },
+  {
+    "ja": "後で友達と一緒に映画を見に行くんだ。",
+    "ko": "나중에 친구랑 같이 영화 보러 갈거다.",
+    "romanized": "atodetomodachitoisshonieigawominiikunda 。"
+  },
+  {
+    "ja": "次の週末に映画館でダイバージェントと言う映画を字幕なしで見るんだ。",
+    "ko": "다음 주말에 영화관에서 디버전트란 액션 영화를 자막 없이 볼거다.",
+    "romanized": "tsuginoshuumatsunieigakandedaibaajientotoiueigawojimakunashidemirunda 。"
+  },
+  {
+    "ja": "映画の中で何が起きるのかは分からないけど、友達が面白いあるんだって。",
+    "ko": "영화에서 뭐가 일어나는지는 모르겠지만 친구들이 재미 있대.",
+    "romanized": "eiganonakadenanigaokirunokahawakaranaikedo 、 tomodachigaomoshiroiarundatte 。"
+  },
+  {
+    "ja": "インターネットによると、非常に興味深いと思います。",
+    "ko": "인터넷에 의하면 대단히 흥미로울 것 같아.",
+    "romanized": "intaanettoniyoruto 、 hijounikyoumibukaitoomoimasu 。"
+  },
+  {
+    "ja": "通常は、映画を見るときポップコーンを食べて、コーラを飲む。だけど、今回は、お菓子を食べるんだ。",
+    "ko": "보통 영화를 볼 때 팝콘이랑 코카콜라를 먹는데 이번엔 사탕을 먹으려해.",
+    "romanized": "tsuujouha 、 eigawomirutokipoppukoonwotabete 、 koorawonomu 。 dakedo 、 konkaiha 、 okashiwotaberunda 。"
+  },
+  {
+    "ja": "知らない。",
+    "ko": "모르겠어.",
+    "romanized": "shiranai 。"
+  },
+  {
+    "ja": "学校へ行く途中でトムに会った。",
+    "ko": "학교에가는 도중에 톰 만났다.",
+    "romanized": "gakkouheikutochuudetomuniatsuta 。"
+  },
+  {
+    "ja": "この店ではちゃんとした身なりをしなさい。",
+    "ko": "이 가게에서는 제대로 된 옷차림을하세요.",
+    "romanized": "konomisedehachantoshitaminariwoshinasai 。"
+  },
+  {
+    "ja": "禁煙席をお願いします。",
+    "ko": "금연석을 부탁드립니다.",
+    "romanized": "kin ' ensekiwoonegaishimasu 。"
+  },
+  {
+    "ja": "いつも、その本を読みたいんです。",
+    "ko": "늘 그 책을 읽고 싶었어요.",
+    "romanized": "itsumo 、 sonohonwoyomitaindesu 。"
+  },
+  {
+    "ja": "いつもそこにばっかり行ってるよ。気分転換にフランス料理の店に行こうよ。",
+    "ko": "항상 거기뿐 가서있어. 기분 전환에 프랑스 요리의 가게에 가자.",
+    "romanized": "itsumosokonibakkariitteruyo 。 kibuntenkannifuransuryourinomiseniikouyo 。"
+  },
+  {
+    "ja": "犬はにおいに敏感だ。",
+    "ko": "개는 냄새에 민감하다.",
+    "romanized": "inuhanioinibinkanda 。"
+  },
+  {
+    "ja": "できればもう帰宅したいのですが。",
+    "ko": "가능하면, 이제 집에 돌아가고 싶습니다.",
+    "romanized": "dekirebamoukitakushitainodesuga 。"
+  },
+  {
+    "ja": "彼女からの返事は納得できないものだった。",
+    "ko": "그녀로의 대답은 납득할 수 없는 것이었다.",
+    "romanized": "kanojokaranohenjihanattokudekinaimonodatta 。"
+  },
+  {
+    "ja": "彼女は私の姉ではなく、母なんです。",
+    "ko": "그녀는 내 언니가 아니라 어머니예요.",
+    "romanized": "kanojohawatashinoanedehanaku 、 hahanandesu 。"
+  },
+  {
+    "ja": "一方の本は薄い、他方は厚い、厚いのは約２００ページある。",
+    "ko": "책 한 권은 얇고, 다른 책은 두껍고, 두꺼운 것은 약 200페이지이다.",
+    "romanized": "ippounohonhausui 、 tahouhaatsui 、 atsuinohayaku ２００ peejiaru 。"
+  },
+  {
+    "ja": "彼が昨日言ったことは、先週言ったことと一貫していない。",
+    "ko": "그게 어제 말한 것은, 지난 주에 말한 것과 일관되지 않는다.",
+    "romanized": "karegakinouittakotoha 、 senshuuittakototoikkanshiteinai 。"
+  },
+  {
+    "ja": "トムは約束を守らないことが多い。",
+    "ko": "톰은 약속을 지키지 않을 때가 많다.",
+    "romanized": "tomuhayakusokuwomamoranaikotogaooi 。"
+  },
+  {
+    "ja": "彼はあそこの土地の所有権がある。",
+    "ko": "그는 그 쪽 땅의 소유권이 있다.",
+    "romanized": "karehaasokonotochinoshoyuukengaaru 。"
+  },
+  {
+    "ja": "あんたと結婚するくらいなら死んだ方がましよ！",
+    "ko": "너랑 결혼 하느니 죽는 게 나아!",
+    "romanized": "antatokekkonsurukurainarashindahougamashiyo ！"
+  },
+  {
+    "ja": "警察は私が車を移動するように求めた。",
+    "ko": "경찰은 내가 차를 이동시킬 것을 요구했다.",
+    "romanized": "keisatsuhawatashigakurumawoidousuruyounimotometa 。"
+  },
+  {
+    "ja": "彼女は私に食べ物をくれた。",
+    "ko": "그녀는 나에게 먹을 것을 주었다.",
+    "romanized": "kanojohawatashinitabemonowokureta 。"
+  },
+  {
+    "ja": "ジムは、昔の彼ではない。",
+    "ko": "짐은 예전의 그가 아니다.",
+    "romanized": "jimuha 、 mukashinokaredehanai 。"
+  },
+  {
+    "ja": "もう行かねばなりません。",
+    "ko": "이제 가지 않으면 안되요.",
+    "romanized": "mouikanebanarimasen 。"
+  },
+  {
+    "ja": "このヨットほど速く走るヨットはない。",
+    "ko": "이 요트만큼 빠른 요트는 없다.",
+    "romanized": "konoyottohodohayakuhashiruyottohanai 。"
+  },
+  {
+    "ja": "ナイル川より長い川は世界中にない。",
+    "ko": "나일강만큼 긴 강은 세상에 없다.",
+    "romanized": "nairukawayorinagaikawahasekaijuuninai 。"
+  },
+  {
+    "ja": "彼女はどんな手紙にも返事を出さない。",
+    "ko": "그녀는 어떤 편지에도 답장을 하지 않는다.",
+    "romanized": "kanojohadonnategaminimohenjiwodasanai 。"
+  },
+  {
+    "ja": "私は明日勉強しなければならない。",
+    "ko": "나는 내일 공부하지 않으면 안돼.",
+    "romanized": "watashihaashitabenkyoushinakerebanaranai 。"
+  },
+  {
+    "ja": "彼が嘘を言っているのは最初からわかっていた。",
+    "ko": "그가 거짓말을 하고 있다는 건 처음부터 알고 있었어.",
+    "romanized": "karegausowoitteirunohasaishokarawakatteita 。"
+  },
+  {
+    "ja": "彼は冗談を言って一晩中私達を楽しませた。",
+    "ko": "그는 농담을 하면서 밤새도록 우리를 즐겁게했다.",
+    "romanized": "karehajoudanwoittehitobanjuuwatashitachiwotanoshimaseta 。"
+  },
+  {
+    "ja": "トムは誠実というより抜け目がない。",
+    "ko": "톰은 성실하다기 보다는 빈틈이 없어.",
+    "romanized": "tomuhaseijitsutoiuyorinukemeganai 。"
+  },
+  {
+    "ja": "昨日水道を止められた。",
+    "ko": "어제 수도가 끊겼다.",
+    "romanized": "kinousuidouwoyamerareta 。"
+  },
+  {
+    "ja": "僕が君の重荷になるんじゃないかと心配なんだ。",
+    "ko": "내가 네게 부담이 되지 않을까 걱정이야.",
+    "romanized": "bokugakunnoomonininarunjanaikatoshinpainanda 。"
+  },
+  {
+    "ja": "その袋は大きかった。おまけに重かった。",
+    "ko": "그 가방은 컸다. 게다가 무거웠다.",
+    "romanized": "sonofukurohaokikatta 。 omakeniomokatta 。"
+  },
+  {
+    "ja": "その箱をひっくりかえさないように注意してくれ。",
+    "ko": "그 상자 뒤엎지 않게 조심해.",
+    "romanized": "sonohakowohikkurikaesanaiyounichuuishitekure 。"
+  },
+  {
+    "ja": "寒くないの？",
+    "ko": "춥지 않니?",
+    "romanized": "samukunaino ？"
+  },
+  {
+    "ja": "ちょっと寒くないですか？",
+    "ko": "조금 춥지 않나요?",
+    "romanized": "chottosamukunaidesuka ？"
+  },
+  {
+    "ja": "今日は昨日ほど寒くない。",
+    "ko": "오늘은 어제만큼 춥지 않다.",
+    "romanized": "konnichihakinouhodosamukunai 。"
+  },
+  {
+    "ja": "半袖で寒くないんですか？",
+    "ko": "반팔인데 춥지 않나요?",
+    "romanized": "hansodedesamukunaindesuka ？"
+  },
+  {
+    "ja": "だんだん寒くなってきている。",
+    "ko": "점점 추워지고 있다.",
+    "romanized": "dandansamukunattekiteiru 。"
+  },
+  {
+    "ja": "また要らないもの買っちゃったよ。",
+    "ko": "또 필요없는 걸 사버렸어.",
+    "romanized": "matairanaimonokatsuchattayo 。"
+  },
+  {
+    "ja": "その話聞いたことある気がする。",
+    "ko": "그 이야기 들어본 적이 있는 것 같아.",
+    "romanized": "sonohanashikiitakotoarukigasuru 。"
+  },
+  {
+    "ja": "今日の晩ごはん何？",
+    "ko": "오늘 저녁밥은 뭐야?",
+    "romanized": "kyounobangohannani ？"
+  },
+  {
+    "ja": "どれくらいの規模の会社なの？",
+    "ko": "어느 정도 규모의 회사야?",
+    "romanized": "dorekurainokibonokaishanano ？"
+  },
+  {
+    "ja": "そんな難しい言葉どこで覚えたの？",
+    "ko": "그런 어려운 말은 어디서 배웠어?",
+    "romanized": "sonnamuzukashiikotobadokodeoboetano ？"
+  },
+  {
+    "ja": "冬休み何日から？",
+    "ko": "겨울방학은 며칠부터야?",
+    "romanized": "fuyuyasuminannichikara ？"
+  },
+  {
+    "ja": "何の話？",
+    "ko": "무슨 얘기 중이야?",
+    "romanized": "nannohanashi ？"
+  },
+  {
+    "ja": "いま暇？",
+    "ko": "지금 한가해?",
+    "romanized": "imahima ？"
+  },
+  {
+    "ja": "新聞どこ？",
+    "ko": "신문 어딨어?",
+    "romanized": "shinbundoko ？"
+  },
+  {
+    "ja": "寝てるの？",
+    "ko": "자고 있어?",
+    "romanized": "neteruno ？"
+  },
+  {
+    "ja": "今の音何？",
+    "ko": "지금 이 소리는 뭐지?",
+    "romanized": "imanootonani ？"
+  },
+  {
+    "ja": "あ、雪だ！",
+    "ko": "와, 눈이다!",
+    "romanized": "a 、 yukida ！"
+  },
+  {
+    "ja": "忘れ物ない？",
+    "ko": "잃어버린 거 없어?",
+    "romanized": "wasuremononai ？"
+  },
+  {
+    "ja": "何に使うの？",
+    "ko": "뭐에 쓰려고?",
+    "romanized": "naninitsukauno ？"
+  },
+  {
+    "ja": "急いで！",
+    "ko": "서둘러!",
+    "romanized": "isoide ！"
+  },
+  {
+    "ja": "静かに！",
+    "ko": "조용히 해!",
+    "romanized": "shizukani ！"
+  },
+  {
+    "ja": "何買ったの？",
+    "ko": "뭐 샀어?",
+    "romanized": "nanikatsutano ？"
+  },
+  {
+    "ja": "これトムの？",
+    "ko": "이거 톰 꺼야?",
+    "romanized": "koretomuno ？"
+  },
+  {
+    "ja": "何見てるの？",
+    "ko": "뭘 보고 있어?",
+    "romanized": "nanimiteruno ？"
+  },
+  {
+    "ja": "雨降ってる？",
+    "ko": "비와?",
+    "romanized": "afuritteru ？"
+  },
+  {
+    "ja": "私何歳に見える？",
+    "ko": "나 몇 살로 보여?",
+    "romanized": "watashinansainimieru ？"
+  },
+  {
+    "ja": "今好きな人いる？",
+    "ko": "지금 좋아하는 사람 있어?",
+    "romanized": "imasukinaniniru ？"
+  },
+  {
+    "ja": "私の鍵知らない？",
+    "ko": "내 열쇠 못봤어?",
+    "romanized": "watashinokagishiranai ？"
+  },
+  {
+    "ja": "もう11時だよ。",
+    "ko": "벌써 11시야.",
+    "romanized": "mou 11 tokidayo 。"
+  },
+  {
+    "ja": "この歌知ってる？",
+    "ko": "이 노래 알아?",
+    "romanized": "konoutashitteru ？"
+  },
+  {
+    "ja": "ここよく来るの？",
+    "ko": "여기 자주 와?",
+    "romanized": "kokoyokukuruno ？"
+  },
+  {
+    "ja": "無理しないでね。",
+    "ko": "너무 무리하지는 마.",
+    "romanized": "murishinaidene 。"
+  },
+  {
+    "ja": "待たせてごめん。",
+    "ko": "기다리게 해서 미안.",
+    "romanized": "matasetegomen 。"
+  },
+  {
+    "ja": "コート脱いだら？",
+    "ko": "코트 벗지 그래?",
+    "romanized": "kootonuidara ？"
+  },
+  {
+    "ja": "みんな眠くないの？",
+    "ko": "다들 졸리지 않아?",
+    "romanized": "minnanemukunaino ？"
+  },
+  {
+    "ja": "トムから返事来た？",
+    "ko": "톰한테 답장 왔어?",
+    "romanized": "tomukarahenjikita ？"
+  },
+  {
+    "ja": "出口はどこですか？",
+    "ko": "출구는 어디예요?",
+    "romanized": "deguchihadokodesuka ？"
+  },
+  {
+    "ja": "理由聞いてもいい？",
+    "ko": "이유를 물어봐도 돼?",
+    "romanized": "riyuukiitemoii ？"
+  },
+  {
+    "ja": "電話借りてもいい？",
+    "ko": "전화기 좀 빌려도 돼?",
+    "romanized": "denwakaritemoii ？"
+  },
+  {
+    "ja": "電気消してもいい？",
+    "ko": "불 좀 꺼도 돼?",
+    "romanized": "denkikeshitemoii ？"
+  },
+  {
+    "ja": "なんで知ってるの？",
+    "ko": "어째서 알고 있는 거야?",
+    "romanized": "nandeshitteruno ？"
+  },
+  {
+    "ja": "なんでそう思うの？",
+    "ko": "왜 그렇게 생각해?",
+    "romanized": "nandesouomouno ？"
+  },
+  {
+    "ja": "試験頑張ってね。",
+    "ko": "시험 잘쳐.",
+    "romanized": "shikenganbatsutene 。"
+  },
+  {
+    "ja": "もっと早く来てくれたらよかったのに。",
+    "ko": "좀 더 빨리 와주었다면 좋았을 걸.",
+    "romanized": "mottohayakukitekuretarayokattanoni 。"
+  },
+  {
+    "ja": "どうしたの？鍵がない何の鍵？自転車の鍵",
+    "ko": "무슨 일이야? 열쇠가 없어. 무슨 열쇠? 자전거 열쇠..",
+    "romanized": " doushitano ？   kagiganai   nannokagi ？   jitenshanokagi "
+  },
+  {
+    "ja": "今日はずいぶん冷えるのに。",
+    "ko": "오늘은 꽤 쌀쌀한 걸.",
+    "romanized": "konnichihazuibunhierunoni 。"
+  },
+  {
+    "ja": "お邪魔してすみません。",
+    "ko": "방해해서 죄송합니다.",
+    "romanized": "ojamashitesumimasen 。"
+  },
+  {
+    "ja": "無意味なことに人生を浪費するな。",
+    "ko": "쓸데없는 일에 인생을 허비하지 말아라.",
+    "romanized": "muiminakotonijinseiworouhisuruna 。"
+  },
+  {
+    "ja": "天気が悪くてもひとつくらい良いことはある。日記を書いていられるし、スペイン語のレベルアップもできそうだ。",
+    "ko": "날씨가 나빠도 장점 하나는 있지, 일기쓰기를 계속할 수 있고 스페인어 수준도 끌어올릴 수 있겠다.",
+    "romanized": "tenkigawarukutemohitotsukuraiyoikotohaaru 。 nikkiwokaiteirarerushi 、 supeingonoreberuappumodekisouda 。"
+  },
+  {
+    "ja": "ごめんって言ったじゃん。",
+    "ko": "미안하다고 했잖아.",
+    "romanized": "gomentteittajan 。"
+  },
+  {
+    "ja": "心配しすぎないで。大丈夫だよ。",
+    "ko": "너무 걱정하지 마. 잘될거야.",
+    "romanized": "shinpaishisuginaide 。 daijoubudayo 。"
+  },
+  {
+    "ja": "ちょっと着替えてくるね。",
+    "ko": "옷 좀 갈아입고 올게.",
+    "romanized": "chottokigaetekurune 。"
+  },
+  {
+    "ja": "お金忘れないでね。",
+    "ko": "돈 잊지말고 챙겨가.",
+    "romanized": "okinwasurenaidene 。"
+  },
+  {
+    "ja": "はあ、泣きそう。",
+    "ko": "아, 울 것 같아.",
+    "romanized": "haa 、 nakisou 。"
+  },
+  {
+    "ja": "雨やんだかな？やんでるといいね",
+    "ko": "비가 그친 걸까? 그치면 좋겠네..",
+    "romanized": " ameyandakana ？   yanderutoiine "
+  },
+  {
+    "ja": "明日雨降らないといいな。",
+    "ko": "내일 비가 안오면 좋겠는데.",
+    "romanized": "ashitaamefuranaitoiina 。"
+  },
+  {
+    "ja": "なんで嘘ついたの？",
+    "ko": "왜 거짓말했어?",
+    "romanized": "nandeusotsuitano ？"
+  },
+  {
+    "ja": "トムが怒ってるの見たことある？",
+    "ko": "톰이 화내는 거 본 적 있어?",
+    "romanized": "tomugaikatsuterunomitakotoaru ？"
+  },
+  {
+    "ja": "トムが眼鏡外したとこ見たことある？",
+    "ko": "톰이 안경 벗은 거 본 적 있어?",
+    "romanized": "tomugameganehazushitatokomitakotoaru ？"
+  },
+  {
+    "ja": "傘持ってないの？ 入れてあげよっか？",
+    "ko": "우산 안 들고 왔어? 같이 쓰고 갈래?",
+    "romanized": "kasamotsutenaino ？ ireteageyokka ？"
+  },
+  {
+    "ja": "こんにちは。お久しぶりです。",
+    "ko": "안녕하세요. 오랫만입니다.",
+    "romanized": "konnichiha 。 ohisashiburidesu 。"
+  },
+  {
+    "ja": "家族の皆さんはお元気？",
+    "ko": "가족들은 모두 건강하고?",
+    "romanized": "kazokunominasanhaogenki ？"
+  },
+  {
+    "ja": "最近は海外へ行く学生が増えている。",
+    "ko": "요즘 해외여행 가는 학생들이 늘고 있다.",
+    "romanized": "saikinhakaigaiheikugakuseigafueteiru 。"
+  },
+  {
+    "ja": "お願い、泣かないで。",
+    "ko": "울지마, 부탁해.",
+    "romanized": "onegai 、 nakanaide 。"
+  },
+  {
+    "ja": "お願いしたいことがあるのですが。",
+    "ko": "부탁하고 싶은 게 있는데요.",
+    "romanized": "onegaishitaikotogaarunodesuga 。"
+  },
+  {
+    "ja": "あのう、お願いがあるんですが。",
+    "ko": "저기, 부탁이 있는데요.",
+    "romanized": "anou 、 onegaigaarundesuga 。"
+  },
+  {
+    "ja": "疑ってごめん。",
+    "ko": "의심해서 미안.",
+    "romanized": "utagatsutegomen 。"
+  },
+  {
+    "ja": "昨夜はごめん。",
+    "ko": "어젯밤 일은 미안해.",
+    "romanized": "sakuyahagomen 。"
+  },
+  {
+    "ja": "昨日はごめんね。",
+    "ko": "어제 일은 미안해.",
+    "romanized": "kinouhagomenne 。"
+  },
+  {
+    "ja": "ごめん間違えた。",
+    "ko": "미안, 실수했어.",
+    "romanized": "gomenmachigaeta 。"
+  },
+  {
+    "ja": "発音悪くてごめん。",
+    "ko": "발음이 나빠서 미안해.",
+    "romanized": "hatsuonwarukutegomen 。"
+  },
+  {
+    "ja": "怖がらせてごめん。",
+    "ko": "무섭게 해서 미안해.",
+    "romanized": "kowagarasetegomen 。"
+  },
+  {
+    "ja": "説明下手でごめんね。",
+    "ko": "설명이 별로라서 미안해.",
+    "romanized": "setsumeihetadegomenne 。"
+  },
+  {
+    "ja": "傷つけたならごめん。",
+    "ko": "상처줬다면 미안해.",
+    "romanized": "kizutsuketanaragomen 。"
+  },
+  {
+    "ja": "ごめん、名前何だっけ？",
+    "ko": "미안, 이름이 뭐였지?",
+    "romanized": "gomen 、 namaenandakke ？"
+  },
+  {
+    "ja": "ほんとにごめんなさい！",
+    "ko": "정말 미안해요.",
+    "romanized": "hontonigomennasai ！"
+  },
+  {
+    "ja": "ごめん、お釣りが無い。",
+    "ko": "미안, 잔돈이 없어.",
+    "romanized": "gomen 、 otsuriganai 。"
+  },
+  {
+    "ja": "遅刻してごめんなさい。",
+    "ko": "늦어서 죄송합니다.",
+    "romanized": "chikokushitegomennasai 。"
+  },
+  {
+    "ja": "雪が大好きです。",
+    "ko": "나는 눈이 정말 좋아요.",
+    "romanized": "yukigadaisukidesu 。"
+  },
+  {
+    "ja": "読書が大好きです。",
+    "ko": "책읽는 거 좋아해요.",
+    "romanized": "dokushogadaisukidesu 。"
+  },
+  {
+    "ja": "僕は犬が大好きです。",
+    "ko": "저는 강아지가 정말 좋아요.",
+    "romanized": "bokuhainugadaisukidesu 。"
+  },
+  {
+    "ja": "私も音楽が大好きです。",
+    "ko": "저도 음악을 좋아합니다.",
+    "romanized": "watashimoongakugadaisukidesu 。"
+  },
+  {
+    "ja": "授業に関係のないものは鞄の中にしまってください。",
+    "ko": "수업과 관련없는 것들은 가방에 넣어 주세요.",
+    "romanized": "jugyounikankeinonaimonohakabannonakanishimattekudasai 。"
+  },
+  {
+    "ja": "ちょっとお金下ろしてくるね。",
+    "ko": "돈 좀 찾아올게.",
+    "romanized": "chottookinkudaroshitekurune 。"
+  },
+  {
+    "ja": "危ない、車来てるよ！",
+    "ko": "위험해, 차온다!",
+    "romanized": "abunai 、 kurumakiteruyo ！"
+  },
+  {
+    "ja": "あったかいとこ行こう。",
+    "ko": "따뜻한 곳에 가자.",
+    "romanized": "attakaitokoikou 。"
+  },
+  {
+    "ja": "ビールお注ぎしましょうか？",
+    "ko": "맥주를 따라드릴까요?",
+    "romanized": "biiruososogishimashouka ？"
+  },
+  {
+    "ja": "今いくら持ってる？ごめん、財布持ってきてない",
+    "ko": "지금 얼마 있어? 미안, 지갑 안들고 왔어..",
+    "romanized": " imaikuramotsuteru ？   gomen 、 saifumotsutekitenai "
+  },
+  {
+    "ja": "写真もっと撮ればよかったな。",
+    "ko": "사진을 더 찍었으면 좋았을 텐데.",
+    "romanized": "shashinmottotorebayokattana 。"
+  },
+  {
+    "ja": "安心しなさい。",
+    "ko": "안심하세요.",
+    "romanized": "anshinshinasai 。"
+  },
+  {
+    "ja": "安いようでした。",
+    "ko": "싼 것 같았습니다.",
+    "romanized": "yasuiyoudeshita 。"
+  },
+  {
+    "ja": "安全運転しなさい。",
+    "ko": "안전운전하세요.",
+    "romanized": "anzen ' untenshinasai 。"
+  },
+  {
+    "ja": "もう少し安くならない？",
+    "ko": "좀 더 싸게는 안돼?",
+    "romanized": "mousukoshiyasukunaranai ？"
+  },
+  {
+    "ja": "生は難しく、死は安い。",
+    "ko": "사는 것은 어렵고, 죽는 것은 쉽다.",
+    "romanized": "namahamuzukashiku 、 shihayasui 。"
+  },
+  {
+    "ja": "それ聞いて安心したよ。",
+    "ko": "그걸 듣고 안심했어.",
+    "romanized": "sorekiiteanshinshitayo 。"
+  },
+  {
+    "ja": "このカメラは安いです。",
+    "ko": "이 카메라는 쌉니다.",
+    "romanized": "konokamerahayasuidesu 。"
+  },
+  {
+    "ja": "財布をなくしたの。",
+    "ko": "지갑을 잃어버렸어.",
+    "romanized": "saifuwonakushitano 。"
+  },
+  {
+    "ja": "鼻が詰まった。",
+    "ko": "코가 막혔다.",
+    "romanized": "hanagatsumatta 。"
+  },
+  {
+    "ja": "価格を値引きする店もあります。",
+    "ko": "가격을 깎아주는 가게도 있습니다.",
+    "romanized": "kakakuwonebikisurumisemoarimasu 。"
+  },
+  {
+    "ja": "フランスパンは美味しい。",
+    "ko": "프랑스 빵은 맛있어.",
+    "romanized": "furansupanhaoishii 。"
+  },
+  {
+    "ja": "トムはパソコンに詳しい。",
+    "ko": "톰은 컴퓨터에 대해 잘 알아.",
+    "romanized": "tomuhapasokonnikuwashii 。"
+  },
+  {
+    "ja": "男の子はパンを食べます。",
+    "ko": "소년은 빵을 먹습니다.",
+    "romanized": "otokonokohapanwotabemasu 。"
+  },
+  {
+    "ja": "トムはりんごの芯をゴミ箱に捨てた。",
+    "ko": "톰은 사과 심을 쓰레기통에 버렸다.",
+    "romanized": "tomuharingonoshinwogomihakonisuteta 。"
+  },
+  {
+    "ja": "週末はどこかへいきたいなあ。",
+    "ko": "주말에 어디론가 가고 싶다.",
+    "romanized": "shuumatsuhadokokaheikitainaa 。"
+  },
+  {
+    "ja": "私には双子の姉がいる。",
+    "ko": "내게는 쌍둥이 언니가 있다.",
+    "romanized": "watashinihafutagonoanegairu 。"
+  },
+  {
+    "ja": "願いは一つだけ。",
+    "ko": "부탁은 하나뿐.",
+    "romanized": "negaihahitotsudake 。"
+  },
+  {
+    "ja": "一つだけ約束してほしい。",
+    "ko": "하나만 약속해 줘.",
+    "romanized": "hitotsudakeyakusokushitehoshii 。"
+  },
+  {
+    "ja": "この近くに薬局はありますか？",
+    "ko": "이 근처에 약국 있어요?",
+    "romanized": "konochikakuniyakkyokuhaarimasuka ？"
+  },
+  {
+    "ja": "雨が降りそう。",
+    "ko": "비가 올 것 같아.",
+    "romanized": "amegaorisou 。"
+  },
+  {
+    "ja": "オーブン熱いから火傷しないようにね。",
+    "ko": "오븐이 뜨거우니까 화상입지 않게 조심해.",
+    "romanized": "oobunatsuikarayakedoshinaiyounine 。"
+  },
+  {
+    "ja": "頭が痛いです。",
+    "ko": "머리가 아파요.",
+    "romanized": "atamagaitaidesu 。"
+  },
+  {
+    "ja": "私の子どもたちは動物が大好きです。",
+    "ko": "우리 애들은 동물을 정말 좋아해요.",
+    "romanized": "watashinokodomotachihadoubutsugadaisukidesu 。"
+  },
+  {
+    "ja": "私のルームメイトは中国語を習っています。",
+    "ko": "내 룸메이트는 중국어를 공부하고 있어요.",
+    "romanized": "watashinoruumumeitohachuugokugowonaratsuteimasu 。"
+  },
+  {
+    "ja": "飲みたいです。",
+    "ko": "마시고 싶어요.",
+    "romanized": "nomitaidesu 。"
+  },
+  {
+    "ja": "男の子は水を飲んでいます。",
+    "ko": "소년이 물을 마시고 있어요.",
+    "romanized": "otokonokohamizuwonondeimasu 。"
+  },
+  {
+    "ja": "なんでやねん！",
+    "ko": "뭐라카노!",
+    "romanized": "nandeyanen ！"
+  },
+  {
+    "ja": "日本は気候が穏やかである。",
+    "ko": "일본은 기후가 온화하다.",
+    "romanized": "nipponhakikougaodayakadearu 。"
+  },
+  {
+    "ja": "それは高価ではない。",
+    "ko": "이것은 안비싸다",
+    "romanized": "sorehakoukadehanai 。"
+  },
+  {
+    "ja": "元気？",
+    "ko": "잘 지냈어？.",
+    "romanized": "genki ？"
+  },
+  {
+    "ja": "彼は開業医をやっている。",
+    "ko": "그는 개업의이다.",
+    "romanized": "karehakaigyouiwoyatteiru 。"
+  },
+  {
+    "ja": "私は傘をなくした。",
+    "ko": "나는 우산을 잃어버렸다.",
+    "romanized": "watashihakasawonakushita 。"
+  },
+  {
+    "ja": "私は今空港にいます。",
+    "ko": "나는 지금 공항에 있습니다.",
+    "romanized": "watashihaimakuukouniimasu 。"
+  },
+  {
+    "ja": "空港はすぐ近くにあります。",
+    "ko": "공항은 아주 가까이 있습니다.",
+    "romanized": "kuukouhasuguchikakuniarimasu 。"
+  },
+  {
+    "ja": "その本を郵便でお送りします。",
+    "ko": "그 책을 우편으로 보낼게요.",
+    "romanized": "sonohonwoyuubindeookurishimasu 。"
+  },
+  {
+    "ja": "彼女はトイレにいます。",
+    "ko": "그녀는 화장실에 있어요.",
+    "romanized": "kanojohatoireniimasu 。"
+  },
+  {
+    "ja": "明晩、成田空港へ行く。",
+    "ko": "내일 저녁에 나리타 공항에 간다.",
+    "romanized": "myouban 、 naritakuukouheiku 。"
+  },
+  {
+    "ja": "空港はどこですか？",
+    "ko": "공항은 어디에 있습니까?",
+    "romanized": "kuukouhadokodesuka ？"
+  },
+  {
+    "ja": "持っています。",
+    "ko": "가지고 있읍니다",
+    "romanized": "motsuteimasu 。"
+  },
+  {
+    "ja": "お待ちください。",
+    "ko": "기다리세요",
+    "romanized": "omachikudasai 。"
+  },
+  {
+    "ja": "すべてしましたか？",
+    "ko": "다 했읍니까?",
+    "romanized": "subeteshimashitaka ？"
+  },
+  {
+    "ja": "エアコンがないんですか。",
+    "ko": "에어컨이 없나요?",
+    "romanized": "eakonganaindesuka 。"
+  },
+  {
+    "ja": "明日の朝6時にモーニングコールをお願いします。",
+    "ko": "내일 아침 6시에 모닝콜 부탁합니다.",
+    "romanized": "ashitanoasa 6 tokinimooningukooruwoonegaishimasu 。"
+  },
+  {
+    "ja": "宿泊施設を捜しています。",
+    "ko": "숙박 시설을 찾고 있습니다.",
+    "romanized": "shukuhakushisetsuwosagashiteimasu 。"
+  },
+  {
+    "ja": "スポーツが好きです。",
+    "ko": "스포츠를 좋아해요.",
+    "romanized": "supootsugasukidesu 。"
+  },
+  {
+    "ja": "僕は右利きです。",
+    "ko": "나는 오른손잡이다.",
+    "romanized": "bokuhamigikikidesu 。"
+  },
+  {
+    "ja": "ここではタバコを吸ってはいけません。",
+    "ko": "여기서는 담배를 피우면 안 됩니다.",
+    "romanized": "kokodehatabakowosutsutehaikemasen 。"
+  },
+  {
+    "ja": "私は食べたことがありません。",
+    "ko": "저는 먹은 것이 없습니다.",
+    "romanized": "watashihatabetakotogaarimasen 。"
+  },
+  {
+    "ja": "答えた。",
+    "ko": "대답했다.",
+    "romanized": "kotaeta 。"
+  },
+  {
+    "ja": "誰でも答えない。",
+    "ko": "아무도 대답하지 않는다.",
+    "romanized": "daredemokotaenai 。"
+  },
+  {
+    "ja": "誰かが答えた。",
+    "ko": "누군가가 대답했다.",
+    "romanized": "darekagakotaeta 。"
+  },
+  {
+    "ja": "トムは答えた。",
+    "ko": "톰은 대답했다.",
+    "romanized": "tomuhakotaeta 。"
+  },
+  {
+    "ja": "家族は大切だ。",
+    "ko": "가족은 소중하다.",
+    "romanized": "kazokuhataisetsuda 。"
+  },
+  {
+    "ja": "きみにちょっとしたものをもってきたよ。",
+    "ko": "너를 위해 별것 아닌 것을 들고 왔어.",
+    "romanized": "kiminichottoshitamonowomottekitayo 。"
+  },
+  {
+    "ja": "あいつの息の根を止めてやる。",
+    "ko": "그 녀석의 숨통을 끊어주지.",
+    "romanized": "aitsunoikinonewotometeyaru 。"
+  },
+  {
+    "ja": "それだけ北朝鮮は（中国も）狡猾なんです。",
+    "ko": "그 정도로 북한은 (중국도) 교활한 겁니다.",
+    "romanized": "soredakekitachousenha （ chuugokumo ） koukatsunandesu 。"
+  },
+  {
+    "ja": "死にたい。",
+    "ko": "죽고 싶어.",
+    "romanized": "shinitai 。"
+  },
+  {
+    "ja": "早く死にたい。",
+    "ko": "당장 죽고 싶어.",
+    "romanized": "hayakushinitai 。"
+  },
+  {
+    "ja": "退屈で死にそう。",
+    "ko": "심심해서 죽을 것 같아.",
+    "romanized": "taikutsudeshinisou 。"
+  },
+  {
+    "ja": "なんで死にたいの？",
+    "ko": "어째서 죽고 싶은데?",
+    "romanized": "nandeshinitaino ？"
+  },
+  {
+    "ja": "死にたいくらいだ。",
+    "ko": "죽고 싶을 정도다.",
+    "romanized": "shinitaikuraida 。"
+  },
+  {
+    "ja": "まだ死にたくない。",
+    "ko": "아직 죽고 싶지 않아.",
+    "romanized": "madashinitakunai 。"
+  },
+  {
+    "ja": "彼は死にかけていた。",
+    "ko": "그는 죽어가고 있었다.",
+    "romanized": "karehashinikaketeita 。"
+  },
+  {
+    "ja": "彼は死刑に処せられた。",
+    "ko": "그는 사형에 처해졌다.",
+    "romanized": "karehashikeinishoserareta 。"
+  },
+  {
+    "ja": "九死に一生を得ました。",
+    "ko": "구사일생으로 살았다.",
+    "romanized": "kyuushiniisshouwoemashita 。"
+  },
+  {
+    "ja": "食べないと死にますよ。",
+    "ko": "먹지 않으면 죽는다고요.",
+    "romanized": "tabenaitoshinimasuyo 。"
+  },
+  {
+    "ja": "トムは死にかけていた。",
+    "ko": "톰은 죽어가고 있었다.",
+    "romanized": "tomuhashinikaketeita 。"
+  },
+  {
+    "ja": "法廷は彼を死刑に処した。",
+    "ko": "법정은 그를 사형에 처했다.",
+    "romanized": "houteihakarewoshikeinishoshita 。"
+  },
+  {
+    "ja": "その男は死にかけていた。",
+    "ko": "그 남자는 죽어가고 있었다.",
+    "romanized": "sonootokohashinikaketeita 。"
+  },
+  {
+    "ja": "肉体は死すべきものである。",
+    "ko": "육체는 죽을지어다.",
+    "romanized": "nikutaihashisubekimonodearu 。"
+  },
+  {
+    "ja": "死にたいとか簡単に言うなよ。",
+    "ko": "죽고 싶다던가 말로 하지 마.",
+    "romanized": "shinitaitokakantanniiunayo 。"
+  },
+  {
+    "ja": "老人が一人、道路で死んでいた。",
+    "ko": "노인이 한 명, 도로에서 죽어 가고 있었다.",
+    "romanized": "roujingahitori 、 dourodeshindeita 。"
+  },
+  {
+    "ja": "死ぬことより苦痛に耐えることの方がもっと勇気がいる。",
+    "ko": "죽는 일보다 고통 받는 일이 더 많은 용기를 필요로 한다.",
+    "romanized": "shinukotoyorikutsuunitaerukotonohougamottoyuukigairu 。"
+  },
+  {
+    "ja": "息を止めてください。",
+    "ko": "숨을 멈춰 주세요.",
+    "romanized": "ikiwotometekudasai 。"
+  },
+  {
+    "ja": "このピアノ何年調律してないんだろうね。",
+    "ko": "이 피아노 몇 년이고 조율을 안 했나 보네.",
+    "romanized": "konopianonannenchouritsushitenaindaroune 。"
+  },
+  {
+    "ja": "すべての人間は、生まれながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。",
+    "ko": "모든 人間은 태어날 때부터 自由로우며 그 尊嚴과 權利에 있어 同等하다. 人間은 天賦的으로 理性과 良心을 賦與받았으며 서로 兄弟愛의 精神으로 行動하여야 한다.",
+    "romanized": "subetenoningenha 、 umarenagaranishitejiyuudeari 、 katsu 、 songentokenritonitsuitebyoudoudearu 。 ningenha 、 riseitoryoushintowosazukerareteori 、 tagainidouhounoseishinwomottekoudoushinakerebanaranai 。"
+  },
+  {
+    "ja": "お前はもう死んでいる！",
+    "ko": "넌 이미 죽었어!",
+    "romanized": "omaehamoushindeiru ！"
+  },
+  {
+    "ja": "私は俸給に満足している。",
+    "ko": "나는 봉급에 만족하고 있다.",
+    "romanized": "watashihahoukyuunimanzokushiteiru 。"
+  },
+  {
+    "ja": "私たちは、顧客の満足のために最善を尽くしている。",
+    "ko": "우리는 고객의 만족을 위해서 최선을 다한다.",
+    "romanized": "watashitachiha 、 kokyakunomanzokunotamenisaizenwotsukushiteiru 。"
+  },
+  {
+    "ja": "猫はパンを食べる。",
+    "ko": "고양이는 빵을 먹는다.",
+    "romanized": "nekohapanwotaberu 。"
+  },
+  {
+    "ja": "全部が美味しいですよ！",
+    "ko": "전부가 맛있어요!",
+    "romanized": "zenbugaoishiidesuyo ！"
+  },
+  {
+    "ja": "あそこを見て。",
+    "ko": "저기 봐.",
+    "romanized": "asokowomite 。"
+  },
+  {
+    "ja": "息子だ、娘だ？",
+    "ko": "아들이야, 딸이야?",
+    "romanized": "musukoda 、 musumeda ？"
+  },
+  {
+    "ja": "天気が悪くて飛行機が延着した。",
+    "ko": "날씨가 나빠서, 비행기가 연착되었다.",
+    "romanized": "tenkigawarukutehikoukigaenchakushita 。"
+  },
+  {
+    "ja": "万一彼が来たら、この書類を渡して欲しい。",
+    "ko": "만일 그가 오면, 이 서류를 건네줘.",
+    "romanized": "man ' ichikaregakitara 、 konoshoruiwowatashitehoshii 。"
+  },
+  {
+    "ja": "もう一本くれと彼が言った。",
+    "ko": "한 병 더. 그가 말했다.",
+    "romanized": " mouipponkure  tokaregaitta 。"
+  },
+  {
+    "ja": "私は絵のことはよくわからないが、この筆のタッチはすごいと思う。",
+    "ko": "나는 그림에 대해서는 잘 모르지만, 이 붓놀림은 대단한 것 같애.",
+    "romanized": "watashihaenokotohayokuwakaranaiga 、 konofudenotatchihasugoitoomou 。"
+  },
+  {
+    "ja": "トムはフィギュアスケートを習っている。",
+    "ko": "톰은 피겨스케이트를 연습하고 있다.",
+    "romanized": "tomuhafigiyuasukeetowonaratsuteiru 。"
+  },
+  {
+    "ja": "帰りにスーパーで卵買ってきて。",
+    "ko": "돌아올 때 슈퍼마켓에서 계란 사 와.",
+    "romanized": "kaerinisuupaadetamagokatsutekite 。"
+  },
+  {
+    "ja": "彼はまったく他人の気持ちを尊重しないの。",
+    "ko": "그는 전혀 타인의 기분을 존중하지 않는거야.",
+    "romanized": "karehamattakutaninnokimochiwosonchoushinaino 。"
+  },
+  {
+    "ja": "僕の母はカナダ人です。",
+    "ko": "제 엄마는 캐나다인입니다.",
+    "romanized": "bokunohahahakanadanindesu 。"
+  },
+  {
+    "ja": "昨夜はどこにいたの？",
+    "ko": "어젯밤엔 어디에 있었니?",
+    "romanized": "sakuyahadokoniitano ？"
+  },
+  {
+    "ja": "たった今シャワーを浴びていた。",
+    "ko": "방금 샤워하고 있었어.",
+    "romanized": "tattaimashawaawoabiteita 。"
+  },
+  {
+    "ja": "どうしたらいいんだろう？",
+    "ko": "어쩌면 좋을까?",
+    "romanized": "doushitaraiindarou ？"
+  },
+  {
+    "ja": "この荷物をオーストラリアに送りたいんですけど。",
+    "ko": "이 화물을 호주로 보내고싶은데요.",
+    "romanized": "kononimotsuwooosutorarianiokuritaindesukedo 。"
+  },
+  {
+    "ja": "彼の住所を忘れてしまった。",
+    "ko": "그의 주소를 잊어버렸다.",
+    "romanized": "kanojuushowowasureteshimatta 。"
+  },
+  {
+    "ja": "バッグが一つ見あたらない。",
+    "ko": "가방이 하나 안 보인다.",
+    "romanized": "baggugahitotsumiataranai 。"
+  },
+  {
+    "ja": "違うよ、新しい彼じゃない。",
+    "ko": "아니야, 새 남자친구가 아니야.",
+    "romanized": "chigauyo 、 atarashiikarejanai 。"
+  },
+  {
+    "ja": "この写真のわたしは１５歳だ。",
+    "ko": "이 사진의 나는 15살이다.",
+    "romanized": "konoshashinnowatashiha １５ toshida 。"
+  },
+  {
+    "ja": "ちょっと、一体この騒ぎは何？",
+    "ko": "이봐, 일체의 소동은 뭐야?",
+    "romanized": "chotto 、 ittaikonosawagihanani ？"
+  },
+  {
+    "ja": "オペレーターは電話を切って少し待つよう私に言った。",
+    "ko": "교환원은 전화를 끊고 조금만 기다리라고 나에게 말했다.",
+    "romanized": "opereetaahadenwawokitsutesukoshimatsuyouwatashiniitta 。"
+  },
+  {
+    "ja": "毎日新しい何かを学ぶものだ。",
+    "ko": "매일 새로운 무언가를 배우는 법이다.",
+    "romanized": "mainichiatarashiinanikawomanabumonoda 。"
+  },
+  {
+    "ja": "オレンジはたくさんのビタミンＣを含んでいる。",
+    "ko": "오렌지는 많은 비타민C를 함유하고 있다.",
+    "romanized": "orenjihatakusannobitamin wofukundeiru 。"
+  },
+  {
+    "ja": "病院に行ったんだ。",
+    "ko": "병원에 갔다.",
+    "romanized": "byouinniittanda 。"
+  },
+  {
+    "ja": "どの方向にトムは行きましたか？",
+    "ko": "어느 방향으로 톰이 갔습니까?",
+    "romanized": "donohoukounitomuhaikimashitaka ？"
+  },
+  {
+    "ja": "トムは昨日フランス語を勉強した？",
+    "ko": "톰은 어제 프랑스어를 공부했어?",
+    "romanized": "tomuhakinoufuransugowobenkyoushita ？"
+  },
+  {
+    "ja": "君に届けてほしいメッセージがあるんだ。",
+    "ko": "너에게 전해주고싶은 메시지가 있어.",
+    "romanized": "kunnitodoketehoshiimesseejigaarunda 。"
+  },
+  {
+    "ja": "締め切りは今日の2時半です。",
+    "ko": "마감은 오늘 2시 반입니다.",
+    "romanized": "shimekirihakyouno 2 jihandesu 。"
+  },
+  {
+    "ja": "ギフトショップはどこですか？",
+    "ko": "기프트샵은 어디입니까?",
+    "romanized": "gifutoshoppuhadokodesuka ？"
+  },
+  {
+    "ja": "トムは今日の夕方コンサートに行きます。",
+    "ko": "톰은 오늘 저녁 콘서트에 갑니다.",
+    "romanized": "tomuhakyounoyuugatakonsaatoniikimasu 。"
+  },
+  {
+    "ja": "やさしい英語で書かれているので、この本は読みやすい。",
+    "ko": "쉬운 영어로 쓰여져있어서, 이 책은 읽기가 쉽다.",
+    "romanized": "yasashiieigodekakareteirunode 、 konohonhayomiyasui 。"
+  },
+  {
+    "ja": "君たちはオーストリアのどこで育ったの？",
+    "ko": "너희들은 호주 어디에서 자랐니?",
+    "romanized": "kuntachihaoosutorianodokodesodatsutano ？"
+  },
+  {
+    "ja": "彼女は彼に辞めるよう圧力をかけた。",
+    "ko": "그녀는 그에게 그만두라고 압력을 가했다.",
+    "romanized": "kanojohakareniyameruyouatsuryokuwokaketa 。"
+  },
+  {
+    "ja": "他に何か知りたいことはある？",
+    "ko": "그 밖에 뭔가 알고 싶은거 있어?",
+    "romanized": "hokaninanikashiritaikotohaaru ？"
+  },
+  {
+    "ja": "彼がすぐに良くなるように、心から願っています。",
+    "ko": "그가 곧 좋아지기를, 진심으로 바랍니다.",
+    "romanized": "karegasuguniyokunaruyouni 、 kokorokaranegatsuteimasu 。"
+  },
+  {
+    "ja": "私はよく本を読みます。",
+    "ko": "저는 자주 책을 읽습니다.",
+    "romanized": "watashihayokuhonwoyomimasu 。"
+  },
+  {
+    "ja": "彼はあした来るかな。",
+    "ko": "그는 내일 오려나.",
+    "romanized": "karehaashitakurukana 。"
+  },
+  {
+    "ja": "確かに彼は利口な少年だ。",
+    "ko": "확실히 그는 영리한 소년이다.",
+    "romanized": "tashikanikareharikounashounenda 。"
+  },
+  {
+    "ja": "あなたは朝食にマフィンを食べている。",
+    "ko": "너는 아침밥으로 머핀을 먹고 있다.",
+    "romanized": "anatahachoushokunimafinwotabeteiru 。"
+  },
+  {
+    "ja": "小学校のときから、酸性・アルカリ性という性質をリトマス紙で調べたりしてきていますね。",
+    "ko": "초등학교 때부터, 산성, 알칼리성이라고 하는 성질을 리트머스지로 조사해오고 있죠.",
+    "romanized": "shougakkounotokikara 、 sansei . arukariseitoiuseishitsuworitomasukamideshirabetarishitekiteimasune 。"
+  },
+  {
+    "ja": "彼は妻と子供たちに２度と会うことはなかった。",
+    "ko": "그는 아내와 자식들을 두번다시 만나지 못했다.",
+    "romanized": "karehatsumatokodomotachini ２ dotoaukotohanakatta 。"
+  },
+  {
+    "ja": "我々はみんなのために戦った。",
+    "ko": "우리는 모두를 위해 싸웠다.",
+    "romanized": "warewarehaminnanotamenitatakatsuta 。"
+  },
+  {
+    "ja": "生徒の数がだんだん減ってきた。",
+    "ko": "학생 수가 점점 줄기 시작했다.",
+    "romanized": "seitonokazugadandanhetsutekita 。"
+  },
+  {
+    "ja": "彼女は料理をするのに慣れている。",
+    "ko": "그녀는 요리하는데 익숙하다.",
+    "romanized": "kanojoharyouriwosurunoninareteiru 。"
+  },
+  {
+    "ja": "放っておきなさいよ。",
+    "ko": "내버려 둬요.",
+    "romanized": "houtsutsuteokinasaiyo 。"
+  },
+  {
+    "ja": "私はその午前中ずっと手紙を書いていました。",
+    "ko": "저는 그날 오전 내내 편지를 쓰고 있었어요.",
+    "romanized": "watashihasonogozenchuuzuttotegamiwokaiteimashita 。"
+  },
+  {
+    "ja": "あなたが必要なんです。",
+    "ko": "당신이 필요해요.",
+    "romanized": "anatagahitsuyounandesu 。"
+  },
+  {
+    "ja": "すみません、貴方を起こしてしまいましたね。",
+    "ko": "죄송합니다, 당신을 깨워버렸네요.",
+    "romanized": "sumimasen 、 anatawookoshiteshimaimashitane 。"
+  },
+  {
+    "ja": "ジョージは旅行にかかる費用を計算した。",
+    "ko": "조지는 여행에 드는 비용을 계산했다.",
+    "romanized": "joojiharyokounikakaruhiyouwokeisanshita 。"
+  },
+  {
+    "ja": "バッグを盗まれました。",
+    "ko": "가방을 도난당했어요.",
+    "romanized": "bagguwonusumaremashita 。"
+  },
+  {
+    "ja": "彼は商才にたけている。",
+    "ko": "그는 상재가 뛰어나다.",
+    "romanized": "karehashousainitaketeiru 。"
+  },
+  {
+    "ja": "メアリーに話し相手はいないが、彼女は寂しいと思っていない。",
+    "ko": "메리에게 말동무는 없지만, 그녀는 쓸쓸하다고 생각하지 않는다.",
+    "romanized": "meariinihanashiaitehainaiga 、 kanojohasabishiitoomotteinai 。"
+  },
+  {
+    "ja": "彼女は買い物に行った。",
+    "ko": "그녀는 장보러 갔다.",
+    "romanized": "kanojohakaimononiitta 。"
+  },
+  {
+    "ja": "腰に強い痛みがあるんです。",
+    "ko": "허리에 강한 통증이 있어요.",
+    "romanized": "koshinitsuyoiitamigaarundesu 。"
+  },
+  {
+    "ja": "トムは何年もフランス語を勉強した。",
+    "ko": "톰은 몇 년간 프랑스어를 공부했다.",
+    "romanized": "tomuhanannenmofuransugowobenkyoushita 。"
+  },
+  {
+    "ja": "ニューヨークは私が以前から訪れたいと思っていた都市の一つです。",
+    "ko": "뉴욕은 제가 이전부터 가보고 싶다고 생각했던 도시 중 하나입니다.",
+    "romanized": "nyuuyookuhawatashigaizenkaraotozuretaitoomotteitatoshinohitotsudesu 。"
+  },
+  {
+    "ja": "私は週末までに済まさなければならない仕事がたくさんある。",
+    "ko": "나는 주말까지 마치지 않으면 안될 일이 많이 있다.",
+    "romanized": "watashihashuumatsumadenisumasanakerebanaranaishigotogatakusan ' aru 。"
+  },
+  {
+    "ja": "彼の話からその見聞の広さがうかがわれた。",
+    "ko": "그의 말에서 그 견문의 넓이가 엿보였다.",
+    "romanized": "kanohanashikarasonokenbunnohirosagaukagawareta 。"
+  },
+  {
+    "ja": "両親は無理に私をそこへ行かせた。",
+    "ko": "부모님은 억지로 나를 그곳에 가게했다.",
+    "romanized": "ryoushinhamuriniwatashiwosokoheikaseta 。"
+  },
+  {
+    "ja": "あの、私、残念ですが小用が御座いますので、この辺りで失礼致しますね。",
+    "ko": "저, 제가, 죄송합니다만 작은 볼 일이 있어서, 이 근처에 실례하겠습니다.",
+    "romanized": "ano 、 watashi 、 zannendesugashouyougagozaimasunode 、 konoatarideshitsureiitashimasune 。"
+  },
+  {
+    "ja": "彼は私の引っ越しを手伝ってくれた。",
+    "ko": "그는 내 이사를 도와줬다.",
+    "romanized": "karehawatashinohikkoshiwotetsudatsutekureta 。"
+  },
+  {
+    "ja": "彼は頭に傷を負った。",
+    "ko": "그는 머리에 상처를 입었다.",
+    "romanized": "karehaatamanikizuwootsuta 。"
+  },
+  {
+    "ja": "あなたは疲れているので、休んだ方がよい。",
+    "ko": "너는 피곤하기 때문에, 쉬는 편이 좋다.",
+    "romanized": "anatahatsukareteirunode 、 yasundahougayoi 。"
+  },
+  {
+    "ja": "オーストラリアには何年いらしたんですか？3年です",
+    "ko": ";오스트레일리아에는 몇 년 계셨습니까?' '3년입니다'.",
+    "romanized": " oosutorarianihanannenirashitandesuka ？   3 nendesu "
+  },
+  {
+    "ja": "あの政治家は職権乱用で国民の反感を買った。",
+    "ko": "저 정치가는 직권 남용으로 국민들의 반감을 샀다.",
+    "romanized": "anoseijikahashokkenranyoudekokuminnohankanwokatsuta 。"
+  },
+  {
+    "ja": "毎日朝と夜、猫に餌を与えています。",
+    "ko": "매일 아침밤, 고양이에게 먹이를 주고 있습니다.",
+    "romanized": "mainichiasatoyoru 、 nekoniesawoataeteimasu 。"
+  },
+  {
+    "ja": "宇宙旅行はもはや夢ではない。",
+    "ko": "우주여행은 이제 꿈이 아니다.",
+    "romanized": "uchuuryokouhamohayayumedehanai 。"
+  },
+  {
+    "ja": "車を貸していただけませんか。",
+    "ko": "차를 빌려주시겠습니까?",
+    "romanized": "kurumawokashiteitadakemasenka 。"
+  },
+  {
+    "ja": "誰も私達をコントロールできない。",
+    "ko": "아무도 우리를 컨트롤할 수 없어.",
+    "romanized": "daremowatashitachiwokontoroorudekinai 。"
+  },
+  {
+    "ja": "森に行ったら、人喰い鬼に気をつけてください！",
+    "ko": "숲에 가면, 식인 요괴를 조심하세요!",
+    "romanized": "moriniittara 、 hitokuioninikiwotsuketekudasai ！"
+  },
+  {
+    "ja": "私はやむなく行った。",
+    "ko": "나는 부득이하게 갔다.",
+    "romanized": "watashihayamunakuitta 。"
+  },
+  {
+    "ja": "洋子はみんながびっくりするような優雅さで踊った。",
+    "ko": "요코는 모두가 놀랄 만한 우아함으로 춤을 췄다.",
+    "romanized": "youkohaminnagabikkurisuruyounayuugasadeodotsuta 。"
+  },
+  {
+    "ja": "先生は生徒の間違いに気付いた。",
+    "ko": "선생님은 학생의 잘못을 깨달았다.",
+    "romanized": "senseihaseitonomachigainikizuita 。"
+  },
+  {
+    "ja": "たまには家に帰ってらっしゃい。",
+    "ko": "이따금씩은 집에 돌아오세요.",
+    "romanized": "tamanihaienikaetsuterasshai 。"
+  },
+  {
+    "ja": "トムは金庫を開けてパスポートを取り出した。",
+    "ko": "톰은 금고를 열고 여권을 꺼냈다.",
+    "romanized": "tomuhakinkowohiraketepasupootowotoridashita 。"
+  },
+  {
+    "ja": "彼女は７時に起床します。",
+    "ko": "그녀는 7시에 일어납니다.",
+    "romanized": "kanojoha ７ tokinikishoushimasu 。"
+  },
+  {
+    "ja": "トムにはユーモアのセンスがない。",
+    "ko": "톰은 유머감각이 없다.",
+    "romanized": "tomunihayuumoanosensuganai 。"
+  },
+  {
+    "ja": "土曜日って、何か予定ある？",
+    "ko": "토요일에는, 뭔가 예정 있어?",
+    "romanized": "doyoubitte 、 nanikayoteiaru ？"
+  },
+  {
+    "ja": "そうだ！",
+    "ko": "그래!",
+    "romanized": "souda ！"
+  },
+  {
+    "ja": "オレンジ・ジュースをください。",
+    "ko": "오렌지주스로 주세요.",
+    "romanized": "orenji . juusuwokudasai 。"
+  },
+  {
+    "ja": "だれも電話に出ませんでした。",
+    "ko": "아무도 전화를 받지 않았습니다.",
+    "romanized": "daremodenwanidemasendeshita 。"
+  },
+  {
+    "ja": "昨日は早く起きました。",
+    "ko": "어제는 일찍 일어났어요.",
+    "romanized": "kinouhahayakuokimashita 。"
+  },
+  {
+    "ja": "さあね。",
+    "ko": "글쎄.",
+    "romanized": "saane 。"
+  },
+  {
+    "ja": "幸せって何なんだろう？",
+    "ko": "행복이란 무엇인걸까?",
+    "romanized": "shiawasettenaninandarou ？"
+  },
+  {
+    "ja": "幸福って何？",
+    "ko": "행복이 뭐야?",
+    "romanized": "koufukuttenani ？"
+  },
+  {
+    "ja": "幸せって何だろう？",
+    "ko": "행복이란 뭘까?",
+    "romanized": "shiawasettenandarou ？"
+  },
+  {
+    "ja": "幸せって何だっけ？",
+    "ko": "행복이란 뭘까나?",
+    "romanized": "shiawasettenandakke ？"
+  },
+  {
+    "ja": "空港にはいつ着くの？",
+    "ko": "공항엔 언제 도착해?",
+    "romanized": "kuukounihaitsutsukuno ？"
+  },
+  {
+    "ja": "ひさしぶりだね。",
+    "ko": "오랜만이네.",
+    "romanized": "hisashiburidane 。"
+  },
+  {
+    "ja": "ひさしぶりだね。また転職したんだって？",
+    "ko": "오랜만이네. 또 이직했다며?",
+    "romanized": "hisashiburidane 。 matatenshokushitandatte ？"
+  },
+  {
+    "ja": "独学で税理士試験に合格出来るでしょうか。",
+    "ko": "독학으로 회계사시험에 합격하는 것이 가능할런지요?",
+    "romanized": "dokugakudezeirishishikennigoukakudekirudeshouka 。"
+  },
+  {
+    "ja": "突然長女が飴がほしいと言い出しました。",
+    "ko": "갑자기 큰딸이 사탕줘라고 말해버렸답니다.",
+    "romanized": "totsuzenchoujoga  amegahoshii  toiidashimashita 。"
+  },
+  {
+    "ja": "ふっ、禁断の魔術とやらは、俺には通用しないぜ！",
+    "ko": "훗, 금단의 마법따위는 나에겐 안통한다!",
+    "romanized": "futsu 、 kindannomajutsutoyaraha 、 orenihatsuuyoushinaize ！"
+  },
+  {
+    "ja": "ここに麻薬はないよ。",
+    "ko": "여기에 마약은 없어.",
+    "romanized": "kokonimayakuhanaiyo 。"
+  },
+  {
+    "ja": "２の２倍は４です。",
+    "ko": "2곱하기2는 4입니다.",
+    "romanized": "２ no ２ baiha ４ desu 。"
+  },
+  {
+    "ja": "俺、何歳に見える？",
+    "ko": "내가 몇 살로 보이냐?",
+    "romanized": "ore 、 nansainimieru ？"
+  },
+  {
+    "ja": "この時計いくらですか？",
+    "ko": "이 시계 얼마예요?",
+    "romanized": "konotokeiikuradesuka ？"
+  },
+  {
+    "ja": "トムは26歳で結婚した。",
+    "ko": "톰은 26살 때 결혼했다.",
+    "romanized": "tomuha 26 toshidekekkonshita 。"
+  },
+  {
+    "ja": "みんな鉛筆持ってる？",
+    "ko": "모두 연필 갖고 있어?",
+    "romanized": "minnaenpitsumotsuteru ？"
+  },
+  {
+    "ja": "許して下さい。",
+    "ko": "용서해 주세요.",
+    "romanized": "yurushitekudasai 。"
+  },
+  {
+    "ja": "僕はトムとは違う。",
+    "ko": "난 톰이랑 달라.",
+    "romanized": "bokuhatomutohachigau 。"
+  },
+  {
+    "ja": "トムが謝ることじゃないよ。私が勝手にトムのこと好きになっただけなんだから。",
+    "ko": "톰이 미안해할 건 없어. 내가 멋대로 톰을 좋아하게 된 것 뿐이니까.",
+    "romanized": "tomugaayamarukotojanaiyo 。 watashigakattenitomunokotosukininattadakenandakara 。"
+  },
+  {
+    "ja": "二人ともこんなところで何してるの？",
+    "ko": "너희 둘 다 이런 곳에서 뭐하는 거야?",
+    "romanized": "futaritomokonnatokorodenanishiteruno ？"
+  },
+  {
+    "ja": "すみません、スープに髪の毛が入っていたんですけど。",
+    "ko": "죄송한데, 스프에 머리카락이 들어 있던데요.",
+    "romanized": "sumimasen 、 suupunikaminokegaitsutsuteitandesukedo 。"
+  },
+  {
+    "ja": "なんでそんな不味そうに食べるの？",
+    "ko": "왜 그렇게 맛없게 먹어?",
+    "romanized": "nandesonnafumisounitaberuno ？"
+  },
+  {
+    "ja": "卵いくつ買った？",
+    "ko": "계란 얼마나 샀어?",
+    "romanized": "tamagoikutsukatsuta ？"
+  },
+  {
+    "ja": "家を持ってますか？",
+    "ko": "집 있어요?",
+    "romanized": "iewomotsutemasuka ？"
+  },
+  {
+    "ja": "眠いからもう寝るね。",
+    "ko": "졸리니까 이제 잘게.",
+    "romanized": "nemuikaramounerune 。"
+  },
+  {
+    "ja": "トムは黒い眼鏡をかけている。",
+    "ko": "톰은 검은 안경을 쓰고 있다.",
+    "romanized": "tomuhakuroimeganewokaketeiru 。"
+  },
+  {
+    "ja": "こんなに時間がかかるとは思っていなかった。",
+    "ko": "이렇게 시간이 걸릴 줄은 몰랐어.",
+    "romanized": "konnanijikangakakarutohaomotteinakatta 。"
+  },
+  {
+    "ja": "こんなにかかるとは思っていなかった。",
+    "ko": "이렇게 오래 걸릴 줄은 몰랐어.",
+    "romanized": "konnanikakarutohaomotteinakatta 。"
+  },
+  {
+    "ja": "日本にはペンギンを飼っている人がいるらしい。",
+    "ko": "일본에는 펭귄을 키우는 사람이 있대.",
+    "romanized": "nipponnihapenginwokatsuteiruningairurashii 。"
+  },
+  {
+    "ja": "パスポートは持った？",
+    "ko": "여권 있어?",
+    "romanized": "pasupootohamotsuta ？"
+  },
+  {
+    "ja": "パスポートをお持ちですか。",
+    "ko": "여권 있습니까?",
+    "romanized": "pasupootowoomochidesuka 。"
+  },
+  {
+    "ja": "違う！",
+    "ko": "아니야!",
+    "romanized": "chigau ！"
+  },
+  {
+    "ja": "違います！",
+    "ko": "아니에요!",
+    "romanized": "chigaimasu ！"
+  },
+  {
+    "ja": "泣かないでよ。泣かれたらこっちまで泣きたくなっちゃうじゃん。",
+    "ko": "울지 마. 울면 나마저도 울고 싶어지잖아.",
+    "romanized": "nakanaideyo 。 nakaretarakotchimadenakitakunatchaujan 。"
+  },
+  {
+    "ja": "今だから言えるけど、一時期トムのこと大嫌いだったんだ。",
+    "ko": "지금이라 말할 수 있는 건데, 한때 톰이 엄청 싫었어.",
+    "romanized": "imadakaraierukedo 、 ichijikitomunokotodaikiraidattanda 。"
+  },
+  {
+    "ja": "こんな時間にごめんね。声聞きたくて電話しちゃった。",
+    "ko": "이런 늦은 시간에 미안해. 목소리 듣고 싶어서 전화를 걸어버렸네.",
+    "romanized": "konnajikannigomenne 。 shoumonkitakutedenwashichatta 。"
+  },
+  {
+    "ja": "そんなにトムが好きなら私と別れてトムと付き合えば？",
+    "ko": "그렇게 톰이 좋으면 나랑 헤어지고 톰이랑 사귀는 게 어때?",
+    "romanized": "sonnanitomugasukinarawatashitowakaretetomutotsukiaeba ？"
+  },
+  {
+    "ja": "そういえば、こないだなくしたって言ってた傘、見つかった？",
+    "ko": "그나저나, 전에 잃어버렸다던 우산 찾았어?",
+    "romanized": "souieba 、 konaidanakushitatteittetakasa 、 mitsukatta ？"
+  },
+  {
+    "ja": "今何時だと思ってんの？ こんな時間までどこ行ってたの？",
+    "ko": "지금 몇시라고 생각하는 거야? 이런 늦은 시각까지 어디 있었던 거야?",
+    "romanized": "imananjidatoomottenno ？ konnajikanmadedokoittetano ？"
+  },
+  {
+    "ja": "顔色悪いけど大丈夫？ 病院行った方がいいんじゃない？",
+    "ko": "안색이 안좋아 보이는데 괜찮아? 병원 가봐야 하는 편이 좋지 않을까?",
+    "romanized": "kaoirowaruikedodaijoubu ？ byouinittahougaiinjanai ？"
+  },
+  {
+    "ja": "顔色悪いけど大丈夫？病院に行った方がいいんじゃない？",
+    "ko": "안색이 안좋아 보이는데 괜찮아? 병원 가봐야 하는 편이 좋지 않을까?",
+    "romanized": "kaoirowaruikedodaijoubu ？ byouinniittahougaiinjanai ？"
+  },
+  {
+    "ja": "トムには言わないでね。心配かけたくないから。",
+    "ko": "톰한테는 얘기하지 말아 줘. 걱정시키고 싶진 않으니까.",
+    "romanized": "tomunihaiwanaidene 。 shinpaikaketakunaikara 。"
+  },
+  {
+    "ja": "フランス語で愛してるってどう言うんですか？",
+    "ko": "프랑스어로 사랑해를 어떻게 말하나요?",
+    "romanized": "furansugode  itoshiteru  ttedouiundesuka ？"
+  },
+  {
+    "ja": "愛してるってフランス語でなんていうの？",
+    "ko": "사랑해를 프랑스어로 어떻게 말해?",
+    "romanized": " itoshiteru  ttefuransugodenanteiuno ？"
+  },
+  {
+    "ja": "日本でのツイッター人気の理由の一つは日本語という言語の特性にある。表意文字を使う日本語は、中国語には敵わないものの、他の多くの言語に比べて140字に多くの内容を盛り込むことができる。ちなみにこの例文の日本語版はちょうど140字で書かれているのだが、他の言語では何字になるだろうか？",
+    "ko": "일본에서 트위터가 인기 있는 이유 중 하나는 일본어라는 언어의 특성에 있다. 표의문자를 쓰는 일본어는 중국어에는 비할 바가 못되지만, 다른 많은 언어들과 비교하면 140자 안에 많은 내용을 담을 수 있다. 덧붙여서 말하면 이 일본어 버전의 예문은 마침 140자로 쓰여 있는데, 다른 언어라면 몇 글자가 될 것일까?",
+    "romanized": "nippondenotsuittaaninkinoriyuunohitotsuhanihongotoiugengonotokuseiniaru 。 hyouimojiwotsukaunihongoha 、 chuugokugonihakanawanaimonono 、 hokanoookunogengonikurabete 140 jiniookunonaiyouwomorikomukotogadekiru 。 chinaminikonoreibunnonihongobanhachoudo 140 jidekakareteirunodaga 、 hokanogengodehananijininarudarouka ？"
+  },
+  {
+    "ja": "イヌとは対照的に、ネコはごく最近になって飼いならされたものである。",
+    "ko": "개와는 대조적으로, 고양이는 최근이 되어서야 길들여졌다.",
+    "romanized": "inutohataishoutekini 、 nekohagokusaikinninattekainarasaretamonodearu 。"
+  },
+  {
+    "ja": "私たちは１８歳で高校を卒業する。",
+    "ko": "우리는 18살에 고등학교를 졸업합니다.",
+    "romanized": "watashitachiha １８ toshidekoukouwosotsugyousuru 。"
+  },
+  {
+    "ja": "キティちゃんの下敷きが欲しい。",
+    "ko": "키티 책받침을 갖고 싶어.",
+    "romanized": "kiteichannoshitajikigahoshii 。"
+  },
+  {
+    "ja": "よっぽどのことがない限り、トムが負けることはないと思う。",
+    "ko": "어지간한 일이 없는 한 톰이 질 리는 없을 것 같아.",
+    "romanized": "yoppodonokotoganaikagiri 、 tomugamakerukotohanaitoomou 。"
+  },
+  {
+    "ja": "もう死にたくなってきた。",
+    "ko": "이미 죽고 싶어졌다.",
+    "romanized": "moushinitakunattekita 。"
+  },
+  {
+    "ja": "トムは会社行きたくねえなあとか思うことないの？あるよ。あるに決まってんじゃん",
+    "ko": "톰은 회사 안 가고 싶다고 생각한 적 없어? 있지. 있는게 당연하잖아..",
+    "romanized": " tomuhakaishaikitakuneenaatokaomoukotonaino ？   aruyo 。 arunikimattenjan "
+  },
+  {
+    "ja": "僕は彼女が欲しいんじゃなくて恋がしたいんだ。",
+    "ko": "난 여자친구를 갖고 싶은 게 아니라 사랑을 하고 싶은 거야.",
+    "romanized": "bokuhakanojogahoshiinjanakutekoigashitainda 。"
+  },
+  {
+    "ja": "トムはそんな悪いことしないと思うよ。",
+    "ko": "틈이 그렇게 나쁜 것을 할 것 같진 않아.",
+    "romanized": "tomuhasonnawaruikotoshinaitoomouyo 。"
+  },
+  {
+    "ja": "どうして留学しようと思われたんですか？",
+    "ko": "왜 유학 가려고 생각하셨어요?",
+    "romanized": "doushiteryuugakushiyoutoomowaretandesuka ？"
+  },
+  {
+    "ja": "眠いなら寝ればいいじゃん。",
+    "ko": "졸리면 자면 되잖아.",
+    "romanized": "nemuinaranerebaiijan 。"
+  },
+  {
+    "ja": "早くお酒飲める歳になりたいなあ。",
+    "ko": "빨리 술 마실 수 있는 나이가 되었으면 좋을 텐데.",
+    "romanized": "hayakuosakenomimerutoshininaritainaa 。"
+  },
+  {
+    "ja": "何か話したいことない？",
+    "ko": "뭔가 하고 싶은 얘기 없어?",
+    "romanized": "nanikahanashitaikotonai ？"
+  },
+  {
+    "ja": "何か言いたいことがあるの？",
+    "ko": "뭔가 할 말이 있니?",
+    "romanized": "nanikaiitaikotogaaruno ？"
+  },
+  {
+    "ja": "何か言いたいことでもあんの？",
+    "ko": "뭐 할 말이라도 있냐고.",
+    "romanized": "nanikaiitaikotodemoanno ？"
+  },
+  {
+    "ja": "冷蔵庫に卵いくつある？",
+    "ko": "냉장고에 계란 얼마나 있어?",
+    "romanized": "reizoukonitamagoikutsuaru ？"
+  },
+  {
+    "ja": "私に黙ってどこ行ってたの？",
+    "ko": "나한테 말없이 어디 갔었어?",
+    "romanized": "watashinidamatsutedokoittetano ？"
+  },
+  {
+    "ja": "パイナップルジャムって初めて食べました。おいしいですね！",
+    "ko": "파인애플 잼이란 건 처음 먹어봤네요. 맛있네요!",
+    "romanized": "painappurujamuttehajimetetabemashita 。 oishiidesune ！"
+  },
+  {
+    "ja": "先にお風呂入っていいよ。",
+    "ko": "먼저 목욕해도 돼.",
+    "romanized": "sakiniofuroitsutsuteiiyo 。"
+  },
+  {
+    "ja": "好きな色は何ですか？",
+    "ko": "좋아하는 색은 뭐예요?",
+    "romanized": "sukinairohanandesuka ？"
+  },
+  {
+    "ja": "どんな色が好き？",
+    "ko": "무슨 색이 좋아?",
+    "romanized": "donnairogasuki ？"
+  },
+  {
+    "ja": "明日の朝は忙しいですか？",
+    "ko": "내일 아침은 바빠요?",
+    "romanized": "ashitanoasahaisogashiidesuka ？"
+  },
+  {
+    "ja": "歯に何かはさまってるよ。",
+    "ko": "이빨에 뭔가 끼어있어.",
+    "romanized": "haninanikahasamatteruyo 。"
+  },
+  {
+    "ja": "周りの人を幸せにしたいなら、まずは自分が幸せにならないと。",
+    "ko": "주변 사람을 행복하게 하고 싶으면, 우선 자신이 행복해져야 해.",
+    "romanized": "mawarinoninwoshiawasenishitainara 、 mazuhajibungashiawaseninaranaito 。"
+  },
+  {
+    "ja": "冷蔵庫にハンバーグがあるからチンして食べてね。",
+    "ko": "냉장고에 햄버그가 있으니까 전자렌지에 데워 먹어.",
+    "romanized": "reizoukonihanbaagugaarukarachinshitetabetene 。"
+  },
+  {
+    "ja": "このパンおいしそう。",
+    "ko": "이 빵 맛있어 보이네.",
+    "romanized": "konopanoishisou 。"
+  },
+  {
+    "ja": "今日は9時に寝よういいよ",
+    "ko": "오늘은 9시에 자자. 그래..",
+    "romanized": " konnichiha 9 tokinineyou   iiyo "
+  },
+  {
+    "ja": "だめだ、2時間しか寝てないから全然頭働かない。",
+    "ko": "망했어, 2시간밖에 안 자서 머리가 전혀 돌아가지 않아.",
+    "romanized": "dameda 、 2 jikanshikanetenaikarazenzenatamahatarakanai 。"
+  },
+  {
+    "ja": "12時間寝たのにまだ眠い。",
+    "ko": "12시간 잤는데도 또 졸려.",
+    "romanized": "12 jikannetanonimadanemui 。"
+  },
+  {
+    "ja": "また太っちゃった。",
+    "ko": "또 살이 쪄버렸어.",
+    "romanized": "matafutotsuchatta 。"
+  },
+  {
+    "ja": "よくある間違いだから気にしないで。",
+    "ko": "흔히 있는 실수니까 신경 쓰지 마.",
+    "romanized": "yokuarumachigaidakarakinishinaide 。"
+  },
+  {
+    "ja": "7時に起こしてって言ったじゃんごめん、忘れてた",
+    "ko": "7시에 깨워달라고 했잖아. 미안, 잊어버렸어..",
+    "romanized": " 7 tokiniokoshitetteittajan   gomen 、 wasureteta "
+  },
+  {
+    "ja": "果物は食後よりも食前に食べた方が体にいいらしいよ。",
+    "ko": "과일은 식후보다 식전에 먹는 것이 몸에 좋다고 해.",
+    "romanized": "kudamonohashokugoyorimoshokuzennitabetahougakaradaniiirashiiyo 。"
+  },
+  {
+    "ja": "もし半年休みがあったら何する？",
+    "ko": "만약 반년동안 휴일이 있다면 뭐할래?",
+    "romanized": "moshihantoshiyasumigaattarananisuru ？"
+  },
+  {
+    "ja": "肉と魚どっちが好き？",
+    "ko": "고기랑 생선 둘 중 뭐가 좋아?",
+    "romanized": "nikutosakanadotchigasuki ？"
+  },
+  {
+    "ja": "肉と魚とどちらが好きですか？",
+    "ko": "고기랑 생선 둘 중에 어떤 게 좋아요?",
+    "romanized": "nikutosakanatodochiragasukidesuka ？"
+  },
+  {
+    "ja": "肉と魚どちらが好きですか。",
+    "ko": "고기랑 생선 둘 중에 어떤 게 좋아요?",
+    "romanized": "nikutosakanadochiragasukidesuka 。"
+  },
+  {
+    "ja": "私のことを誤解しないでください。",
+    "ko": "저를 오해하지 말아 주세요.",
+    "romanized": "watashinokotowogokaishinaidekudasai 。"
+  },
+  {
+    "ja": "彼女は忙しかった。",
+    "ko": "그는 바빴다.",
+    "romanized": "kanojohaisogashikatta 。"
+  },
+  {
+    "ja": "彼女は若かった。",
+    "ko": "그는 어렸다.",
+    "romanized": "kanojohawakakatta 。"
+  },
+  {
+    "ja": "彼女はナイーブだった。",
+    "ko": "그는 순진했다.",
+    "romanized": "kanojohanaiibudatta 。"
+  },
+  {
+    "ja": "彼女は私の上司でした。",
+    "ko": "그는 내 상사였다.",
+    "romanized": "kanojohawatashinojoushideshita 。"
+  },
+  {
+    "ja": "私たちは完全な文を求めています。",
+    "ko": "우리는 완전한 문장을 원합니다.",
+    "romanized": "watashitachihakanzennabunwomotometeimasu 。"
+  },
+  {
+    "ja": "私の特技。パーティーの最中、上手に身を隠して退散する事。まさに忍者！",
+    "ko": "내 특기 : 파티 도중, 능숙하게 몸을 숨기고 달아나는 일. 진정한 닌자지!",
+    "romanized": "watashinotokugi 。 paateiinosaichuu 、 jouzunimiwokakushitetaisansurukoto 。 masanininja ！"
+  },
+  {
+    "ja": "もう少しお待ちいただけると幸いです。",
+    "ko": "조금만 기다려 주시기 바랍니다.",
+    "romanized": "mousukoshiomachiitadakerutosaiwaidesu 。"
+  },
+  {
+    "ja": "明けましておめでとう。",
+    "ko": "새해 복 많이 받아.",
+    "romanized": "akemashiteomedetou 。"
+  },
+  {
+    "ja": "あけおめ！",
+    "ko": "새해 복 많이 받아.",
+    "romanized": "akeome ！"
+  },
+  {
+    "ja": "新年おめでとうございます。",
+    "ko": "새해 복 많이 받으세요.",
+    "romanized": "shinnenomedetougozaimasu 。"
+  },
+  {
+    "ja": "ドイツ語の文法に手こずっています。",
+    "ko": "독일어 문법에 어려움을 겪고 있습니다.",
+    "romanized": "doitsugonobunpounitekozutteimasu 。"
+  },
+  {
+    "ja": "どうして私なの？",
+    "ko": "왜 나야?",
+    "romanized": "doushitewatashinano ？"
+  },
+  {
+    "ja": "何でわたしなの？",
+    "ko": "왜 나야?",
+    "romanized": "nandewatashinano ？"
+  },
+  {
+    "ja": "どうしてダメなの？",
+    "ko": "왜 안돼?",
+    "romanized": "doushitedamenano ？"
+  },
+  {
+    "ja": "彼は少しも他人の気持ちを大事にしない。",
+    "ko": "그는 타인의 기분은 전혀 존중하지 않는다.",
+    "romanized": "karehasukoshimotaninnokimochiwodaijinishinai 。"
+  },
+  {
+    "ja": "彼は計画を実行した。",
+    "ko": "그는 계획을 실행했다.",
+    "romanized": "karehakeikakuwojikkoushita 。"
+  },
+  {
+    "ja": "おめでとう！",
+    "ko": "축하해!",
+    "romanized": "omedetou ！"
+  },
+  {
+    "ja": "なんでトムは私のことメアリーって呼ぶの？メアリーじゃないの？メアリーじゃなくてマリー",
+    "ko": "왜 톰은 날 메리라고 불러? 메리가 아니야? 메리가 아니라 마리!.",
+    "romanized": " nandetomuhawatashinokotomeariitteyobuno ？   meariijanaino ？   meariijanakutemarii "
+  },
+  {
+    "ja": "今日のブロッコリー、ゆですぎでおいしくないよ。",
+    "ko": "오늘 브로콜리 있잖아, 너무 삶아서 맛이 없어.",
+    "romanized": "kyounoburokkorii 、 yudesugideoishikunaiyo 。"
+  },
+  {
+    "ja": "わがまま言ってごめんね。",
+    "ko": "제멋대로 말해서 미안해.",
+    "romanized": "wagamamaittegomenne 。"
+  },
+  {
+    "ja": "フランス語やっといてよかった。",
+    "ko": "프랑스어 하길 잘했다.",
+    "romanized": "furansugoyattoiteyokatta 。"
+  },
+  {
+    "ja": "そんなに牛肉ばっか食べてたら牛になっちゃうよんなわけねーじゃん",
+    "ko": "그렇게 소고기만 먹어 대면 소가 돼 버릴 거야. 그럴 리 없거든..",
+    "romanized": " sonnanigyuunikubakkatabetetaraushininatchauyo   nnawakeneejan "
+  },
+  {
+    "ja": "トムはますます多くの時間をボストンで過ごしている。",
+    "ko": "톰은 점점 많은 시간을 보스턴에서 보내고 있어.",
+    "romanized": "tomuhamasumasuookunojikanwobosutondesugoshiteiru 。"
+  },
+  {
+    "ja": "風邪ですね。",
+    "ko": "감기네요.",
+    "romanized": "kazedesune 。"
+  },
+  {
+    "ja": "風邪ひいた。",
+    "ko": "감기 걸렸어.",
+    "romanized": "kazehiita 。"
+  },
+  {
+    "ja": "風邪がなかなか抜けません。",
+    "ko": "감기가 어지간히 안낫네요.",
+    "romanized": "kazeganakanakanukemasen 。"
+  },
+  {
+    "ja": "風邪が抜けない。",
+    "ko": "감기가 안나아.",
+    "romanized": "kazeganukenai 。"
+  },
+  {
+    "ja": "かぜが治らない。",
+    "ko": "감기가 안나아.",
+    "romanized": "kazeganaoranai 。"
+  },
+  {
+    "ja": "風邪がなかなか治らない。",
+    "ko": "감기가 좀처럼 안나아.",
+    "romanized": "kazeganakanakanaoranai 。"
+  },
+  {
+    "ja": "咳が出ますか。",
+    "ko": "기침이 나옵니까?",
+    "romanized": "sekigademasuka 。"
+  },
+  {
+    "ja": "風邪は伝染する。",
+    "ko": "감기는 전염돼.",
+    "romanized": "kazehadensensuru 。"
+  },
+  {
+    "ja": "風邪をひきました。",
+    "ko": "감기에 걸렸어요.",
+    "romanized": "kazewohikimashita 。"
+  },
+  {
+    "ja": "私は風邪をひいた。",
+    "ko": "난 감기에 걸렸어.",
+    "romanized": "watashihakazewohiita 。"
+  },
+  {
+    "ja": "風邪をひいて熱がある。",
+    "ko": "감기에 걸려서 열이 나.",
+    "romanized": "kazewohiitenetsugaaru 。"
+  },
+  {
+    "ja": "彼は風邪でつらい思いをしている。",
+    "ko": "그 사람은 감기로 몸살을 앓고 있어.",
+    "romanized": "karehakazedetsuraiomoiwoshiteiru 。"
+  },
+  {
+    "ja": "風邪引かないようにね。",
+    "ko": "감기 안 걸리도록 조심해.",
+    "romanized": "kazehikanaiyounine 。"
+  },
+  {
+    "ja": "社長から金一封を賜りました。",
+    "ko": "사장님께서 금일봉을 주셨습니다.",
+    "romanized": "shachoukarakin ' ippuuwotamawarimashita 。"
+  },
+  {
+    "ja": "どうして、女が嫌いなの？",
+    "ko": "왜 여자가 싫은 거야?",
+    "romanized": "doushite 、 onnagakirainano ？"
+  },
+  {
+    "ja": "部長から記念品を頂きました。",
+    "ko": "부장님께서 저에게 기념품을 주셨어요.",
+    "romanized": "buchoukarakinenhinwoitadakimashita 。"
+  },
+  {
+    "ja": "それは君が考えるほどむずかしくない。",
+    "ko": "그건 네가 생각하는 만큼 어려운 건 아냐.",
+    "romanized": "sorehakungakangaeruhodomuzukashikunai 。"
+  },
+  {
+    "ja": "トムの部屋は汚い。",
+    "ko": "톰의 방은 더러워.",
+    "romanized": "tomunoheyahakitanai 。"
+  },
+  {
+    "ja": "トムは過労で倒れた。",
+    "ko": "톰은 과로로 쓰러졌다.",
+    "romanized": "tomuhakaroudetaoreta 。"
+  },
+  {
+    "ja": "結論を出す前に、一度トムの意見を聞いておきたいな。",
+    "ko": "결론을 내기 전에 일단 톰의 의견을 들어 두고 싶구먼.",
+    "romanized": "ketsuronwodasumaeni 、 ichidotomunoikenwokiiteokitaina 。"
+  },
+  {
+    "ja": "どうやら彼は、地雷を踏んでしまったらしい。",
+    "ko": "아무래도 그 사람은 말실수를 저지른 것 같아.",
+    "romanized": "douyarakareha 、 jiraiwofundeshimattarashii 。"
+  },
+  {
+    "ja": "メアリーには、えくぼがあります。",
+    "ko": "메리한테는 보조개가 있어요.",
+    "romanized": "meariiniha 、 ekubogaarimasu 。"
+  },
+  {
+    "ja": "トムとメアリーは、スマートホームに住んでいます。",
+    "ko": "톰과 메리는 스마트 홈에 살고 있어요.",
+    "romanized": "tomutomeariiha 、 sumaatohoomunisundeimasu 。"
+  },
+  {
+    "ja": "トムとメアリーは、スマートホームで暮らしています。",
+    "ko": "톰과 메리는 스마트 홈에 살고 있어요.",
+    "romanized": "tomutomeariiha 、 sumaatohoomudekurashiteimasu 。"
+  },
+  {
+    "ja": "トムとメアリーは、スマートハウスに住んでいます。",
+    "ko": "톰과 메리는 스마트 홈에 살고 있어요.",
+    "romanized": "tomutomeariiha 、 sumaatohausunisundeimasu 。"
+  },
+  {
+    "ja": "トムとメアリーは、スマートハウスで暮らしています。",
+    "ko": "톰과 메리는 스마트 홈에 살고 있어요.",
+    "romanized": "tomutomeariiha 、 sumaatohausudekurashiteimasu 。"
+  },
+  {
+    "ja": "ごゆっくりご覧くださいませ。",
+    "ko": "편히 둘러보세요.",
+    "romanized": "goyukkurigorankudasaimase 。"
+  },
+  {
+    "ja": "パングラムって面白い！",
+    "ko": "팬그램이라고 하는 거 재밌네!",
+    "romanized": "panguramutteomoshiroi ！"
+  },
+  {
+    "ja": "最近トムが私に冷たい気がする。",
+    "ko": "요즘 톰이 나한테 차갑게 구는 것 같은 느낌이 들어.",
+    "romanized": "saikintomugawatashinitsumetaikigasuru 。"
+  },
+  {
+    "ja": "彼は年をとり過ぎている。",
+    "ko": "그 사람은 너무 늙었어.",
+    "romanized": "karehanenwotorisugiteiru 。"
+  },
+  {
+    "ja": "私は年をとりすぎたかもしれない。",
+    "ko": "난 너무 늙었을지도 몰라.",
+    "romanized": "watashihanenwotorisugitakamoshirenai 。"
+  },
+  {
+    "ja": "悪くないね。",
+    "ko": "나쁘지 않네.",
+    "romanized": "warukunaine 。"
+  },
+  {
+    "ja": "いい思いつきね。",
+    "ko": "좋은 생각이네.",
+    "romanized": "iiomoitsukine 。"
+  },
+  {
+    "ja": "素敵な考えね。",
+    "ko": "멋진 생각이네.",
+    "romanized": "sutekinakangaene 。"
+  },
+  {
+    "ja": "おい！",
+    "ko": "이봐!",
+    "romanized": "oi ！"
+  },
+  {
+    "ja": "ねぇ。",
+    "ko": "있지.",
+    "romanized": "nee 。"
+  },
+  {
+    "ja": "ん？",
+    "ko": "응?",
+    "romanized": "n ？"
+  },
+  {
+    "ja": "パーフェクト！",
+    "ko": "퍼펙트해!",
+    "romanized": "paafekuto ！"
+  },
+  {
+    "ja": "すごーい！",
+    "ko": "대단해!",
+    "romanized": "sugooi ！"
+  },
+  {
+    "ja": "この情報は私たちにとってとても重要です。",
+    "ko": "이 정보는 우리한테 있어서 정말 중요해요.",
+    "romanized": "konojouhouhawatashitachinitottetotemojuuyoudesu 。"
+  },
+  {
+    "ja": "このような迷惑をおかけしたことをお詫びします。",
+    "ko": "이런 불편함을 드린 점 사과드립니다.",
+    "romanized": "konoyounameiwakuwookakeshitakotowoowabishimasu 。"
+  },
+  {
+    "ja": "明日は晴れると思う。",
+    "ko": "내일은 해가 뜰 것 같아.",
+    "romanized": "ashitahaharerutoomou 。"
+  },
+  {
+    "ja": "私が今欲しいのは温かいコーヒーだ。",
+    "ko": "내가 지금 원하는 건 따끈한 커피야.",
+    "romanized": "watashigaimahoshiinohaatatakaikoohiida 。"
+  },
+  {
+    "ja": "診察券は要らないんですか。",
+    "ko": "진찰권은 필요하지 않습니까?",
+    "romanized": "shinsatsukenhairanaindesuka 。"
+  },
+  {
+    "ja": "靴どこで脱いだ？",
+    "ko": "구두, 어디에서 벗었어?",
+    "romanized": "kutsudokodenuida ？"
+  },
+  {
+    "ja": "禁煙席はありますか。",
+    "ko": "금연석이 있습니까?",
+    "romanized": "kin ' ensekihaarimasuka 。"
+  },
+  {
+    "ja": "女の人は何を持って行きますか。",
+    "ko": "여자는 무엇을 가지고 갑니까?",
+    "romanized": "onnanohitohananiwomotsuteikimasuka 。"
+  },
+  {
+    "ja": "あなたは勉強していますか。",
+    "ko": "공부하고 계십니까?",
+    "romanized": "anatahabenkyoushiteimasuka 。"
+  },
+  {
+    "ja": "頭が痛い。",
+    "ko": "나 머리 아파.",
+    "romanized": "atamagaitai 。"
+  },
+  {
+    "ja": "頭痛い。",
+    "ko": "나 머리 아파.",
+    "romanized": "zutsuui 。"
+  },
+  {
+    "ja": "トムは甘いもの大丈夫？",
+    "ko": "톰은 단 거 괜찮아?",
+    "romanized": "tomuhaamaimonodaijoubu ？"
+  },
+  {
+    "ja": "彼らのコントは一見ほとんどアドリブに見える。ところがその実緻密な計算とリハーサルのたまものなのだ。",
+    "ko": "그들의 콩트는 거의 다 즉흥성처럼 보이지만, 사실은 치밀한 계산과 연습의 결과물이다.",
+    "romanized": "kareranokontohaikkenhotondoadoribunimieru 。 tokorogasonomichimitsunakeisantorihaasarunotamamononanoda 。"
+  },
+  {
+    "ja": "市場に入ります。",
+    "ko": "시장에 들어갑니다.",
+    "romanized": "shijouniirimasu 。"
+  },
+  {
+    "ja": "君の声が聞こえる。",
+    "ko": "너의 목소리가 들려.",
+    "romanized": "kunnokoegakikoeru 。"
+  },
+  {
+    "ja": "昨夜よく寝たので、今朝気持ちがいい。",
+    "ko": "간밤에 잘 잤으므로 오늘 아침 기분이 좋다.",
+    "romanized": "sakuyayokunetanode 、 kesakimochigaii 。"
+  },
+  {
+    "ja": "ソウルに住んでいます。",
+    "ko": "서울에 살고 있습니다.",
+    "romanized": "sourunisundeimasu 。"
+  },
+  {
+    "ja": "韓国人です。",
+    "ko": "한국 사람입니다.",
+    "romanized": "kankokujindesu 。"
+  },
+  {
+    "ja": "アメリカ人じゃないです。",
+    "ko": "저는 미국인이 아니에요",
+    "romanized": "amerikaninjanaidesu 。"
+  },
+  {
+    "ja": "猫が寝ない。",
+    "ko": "고양이가 잠을 안 자.",
+    "romanized": "nekoganenai 。"
+  },
+  {
+    "ja": "犬が寝ない。",
+    "ko": "강아지가 잠을 안 자.",
+    "romanized": "inuganenai 。"
+  },
+  {
+    "ja": "家に犬がいる。",
+    "ko": "집에 강아지가 있다.",
+    "romanized": "ieniinugairu 。"
+  },
+  {
+    "ja": "学校へ行きます。",
+    "ko": "학교에 갑니다.",
+    "romanized": "gakkouheikimasu 。"
+  },
+  {
+    "ja": "学校に人がいる。",
+    "ko": "학교에 사람이 있다.",
+    "romanized": "gakkouniningairu 。"
+  },
+  {
+    "ja": "マリーはトムと遊びに行った。",
+    "ko": "메리는 톰과 놀러 갔다.",
+    "romanized": "mariihatomutoasobiniitta 。"
+  },
+  {
+    "ja": "第３次世界大戦が起こるのかしら。",
+    "ko": "제3차 세계 대전이 일어날려나.",
+    "romanized": "daisantsugisekaitaisengaokorunokashira 。"
+  },
+  {
+    "ja": "これ何の匂い？",
+    "ko": "이거 무슨 냄새지?",
+    "romanized": "korenannonioi ？"
+  },
+  {
+    "ja": "彼女は白い服を着ている。",
+    "ko": "그는 흰 옷을 입고 있다.",
+    "romanized": "kanojohashiroifukuwokiteiru 。"
+  },
+  {
+    "ja": "イルカは好奇心旺盛である。",
+    "ko": "돌고래는 호기심이 많다.",
+    "romanized": "irukahakoukishin ' ouseidearu 。"
+  },
+  {
+    "ja": "トムは、音楽に夢中です。",
+    "ko": "톰은 음악에 정신이 팔려 있어요.",
+    "romanized": "tomuha 、 ongakunimuchuudesu 。"
+  },
+  {
+    "ja": "何階ですか。",
+    "ko": "몇 층입니까?",
+    "romanized": "nankaidesuka 。"
+  },
+  {
+    "ja": "食料品買わなくちゃ。",
+    "ko": "식료품 사지 않고는 안 된다.",
+    "romanized": "shokuryouhinkawanakucha 。"
+  },
+  {
+    "ja": "食料品の買い出しに行かなくちゃ。",
+    "ko": "식료품을 사러 가야 해.",
+    "romanized": "shokuryouhinnokaidashiniikanakucha 。"
+  },
+  {
+    "ja": "この食料品店は自然食品のみを売っている。",
+    "ko": "이 식료품점은 유기농 식품만을 팔고 있다.",
+    "romanized": "konoshokuryouhinmisehashizenshokuhinnomiwoutsuteiru 。"
+  },
+  {
+    "ja": "明日は日曜日です。",
+    "ko": "내일은 일요일입니다.",
+    "romanized": "ashitahanichiyoubidesu 。"
+  },
+  {
+    "ja": "来週の日曜日に遊びに来てください。",
+    "ko": "다음 주 일요일에 놀러 와 주세요.",
+    "romanized": "raishuunonichiyoubiniasobinikitekudasai 。"
+  },
+  {
+    "ja": "今日は木曜日です。",
+    "ko": "오늘은 목요일입니다.",
+    "romanized": "konnichihamokuyoubidesu 。"
+  },
+  {
+    "ja": "結婚式は土曜日に行われます。",
+    "ko": "결혼식은 토요일에 치릅니다.",
+    "romanized": "kekkonshikihadoyoubiniokonawaremasu 。"
+  },
+  {
+    "ja": "今日は日曜日だ。",
+    "ko": "오늘은 일요일이다.",
+    "romanized": "konnichihanichiyoubida 。"
+  },
+  {
+    "ja": "日曜日に会おう。",
+    "ko": "일요일에 만나자.",
+    "romanized": "nichiyoubiniaou 。"
+  },
+  {
+    "ja": "日曜日は暇です。",
+    "ko": "일요일은 쉽니다.",
+    "romanized": "nichiyoubihahimadesu 。"
+  },
+  {
+    "ja": "私は日曜日に働く。",
+    "ko": "나는 일요일에 일한다.",
+    "romanized": "watashihanichiyoubinihataraku 。"
+  },
+  {
+    "ja": "日曜日は家にいます。",
+    "ko": "일요일은 집에 있을겁니다.",
+    "romanized": "nichiyoubihaieniimasu 。"
+  },
+  {
+    "ja": "今日は日曜日だよ。",
+    "ko": "오늘은 일요일입니다.",
+    "romanized": "konnichihanichiyoubidayo 。"
+  },
+  {
+    "ja": "日曜日に会いました。",
+    "ko": "일요일에 만났습니다.",
+    "romanized": "nichiyoubiniaimashita 。"
+  },
+  {
+    "ja": "日曜日以外は毎日働く。",
+    "ko": "일요일 이외에는 매일 일한다.",
+    "romanized": "nichiyoubiigaihamainichihataraku 。"
+  },
+  {
+    "ja": "日曜日に会いましょう。",
+    "ko": "일요일에 만납시다.",
+    "romanized": "nichiyoubiniaimashou 。"
+  },
+  {
+    "ja": "何をしていますか。",
+    "ko": "무엇을 하고 있습니까?",
+    "romanized": "naniwoshiteimasuka 。"
+  },
+  {
+    "ja": "金曜までに第４章を読んでおきなさい。",
+    "ko": "금요일까지 4 장을 읽어 두십시오.",
+    "romanized": "kinyoumadenidaiyonshouwoyondeokinasai 。"
+  },
+  {
+    "ja": "何か壊れたの？",
+    "ko": "무언가 부서졌어?",
+    "romanized": "nanikakowaretano ？"
+  },
+  {
+    "ja": "彼は窓を壊した。",
+    "ko": "그는 창문을 망가뜨렸다.",
+    "romanized": "karehamadowokowashita 。"
+  },
+  {
+    "ja": "あ〜！！パソコンが壊れた！",
+    "ko": "아! 컴퓨터가 고장났다!",
+    "romanized": "a 〜 ！ ！ pasokongakowareta ！"
+  },
+  {
+    "ja": "それは壊れている。",
+    "ko": "그것은 망가져있다.",
+    "romanized": "sorehakowareteiru 。"
+  },
+  {
+    "ja": "卵の殻は壊れやすい。",
+    "ko": "달걀 껍데기는 부서지기 쉽다.",
+    "romanized": "tamagonokarahakowareyasui 。"
+  },
+  {
+    "ja": "私の夢を壊さないで。",
+    "ko": "나의 꿈을 깨뜨리지 말아줘.",
+    "romanized": "watashinoyumewokowasanaide 。"
+  },
+  {
+    "ja": "ジョンが窓を壊しました。",
+    "ko": "존은 창문을 깨뜨렸습니다.",
+    "romanized": "jongamadowokowashimashita 。"
+  },
+  {
+    "ja": "当社はアンケート入力、アンケート集計のお手伝いをする少数精鋭のベンチャーです。",
+    "ko": "저희 회사는 설문조사 입력, 설문조사 집계의 지원을 하는 소수 정예의 벤처입니다.",
+    "romanized": "toushahaankeetonyuuryoku 、 ankeetoshuukeinootetsudaiwosurushousuuseieinobenchaadesu 。"
+  },
+  {
+    "ja": "信長貴富と申します。信長が名字で、貴富が名前です。",
+    "ko": "노부나가 타케토미라고 하옵니다. 노부나가가 성이고, 타케토미가 이름입니다.",
+    "romanized": "nobunagatakashitomitomoushimasu 。 nobunagagamyoujide 、 takashitomiganamaedesu 。"
+  },
+  {
+    "ja": "彼は金を要求した。",
+    "ko": "그는 돈을 요구했다.",
+    "romanized": "karehakinwoyoukyuushita 。"
+  },
+  {
+    "ja": "少なくとも週に２回は布団を干します。",
+    "ko": "적어도 주2회는 이불을 넙니다.",
+    "romanized": "sukunakutomoshuuni ２ kaihafutonwohoshimasu 。"
+  },
+  {
+    "ja": "このドアは内側から鍵が掛かっている。",
+    "ko": "이 문은 안쪽에서 열쇠가 잠겨져 있다.",
+    "romanized": "konodoahauchigawakarakagigakakatteiru 。"
+  },
+  {
+    "ja": "本、見つけることができた？",
+    "ko": "책, 찾을 수 있었어?",
+    "romanized": "hon 、 mitsukerukotogadekita ？"
+  },
+  {
+    "ja": "トムを見つける必要がある。",
+    "ko": "톰을 찾을 필요가 있다.",
+    "romanized": "tomuwomitsukeruhitsuyougaaru 。"
+  },
+  {
+    "ja": "トムを見つけることができた？",
+    "ko": "톰을 찾을 수 있었어?",
+    "romanized": "tomuwomitsukerukotogadekita ？"
+  },
+  {
+    "ja": "私の家を見つけるの、大変だった？",
+    "ko": "우리 집을 찾는 거, 힘들었어?",
+    "romanized": "watashinoiewomitsukeruno 、 taihendatta ？"
+  },
+  {
+    "ja": "トムを見つけることはできないよ。",
+    "ko": "톰을 찾을 수 없어.",
+    "romanized": "tomuwomitsukerukotohadekinaiyo 。"
+  },
+  {
+    "ja": "見つけた！",
+    "ko": "찾았다!",
+    "romanized": "mitsuketa ！"
+  },
+  {
+    "ja": "見つけました。",
+    "ko": "찾았습니다.",
+    "romanized": "mitsukemashita 。"
+  },
+  {
+    "ja": "見つけた。",
+    "ko": "찾았다.",
+    "romanized": "mitsuketa 。"
+  },
+  {
+    "ja": "見つけたよ。",
+    "ko": "찾았어.",
+    "romanized": "mitsuketayo 。"
+  },
+  {
+    "ja": "かなり多くの家が台風で壊された。",
+    "ko": "꽤 많은 집이 태풍으로 부서졌다.",
+    "romanized": "kanariookunoiegataifuudekowasareta 。"
+  },
+  {
+    "ja": "昨夜、この自動販売機は愚連隊によって壊されました。",
+    "ko": "어젯밤, 이 자동판매기는 불량배에 의해 부서졌습니다.",
+    "romanized": "sakuya 、 konojidouhanbaikihagurentainiyottekowasaremashita 。"
+  },
+  {
+    "ja": "漁夫の利。",
+    "ko": "어부지리.",
+    "romanized": "gyofunori 。"
+  },
+  {
+    "ja": "夫はいい人よ。",
+    "ko": "남편은 좋은 사람이야.",
+    "romanized": "ottohaiininyo 。"
+  },
+  {
+    "ja": "夫はまもなく帰ってきます。",
+    "ko": "남편은 곧 돌아옵니다.",
+    "romanized": "ottohamamonakukaetsutekimasu 。"
+  },
+  {
+    "ja": "赤ちゃんが寝る。",
+    "ko": "아기가 잔다.",
+    "romanized": "akachanganeru 。"
+  },
+  {
+    "ja": "彼は太りすぎよ。",
+    "ko": "그는 너무 살쩠어.",
+    "romanized": "karehafutorisugiyo 。"
+  },
+  {
+    "ja": "忘れたって言うの？",
+    "ko": "잊었다고 말하는 거야?",
+    "romanized": "wasuretatteiuno ？"
+  },
+  {
+    "ja": "前に進んでください。",
+    "ko": "앞으로 나아가 주세요.",
+    "romanized": "maenisusundekudasai 。"
+  },
+  {
+    "ja": "門の前で待つよ。",
+    "ko": "문 앞에서 기다릴께.",
+    "romanized": "monnomaedematsuyo 。"
+  },
+  {
+    "ja": "人前で歌うのは苦手です。",
+    "ko": "남 앞에서 노래부르는 것은 질색입니다.",
+    "romanized": "hitomaedeutaunohanigatedesu 。"
+  },
+  {
+    "ja": "彼女は服にアイロンをかけた。",
+    "ko": "그녀는 옷을 다림질했다.",
+    "romanized": "kanojohafukuniaironwokaketa 。"
+  },
+  {
+    "ja": "お預けになる荷物はございますか。",
+    "ko": "맡기실 짐은 있으십니까?",
+    "romanized": "oazukeninarunimotsuhagozaimasuka 。"
+  },
+  {
+    "ja": "どこに行くの？",
+    "ko": "어디 가니?",
+    "romanized": "dokoniikuno ？"
+  },
+  {
+    "ja": "時計は壁に掛ける。",
+    "ko": "시계를 벽에 걸다.",
+    "romanized": "tokeihakabenikakeru 。"
+  },
+  {
+    "ja": "肩が痛い。",
+    "ko": "어깨가 아프다.",
+    "romanized": "katagaitai 。"
+  },
+  {
+    "ja": "背中が凝ってるの。",
+    "ko": "등이 뻐근하다.",
+    "romanized": "senakagakotsuteruno 。"
+  },
+  {
+    "ja": "肩が凝ってるんです。",
+    "ko": "어깨가 뻐근합니다.",
+    "romanized": "katagakotsuterundesu 。"
+  },
+  {
+    "ja": "最近はどんな物に凝っているの？",
+    "ko": "최근에는 어떤 것에 열중하고 있어?",
+    "romanized": "saikinhadonnamononikotsuteiruno ？"
+  },
+  {
+    "ja": "会議は明日開かれる。",
+    "ko": "회의는 내일 열린다.",
+    "romanized": "kaigihaashitahirakareru 。"
+  },
+  {
+    "ja": "会議はここで開かれた。",
+    "ko": "회의는 여기서 열렸다.",
+    "romanized": "kaigihakokodehirakareta 。"
+  },
+  {
+    "ja": "床屋に行きなさい。",
+    "ko": "이발소에 가거라.",
+    "romanized": "tokoyaniikinasai 。"
+  },
+  {
+    "ja": "昨日も私たちは会ったじゃないですか。",
+    "ko": "어저께도 우리는 만났잖아요.",
+    "romanized": "kinoumowatashitachihaatsutajanaidesuka 。"
+  },
+  {
+    "ja": "電車を乗り間違えた。",
+    "ko": "전차를 잘못 탔다.",
+    "romanized": "denshawonorimachigaeta 。"
+  },
+  {
+    "ja": "申告する物はありますか。",
+    "ko": "신고할 것이 있습니까?",
+    "romanized": "shinkokusurumonohaarimasuka 。"
+  },
+  {
+    "ja": "信じているよ。",
+    "ko": "믿고 있어.",
+    "romanized": "shinjiteiruyo 。"
+  },
+  {
+    "ja": "夜に公園を散歩したらダメだよ！",
+    "ko": "밤에 공원을 산책하면 안 돼!",
+    "romanized": "yorunikouenwosanposhitaradamedayo ！"
+  },
+  {
+    "ja": "東京には色々な人が住んでいる。",
+    "ko": "도쿄에는 여러가지 사람들이 살고 있다.",
+    "romanized": "toukyounihairoironaningasundeiru 。"
+  },
+  {
+    "ja": "お腹一杯！",
+    "ko": "배 부르다!",
+    "romanized": "oharaippai ！"
+  },
+  {
+    "ja": "私の口には合いません。",
+    "ko": "제 입맛에는 맞지 않습니다.",
+    "romanized": "watashinokuchinihaaimasen 。"
+  },
+  {
+    "ja": "このお店、近くにあって良かったね。",
+    "ko": "이 가게, 가까이에 있어서 잘 됐네.",
+    "romanized": "konoomise 、 chikakuniatteyokattane 。"
+  },
+  {
+    "ja": "引越しの時、粗大のごみをたくさん出した。",
+    "ko": "이사 때, 대형 쓰레기를 많이 내놓았다.",
+    "romanized": "hikkoshinotoki 、 sodainogomiwotakusandashita 。"
+  },
+  {
+    "ja": "粗大ごみの回収なら当社にお任せください。どこよりも安く迅速に対応いたします。",
+    "ko": "대형 쓰레기의 회수라면, 저희 회사에 맡겨 주세요. 어디보다도 싸고 신속하게 대응하겠습니다.",
+    "romanized": "sodaigominokaishuunaratoushaniomakasekudasai 。 dokoyorimoyasukujinsokunitaiouitashimasu 。"
+  },
+  {
+    "ja": "彼のお嫁さんになりたかったな。",
+    "ko": "그의 신부가 되고 싶었었지.",
+    "romanized": "kanooyomesanninaritakattana 。"
+  },
+  {
+    "ja": "誰を殺したの？",
+    "ko": "누구를 죽였나?",
+    "romanized": "darewokoroshitano ？"
+  },
+  {
+    "ja": "車は止まった。",
+    "ko": "차가 멈췄다.",
+    "romanized": "kurumahatomatta 。"
+  },
+  {
+    "ja": "別の例を示しなさい。",
+    "ko": "다른 예를 보이시오.",
+    "romanized": "betsunoreiwoshimeshinasai 。"
+  },
+  {
+    "ja": "とにかく行ってみよう。",
+    "ko": "어쨌든 가 보자.",
+    "romanized": "tonikakuittemiyou 。"
+  },
+  {
+    "ja": "踊り続けて。",
+    "ko": "계속 춤 춰.",
+    "romanized": "odoritsuzukete 。"
+  },
+  {
+    "ja": "楽しいのはこれからだと思うよ。",
+    "ko": "즐거운 것은 지금부터다라고 생각해.",
+    "romanized": "tanoshiinohakorekaradatoomouyo 。"
+  },
+  {
+    "ja": "最近また絵を描くのが楽しくなってきた。",
+    "ko": "최근에 다시 그림을 그리는 것이 즐겁게 되었다.",
+    "romanized": "saikinmataewoegakunogatanoshikunattekita 。"
+  },
+  {
+    "ja": "細かいお金持ってない？",
+    "ko": "잔돈 가지고 있지 않아?",
+    "romanized": "komakaiokanemotsutenai ？"
+  },
+  {
+    "ja": "私は成功するでしょうか。",
+    "ko": "제가 성공할 수 있을까요?",
+    "romanized": "watashihaseikousurudeshouka 。"
+  },
+  {
+    "ja": "一戸建より共同住宅に住む世帯の増加率の方が高い。",
+    "ko": "단독주택보다 공동주택에 사는 세대의 증가율이 더 높다.",
+    "romanized": "ichinohekenyorikyoudoujuutakunisumusetainozoukaritsunohougatakai 。"
+  },
+  {
+    "ja": "私は彼女とは長い付き合いだ。",
+    "ko": "나는 그녀와 오래 알고 지낸 사이다.",
+    "romanized": "watashihakanojotohanagaitsukiaida 。"
+  },
+  {
+    "ja": "ここに何かが入っている。",
+    "ko": "여기에 무언가가 들어 있어.",
+    "romanized": "kokoninanikagaitsutsuteiru 。"
+  },
+  {
+    "ja": "ご両親はまだボストンに住んでいらっしゃるんですか？",
+    "ko": "양친께서는 아직 보스턴에 살고 계신 것입니까?",
+    "romanized": "goryoushinhamadabosutonnisundeirassharundesuka ？"
+  },
+  {
+    "ja": "そうさせてもらいます。",
+    "ko": "그렇게 하겠습니다.",
+    "romanized": "sousasetemoraimasu 。"
+  },
+  {
+    "ja": "ここで降ります。",
+    "ko": "여기서 내립니다.",
+    "romanized": "kokodeorimasu 。"
+  },
+  {
+    "ja": "姫路駅で降りなさい。",
+    "ko": "히메지 역에서 내리시오.",
+    "romanized": "himejiekideorinasai 。"
+  },
+  {
+    "ja": "彼は朝食に降りてきた。",
+    "ko": "그는 아침식사를 하러 내려왔다.",
+    "romanized": "karehachoushokunioritekita 。"
+  },
+  {
+    "ja": "列車に乗り遅れるな。",
+    "ko": "열차 탑승에 늦지 마라.",
+    "romanized": "resshaninoriokureruna 。"
+  },
+  {
+    "ja": "質問に対しては親切に答えて下さった。",
+    "ko": "질문에 대하여 친절하게 답해 주셨다.",
+    "romanized": "shitsumonnitaishitehashinsetsunikotaetekudasatta 。"
+  },
+  {
+    "ja": "多分そうだよ。",
+    "ko": "아마도 그럴 것이야.",
+    "romanized": "tabunsoudayo 。"
+  },
+  {
+    "ja": "彼はなかなか立派だ。",
+    "ko": "그는 꽤나 멋지다.",
+    "romanized": "karehanakanakarippada 。"
+  },
+  {
+    "ja": "私は表玄関に鍵をかけた。",
+    "ko": "나는 앞쪽 현관을 열쇠로 잠갔다.",
+    "romanized": "watashihaomotegenkannikagiwokaketa 。"
+  },
+  {
+    "ja": "この後、何するの？",
+    "ko": "이 뒤에 뭐 할거야?",
+    "romanized": "kononochi 、 nanisuruno ？"
+  },
+  {
+    "ja": "教育は人間を人間として平和と幸福へ導く唯一の道であります。",
+    "ko": "교육은 인간을 인간으로서 평화와 행복으로 이끄는 유일한 길입니다.",
+    "romanized": "kyouikuhaningenwoningentoshiteheiwatokoufukuhemichibikuyuiitsunomichidearimasu 。"
+  },
+  {
+    "ja": "やり方なら私は知っている。",
+    "ko": "하는 법이라면 나는 알고 있어.",
+    "romanized": "yarihounarawatashihashitteiru 。"
+  },
+  {
+    "ja": "彼女はくしで髪をとかしてるよ。",
+    "ko": "그 여자는 빗으로 머리를 빗고 있어.",
+    "romanized": "kanojohakushidekamiwotokashiteruyo 。"
+  },
+  {
+    "ja": "第一印象は大切だ。",
+    "ko": "첫 인상이 중요하다.",
+    "romanized": "daiichiinshouhataisetsuda 。"
+  },
+  {
+    "ja": "彼は快方に向かっている。",
+    "ko": "그는 차도가 있는 쪽으로 향하고 있다.",
+    "romanized": "karehakaihounimukatteiru 。"
+  },
+  {
+    "ja": "携帯の充電器が壊れた。",
+    "ko": "휴대전화 충전기가 망가졌다.",
+    "romanized": "keitainojuudenkigakowareta 。"
+  },
+  {
+    "ja": "今日、会社間に合った？",
+    "ko": "오늘, 회사, 시간에 대었나?",
+    "romanized": "kyou 、 kaishakanniatsuta ？"
+  },
+  {
+    "ja": "もっと一緒にいられたらいいのに。",
+    "ko": "좀 더 함께 있었더라면 좋을텐데.",
+    "romanized": "mottoisshoniiraretaraiinoni 。"
+  },
+  {
+    "ja": "彼は仕事に夢中だ。",
+    "ko": "그는 업무에 정신이 없다.",
+    "romanized": "karehashigotonimuchuuda 。"
+  },
+  {
+    "ja": "良いですよ。",
+    "ko": "좋아요.",
+    "romanized": "yoidesuyo 。"
+  },
+  {
+    "ja": "彼は私の視線から目をそらした。",
+    "ko": "그는 내 시선을 외면했다.",
+    "romanized": "karehawatashinoshisenkaramewosorashita 。"
+  },
+  {
+    "ja": "韓国語はどこで学べますか？",
+    "ko": "한국어를 어디서 배웠습니까?",
+    "romanized": "kankokugohadokodemanabemasuka ？"
+  },
+  {
+    "ja": "面倒臭いよ。",
+    "ko": "귀찮아.",
+    "romanized": "mendoukusaiyo 。"
+  },
+  {
+    "ja": "インスは学校に行こうと職場での仕事を投げ出した。",
+    "ko": "인수는 학교에 가려고 직장을 잡어치웠다.",
+    "romanized": "insuhagakkouniikoutoshokubadenoshigotowonagedashita 。"
+  },
+  {
+    "ja": "あの言語は私の職業柄有用だ。",
+    "ko": "그 언어는 제 일에 유용합니다.",
+    "romanized": "anogengohawatashinoshokugyougarayuuyouda 。"
+  },
+  {
+    "ja": "ありがとうございます。",
+    "ko": "고맙습니다.",
+    "romanized": "arigatougozaimasu 。"
+  },
+  {
+    "ja": "先週土曜日に、いや、日曜日に行きました。",
+    "ko": "지난 주 토요일에, 아니, 일요일에 갔어요.",
+    "romanized": "senshuudoyoubini 、 iya 、 nichiyoubiniikimashita 。"
+  },
+  {
+    "ja": "私の古い友達だよ。",
+    "ko": "내 오랜 친구야.",
+    "romanized": "watashinofuruitomodachidayo 。"
+  },
+  {
+    "ja": "独学で韓国語を勉強しています。",
+    "ko": "혼자 한국어를 공부하고 있습니다.",
+    "romanized": "dokugakudekankokugowobenkyoushiteimasu 。"
+  },
+  {
+    "ja": "あいつは自分の過ちを悔やんでるんだ。",
+    "ko": "그는 잘못을 후회하고있다.",
+    "romanized": "aitsuhajibunnoayamachiwokuyanderunda 。"
+  },
+  {
+    "ja": "メキシコ政府は１９９８年型の中古車以外の中古車の輸入を禁止すると発表した。",
+    "ko": "멕시코 정부는 1998년형 중고차 이외의 모든 중고차 수입을 금지한다고 발표했다.",
+    "romanized": "mekishikoseifuha １９９８ nenkatanochuukoshaigainochuukoshanoyunyuuwokinshisurutohappyoushita 。"
+  },
+  {
+    "ja": "僕と契約して魔法少女になってよ。",
+    "ko": "나와 계약해서 마법소녀가 되어줘.",
+    "romanized": "bokutokeiyakushitemahoushoujoninatteyo 。"
+  },
+  {
+    "ja": "ＳＦ映画は好きですか？",
+    "ko": "SF영화를 좋아해요?",
+    "romanized": "eigahasukidesuka ？"
+  },
+  {
+    "ja": "トムは今日欠席ですか？",
+    "ko": "톰은 오늘 결석이에요?",
+    "romanized": "tomuhakyoukessekidesuka ？"
+  },
+  {
+    "ja": "あーやっとパリだね。最初にどこへ行こうか。",
+    "ko": "아~ 드디어 파리구나. 처음에 어디로 갈자?",
+    "romanized": "aayattoparidane 。 saishonidokoheikouka 。"
+  },
+  {
+    "ja": "トムは自らファースーツを作った。",
+    "ko": "톰은 스스로 퍼 슈트를 만들었다.",
+    "romanized": "tomuhamizukarafaasuutsuwotsukutsuta 。"
+  },
+  {
+    "ja": "トムは私たちの通訳です。",
+    "ko": "톰은 우리의 번역가야.",
+    "romanized": "tomuhawatashitachinotsuuyakudesu 。"
+  },
+  {
+    "ja": "3年前にトムに教えたんだ。",
+    "ko": "3 년 전에 톰에게 가르쳤어.",
+    "romanized": "3 nenmaenitomunioshietanda 。"
+  },
+  {
+    "ja": "いづれ白日の下に晒されるときが来るだろう。",
+    "ko": "언젠간 밝혀지게 되는 때가 올 것이야.",
+    "romanized": "izurehakujitsunoshitanisarasarerutokigakurudarou 。"
+  },
+  {
+    "ja": "デザートをあんなに注文してもまだ足りないなんて、欲張りな奴だ。",
+    "ko": "후식을 저렇게 시켜도 모자라다니 욕심쟁이 같은 녀석이야.",
+    "romanized": "dezaatowoannanichuumonshitemomadatarinainante 、 yokubarinayatsuda 。"
+  },
+  {
+    "ja": "手厚く歓迎してやれ。",
+    "ko": "극진히 대접해 드려라.",
+    "romanized": "teatsukukangeishiteyare 。"
+  },
+  {
+    "ja": "今日はこれで終わり！皆さんも韓国語を学ぼう！それでは〜。",
+    "ko": "오늘은 이걸로 끝! 여러분도 한국어를 배우자! 안녕~.",
+    "romanized": "konnichihakoredeowari ！ minasanmokankokugowomanabou ！ soredeha 〜 。"
+  },
+  {
+    "ja": "ちょうど、キツネが道路を横切るのが見えたんだ。",
+    "ko": "바로 여우가 도로 옆을 지난 걸 봤거든.",
+    "romanized": "choudo 、 kitsunegadourowoyokogirunogamietanda 。"
+  },
+  {
+    "ja": "彼女は目標に到達するために努力した。",
+    "ko": "그녀는 목표에 도달하기 위해 노력했다.",
+    "romanized": "kanojohamokuhyounitoutatsusurutamenidoryokushita 。"
+  },
+  {
+    "ja": "多分これが役に立つと思うよ。",
+    "ko": "아마 이게 도움이 될거야.",
+    "romanized": "tabunkoregayakunitatsutoomouyo 。"
+  },
+  {
+    "ja": "僕は嘘をつかれるのが嫌いなんだ。",
+    "ko": "난 거짓말쟁이가 싫어.",
+    "romanized": "bokuhausowotsukarerunogakirainanda 。"
+  },
+  {
+    "ja": "民主主義がないところに信頼はない。",
+    "ko": "민주주의가 없는 곳에 신뢰는 없다.",
+    "romanized": "minshushugiganaitokoronishinraihanai 。"
+  },
+  {
+    "ja": "おおきに！",
+    "ko": "감사합니다!",
+    "romanized": "ookini ！"
+  },
+  {
+    "ja": "もう止めて！",
+    "ko": "이제 그만해!",
+    "romanized": "moutomete ！"
+  },
+  {
+    "ja": "あなたの息子は大学で勉強していますか？",
+    "ko": "아들은 대학에서 공부하고 있어요?",
+    "romanized": "anatanomusukohadaigakudebenkyoushiteimasuka ？"
+  },
+  {
+    "ja": "この写真、一週間前に撮ったんだ。",
+    "ko": "이 사진 일주일 전에 찍었어.",
+    "romanized": "konoshashin 、 isshuukanmaenitotsutanda 。"
+  },
+  {
+    "ja": "分かりそうにありません。",
+    "ko": "모르겠어요.",
+    "romanized": "wakarisouniarimasen 。"
+  },
+  {
+    "ja": "おはようございます！",
+    "ko": "안녕하세요.",
+    "romanized": "ohayougozaimasu ！"
+  },
+  {
+    "ja": "おめでとうございます。",
+    "ko": "축하합니다!",
+    "romanized": "omedetougozaimasu 。"
+  },
+  {
+    "ja": "おめでとうございます！",
+    "ko": "축하합니다!",
+    "romanized": "omedetougozaimasu ！"
+  },
+  {
+    "ja": "はい。",
+    "ko": "네.",
+    "romanized": "hai 。"
+  },
+  {
+    "ja": "ありがとうございます！",
+    "ko": "감사합니다!",
+    "romanized": "arigatougozaimasu ！"
+  },
+  {
+    "ja": "やめろ！",
+    "ko": "하지마!",
+    "romanized": "yamero ！"
+  },
+  {
+    "ja": "気をつけて！",
+    "ko": "조심해!",
+    "romanized": "kiwotsukete ！"
+  },
+  {
+    "ja": "気を付けてね。",
+    "ko": "주의하세요.",
+    "romanized": "kiwotsuketene 。"
+  },
+  {
+    "ja": "なぜ？",
+    "ko": "왜?",
+    "romanized": "naze ？"
+  },
+  {
+    "ja": "行こう！",
+    "ko": "가자!",
+    "romanized": "ikou ！"
+  },
+  {
+    "ja": "いらっしゃいませ。",
+    "ko": "어서오세요.",
+    "romanized": "irasshaimase 。"
+  },
+  {
+    "ja": "歓迎いたします。",
+    "ko": "환영합니다.",
+    "romanized": "kangeiitashimasu 。"
+  },
+  {
+    "ja": "じゃあね！",
+    "ko": "안녕!",
+    "romanized": "jaane ！"
+  },
+  {
+    "ja": "ありがとう！",
+    "ko": "고마워!",
+    "romanized": "arigatou ！"
+  },
+  {
+    "ja": "死ね！",
+    "ko": "죽어!",
+    "romanized": "shine ！"
+  },
+  {
+    "ja": "失礼しました。",
+    "ko": "실례합니다.",
+    "romanized": "shitsureishimashita 。"
+  },
+  {
+    "ja": "私は心を開き、より国際的になりたいです。",
+    "ko": "저는 마음을 열고 더 국제적이 되고 싶습니다.",
+    "romanized": "watashihakokorowohiraki 、 yorikokusaitekininaritaidesu 。"
+  },
+  {
+    "ja": "大変ありがとうございます。",
+    "ko": "대단히 감사합니다.",
+    "romanized": "taihenarigatougozaimasu 。"
+  },
+  {
+    "ja": "天国と地獄って本当にあるの？",
+    "ko": "천국과 지옥은 정말로 있니?",
+    "romanized": "tengokutojigokuttehontouniaruno ？"
+  },
+  {
+    "ja": "風邪が治らないよ。",
+    "ko": "감기가 낫지 않아.",
+    "romanized": "kazeganaoranaiyo 。"
+  },
+  {
+    "ja": "大丈夫じゃないです！表情ごらんよ。泣いてるじゃない！",
+    "ko": "괜찮지 않아요! 표정 봐. 울잖아!",
+    "romanized": "daijoubujanaidesu ！ hyoujougoranyo 。 naiterujanai ！"
+  },
+  {
+    "ja": "今回は信じてたのに完全に失望したよ。",
+    "ko": "이번에는 믿고 있었는데 완전 실망했어요.",
+    "romanized": "konkaihashinjitetanonikanzennishitsuboushitayo 。"
+  },
+  {
+    "ja": "もちろん僕もやるよ！",
+    "ko": "물론 나도 할게!",
+    "romanized": "mochironbokumoyaruyo ！"
+  },
+  {
+    "ja": "今日は天気がすっごく良いね。",
+    "ko": "오늘은 날씨가 너무 좋네.",
+    "romanized": "konnichihatenkigasuggokuyoine 。"
+  },
+  {
+    "ja": "語順が同じ言語は勉強し易いです。",
+    "ko": "어순이 같은 언어는 공부하기 쉬워요.",
+    "romanized": "gojungaonajigengohabenkyoushiyasuidesu 。"
+  },
+  {
+    "ja": "あの人たちは僕を知らない。",
+    "ko": "저 사람들은 나를 몰라.",
+    "romanized": "anonintachihabokuwoshiranai 。"
+  },
+  {
+    "ja": "どうせ言っても分からないじゃん。",
+    "ko": "어차피 말해도 모르잖아.",
+    "romanized": "douseittemowakaranaijan 。"
+  },
+  {
+    "ja": "ウサギはどうして耳が長いんですか？",
+    "ko": "토끼는 왜 귀를 길어요?",
+    "romanized": "usagihadoushitemimiganagaindesuka ？"
+  },
+  {
+    "ja": "私の名前はトムです。",
+    "ko": "제 이름은 톰입니다.",
+    "romanized": "watashinonamaehatomudesu 。"
+  },
+  {
+    "ja": "私は神の存在を信じない。",
+    "ko": "나는 신의 존재를 믿지 않는다.",
+    "romanized": "watashihakaminosonzaiwoshinjinai 。"
+  },
+  {
+    "ja": "海には島がある。",
+    "ko": "바다에는 섬이 있다.",
+    "romanized": "uminihashimagaaru 。"
+  },
+  {
+    "ja": "疲れているんだ。",
+    "ko": "피곤해요.",
+    "romanized": "tsukareteirunda 。"
+  },
+  {
+    "ja": "疲れました。",
+    "ko": "피곤해요.",
+    "romanized": "tsukaremashita 。"
+  },
+  {
+    "ja": "疲れたよ。",
+    "ko": "피곤해요.",
+    "romanized": "tsukaretayo 。"
+  },
+  {
+    "ja": "疲れたなあ。",
+    "ko": "피곤해요.",
+    "romanized": "tsukaretanaa 。"
+  },
+  {
+    "ja": "私は疲れた。",
+    "ko": "피곤해요.",
+    "romanized": "watashihatsukareta 。"
+  },
+  {
+    "ja": "クタクタだよ。",
+    "ko": "피곤해요.",
+    "romanized": "kutakutadayo 。"
+  },
+  {
+    "ja": "疲れたなぁ。",
+    "ko": "피곤해요.",
+    "romanized": "tsukaretanaa 。"
+  },
+  {
+    "ja": "世界で一番長い川は何ですか。",
+    "ko": "세계의 가장 긴 강의 이름이 뭐지?",
+    "romanized": "sekaideichibannagaikawahanandesuka 。"
+  },
+  {
+    "ja": "世界で一番長い川は何？",
+    "ko": "세계의 가장 긴 강의 이름이 뭐지?",
+    "romanized": "sekaideichibannagaikawahanani ？"
+  },
+  {
+    "ja": "いつロンドンから戻りましたか。",
+    "ko": "너 언제 론돈에서 돌아 왔어죠?",
+    "romanized": "itsurondonkaramodorimashitaka 。"
+  },
+  {
+    "ja": "いつロンドンから帰ったの？",
+    "ko": "너 언제 론돈에서 돌아 왔어죠?",
+    "romanized": "itsurondonkarakaetsutano ？"
+  },
+  {
+    "ja": "喫煙は人を殺す。",
+    "ko": "흡연은 사람을 죽인다.",
+    "romanized": "kitsuenhaninwokorosu 。"
+  },
+  {
+    "ja": "彼はアフリカで生まれた。",
+    "ko": "그는 아프리카에서 태어났다.",
+    "romanized": "karehaafurikadeumareta 。"
+  },
+  {
+    "ja": "もう誰も信じられない。",
+    "ko": "이젠 아무도 못 믿겠어요.",
+    "romanized": "moudaremoshinjirarenai 。"
+  },
+  {
+    "ja": "トムを殴れ。",
+    "ko": "톰을 때려.",
+    "romanized": "tomuwonagure 。"
+  },
+  {
+    "ja": "男子トイレは2階です。",
+    "ko": "남자 화장실은 2층에 있다.",
+    "romanized": "danshitoireha 2 kaidesu 。"
+  },
+  {
+    "ja": "歌うことは好きですか。",
+    "ko": "노래하는 거 좋아해?",
+    "romanized": "utaukotohasukidesuka 。"
+  },
+  {
+    "ja": "君の犬はどこ？",
+    "ko": "네 개가 어디 있어?",
+    "romanized": "kunnoinuhadoko ？"
+  },
+  {
+    "ja": "彼はバスで学校に通っている。",
+    "ko": "그분은 학교에 버스로 갑니다.",
+    "romanized": "karehabasudegakkounitootteiru 。"
+  },
+  {
+    "ja": "彼はバスで通学しています。",
+    "ko": "그분은 학교에 버스로 갑니다.",
+    "romanized": "karehabasudetsuugakushiteimasu 。"
+  },
+  {
+    "ja": "私は今30歳です。",
+    "ko": "나는 지금 31살이다.",
+    "romanized": "watashihaima 30 toshidesu 。"
+  },
+  {
+    "ja": "いらっしゃい。",
+    "ko": "어서오세요.",
+    "romanized": "irasshai 。"
+  },
+  {
+    "ja": "分かりません。",
+    "ko": "모릅니다.",
+    "romanized": "wakarimasen 。"
+  },
+  {
+    "ja": "待つしかない。",
+    "ko": "기다릴 수 밖에 없다.",
+    "romanized": "matsushikanai 。"
+  },
+  {
+    "ja": "彼はいつもより早く着いた。",
+    "ko": "그 사람은 평소보다 일찍 도착했어.",
+    "romanized": "karehaitsumoyorihayakutsuita 。"
+  },
+  {
+    "ja": "おー！",
+    "ko": "우와!",
+    "romanized": "oo ！"
+  },
+  {
+    "ja": "これは私の本です。",
+    "ko": "이것은 제 책입니다.",
+    "romanized": "korehawatashinohondesu 。"
+  },
+  {
+    "ja": "彼女は昨日自殺した。",
+    "ko": "어제 그녀는 자살했다.",
+    "romanized": "kanojohakinoujisatsushita 。"
+  },
+  {
+    "ja": "彼は私を食事に招いてくれた。",
+    "ko": "그는 나를 저녁 식사에 초대했다.",
+    "romanized": "karehawatashiwoshokujinimaneitekureta 。"
+  },
+  {
+    "ja": "お前には関係ない。",
+    "ko": "그것은 너와는 상관이 없어.",
+    "romanized": "omaenihakankeinai 。"
+  },
+  {
+    "ja": "お前には関係ないだろ。",
+    "ko": "그것은 너와는 상관이 없어.",
+    "romanized": "omaenihakankeinaidaro 。"
+  },
+  {
+    "ja": "銀行は閉まってた？",
+    "ko": "은행 문은 닫혀 있었어요?",
+    "romanized": "ginkouhashimatteta ？"
+  },
+  {
+    "ja": "このおたんこなす！",
+    "ko": "이 바보야!",
+    "romanized": "konootankonasu ！"
+  },
+  {
+    "ja": "このばかやろう。",
+    "ko": "이 바보야!",
+    "romanized": "konobakayarou 。"
+  },
+  {
+    "ja": "風呂へ入ったか。",
+    "ko": "너 목욕했니?",
+    "romanized": "furoheitsutsutaka 。"
+  },
+  {
+    "ja": "お風呂には入りましたか。",
+    "ko": "너 목욕했니?",
+    "romanized": "ofuronihairimashitaka 。"
+  },
+  {
+    "ja": "トムはあくびした。",
+    "ko": "톰이 하품했어.",
+    "romanized": "tomuhaakubishita 。"
+  },
+  {
+    "ja": "誰かケガした？",
+    "ko": "누군가 다쳤어?",
+    "romanized": "darekakegashita ？"
+  },
+  {
+    "ja": "誰か怪我した？",
+    "ko": "누군가 다쳤어?",
+    "romanized": "darekakegashita ？"
+  },
+  {
+    "ja": "一般的に言えば、日本の気候は温和だ。",
+    "ko": "전반적으로 일본의 날씨는 온화하다.",
+    "romanized": "ippantekiniieba 、 nipponnokikouhaonwada 。"
+  },
+  {
+    "ja": "フランス語は面白いよ。",
+    "ko": "프랑스어는 흥미로워.",
+    "romanized": "furansugohaomoshiroiyo 。"
+  },
+  {
+    "ja": "神は天と地を創造した。",
+    "ko": "하느님이 천지를 창조하셨다.",
+    "romanized": "kamihatentochiwosouzoushita 。"
+  },
+  {
+    "ja": "シャンペンを下さい。",
+    "ko": "샴폐인 부탁해.",
+    "romanized": "shanpenwokudasai 。"
+  },
+  {
+    "ja": "シャンパンを下さい。",
+    "ko": "샴폐인 부탁해.",
+    "romanized": "shanpanwokudasai 。"
+  },
+  {
+    "ja": "羨ましい！",
+    "ko": "네가 부러워.",
+    "romanized": "urayamashii ！"
+  },
+  {
+    "ja": "いいなあ。",
+    "ko": "네가 부러워.",
+    "romanized": "iinaa 。"
+  },
+  {
+    "ja": "うらやましいなぁ。",
+    "ko": "네가 부러워.",
+    "romanized": "urayamashiinaa 。"
+  },
+  {
+    "ja": "あなたは自分のお母さんを大事にしてますか？",
+    "ko": "당신은 당신의 어머니를 사랑합니까?",
+    "romanized": "anatahajibunnookaasanwodaijinishitemasuka ？"
+  },
+  {
+    "ja": "彼は動作がはやい。",
+    "ko": "그 사람은 동작이 빨라요.",
+    "romanized": "karehadousagahayai 。"
+  },
+  {
+    "ja": "おい、君！こっちに来い。",
+    "ko": "야, 너! 이리 와 봐.",
+    "romanized": "oi 、 kun ！ kotchinikoi 。"
+  },
+  {
+    "ja": "コーヒーはお好きですか？",
+    "ko": "커피 좋아해요?",
+    "romanized": "koohiihaosukidesuka ？"
+  },
+  {
+    "ja": "仕事でこっちに来てるんです。",
+    "ko": "일 때문에 왔어요.",
+    "romanized": "shigotodekotchinikiterundesu 。"
+  },
+  {
+    "ja": "経済学を専攻しています。",
+    "ko": "난 경제학을 전공하고 있어.",
+    "romanized": "keizaigakuwosenkoushiteimasu 。"
+  },
+  {
+    "ja": "田中さんは試験に合格したみたいです。",
+    "ko": "다나카 씨는 시험에 합격한 것 같습니다.",
+    "romanized": "tanakasanhashikennigoukakushitamitaidesu 。"
+  },
+  {
+    "ja": "田中さんは試験に合格したらしいです。",
+    "ko": "다나카 씨는 시험에 합격한 것 같습니다.",
+    "romanized": "tanakasanhashikennigoukakushitarashiidesu 。"
+  },
+  {
+    "ja": "五ヶ国語話します。",
+    "ko": "저는 다섯 개의 언어를 합니다.",
+    "romanized": "gokekokugohanashimasu 。"
+  },
+  {
+    "ja": "これはよいカメラだ。",
+    "ko": "이것은 좋은 카메라 이에요.",
+    "romanized": "korehayoikamerada 。"
+  },
+  {
+    "ja": "誰もが彼を愛している。",
+    "ko": "모두가 그를 사랑한다.",
+    "romanized": "daremogakarewoitoshiteiru 。"
+  },
+  {
+    "ja": "皆が彼を愛している。",
+    "ko": "모두가 그를 사랑한다.",
+    "romanized": "minagakarewoitoshiteiru 。"
+  },
+  {
+    "ja": "ライオンはジャングルの王様です。",
+    "ko": "사자는 정글의 왕이다.",
+    "romanized": "raionhajangurunoousamadesu 。"
+  },
+  {
+    "ja": "あなたは英語が好きですか。",
+    "ko": "영어 좋아해요?",
+    "romanized": "anatahaeigogasukidesuka 。"
+  },
+  {
+    "ja": "僕って、かわいい子でしょ？",
+    "ko": "난 귀여운 아이죠?",
+    "romanized": "bokutte 、 kawaiikodesho ？"
+  },
+  {
+    "ja": "それはちょっと極端じゃないですか。",
+    "ko": "그건 좀 극단적이잖아요.",
+    "romanized": "sorehachottokyokutanjanaidesuka 。"
+  },
+  {
+    "ja": "彼女は会う人すべてに自分の不幸な身の上話をする。",
+    "ko": "그 여자는 자기의 불행을 만나는 사람 모두에게 말한다.",
+    "romanized": "kanojohaauninsubetenijibunnofukounaminouehanashiwosuru 。"
+  },
+  {
+    "ja": "大きくなったら、英語の先生になりたい。",
+    "ko": "제가 어른이되면, 나는 영어 교사가되고 싶어요.",
+    "romanized": "ookikunattara 、 eigonosenseininaritai 。"
+  },
+  {
+    "ja": "いちごあるけど食べる？",
+    "ko": "딸기가 있는데 너 먹고 싶니?",
+    "romanized": "ichigoarukedotaberu ？"
+  },
+  {
+    "ja": "メモリが足りないのかなぁ。",
+    "ko": "충분한 RAM 메모리가 없어요.",
+    "romanized": "memorigatarinainokanaa 。"
+  },
+  {
+    "ja": "彼女は開発者ですか。",
+    "ko": "그녀는 개발자입니까?",
+    "romanized": "kanojohakaihatsushadesuka 。"
+  },
+  {
+    "ja": "何でもご自由に召し上がってください。",
+    "ko": "먹고 싶은 것들 마음껏 먹어.",
+    "romanized": "nandemogojiyuunimeshiagattekudasai 。"
+  },
+  {
+    "ja": "トムは自殺した。",
+    "ko": "톰은 자살했다.",
+    "romanized": "tomuhajisatsushita 。"
+  },
+  {
+    "ja": "この雑誌をいただいてもいいですか。",
+    "ko": "이 잡지 내가 가져도 돼?",
+    "romanized": "konozasshiwoitadaitemoiidesuka 。"
+  },
+  {
+    "ja": "魚は好きですか。",
+    "ko": "물고기 좋아하나요?",
+    "romanized": "sakanahasukidesuka 。"
+  },
+  {
+    "ja": "アラビア語は難しい言語ではありません。",
+    "ko": "아랍어는 어려운 언어가 아니다.",
+    "romanized": "arabiagohamuzukashiigengodehaarimasen 。"
+  },
+  {
+    "ja": "アラビア語は難しい言語じゃない。",
+    "ko": "아랍어는 어려운 언어가 아니다.",
+    "romanized": "arabiagohamuzukashiigengojanai 。"
+  },
+  {
+    "ja": "急げ！",
+    "ko": "서둘러!",
+    "romanized": "isoge ！"
+  },
+  {
+    "ja": "さあ、急いで。",
+    "ko": "서둘러!",
+    "romanized": "saa 、 isoide 。"
+  },
+  {
+    "ja": "みんなに伝えて。",
+    "ko": "모두한테 말해.",
+    "romanized": "minnanitsutaete 。"
+  },
+  {
+    "ja": "言語が好きです。",
+    "ko": "언어를 좋아합니다.",
+    "romanized": "gengogasukidesu 。"
+  },
+  {
+    "ja": "彼女は２０歳のときに先生になりました。",
+    "ko": "그녀는 스무 살에 선생님이 되었다.",
+    "romanized": "kanojoha ２０ toshinotokinisenseininarimashita 。"
+  },
+  {
+    "ja": "気をつけて！道路に牛がいるんだ。",
+    "ko": "조심하십시오. 길 위에 소가 있습니다.",
+    "romanized": "kiwotsukete ！ douroniushigairunda 。"
+  },
+  {
+    "ja": "いつでも好きな時に家に来なさい。",
+    "ko": "언제든지 우리 집에 와.",
+    "romanized": "itsudemosukinatokiniienikonasai 。"
+  },
+  {
+    "ja": "彼はいい人です。",
+    "ko": "그는 좋은 사람이다.",
+    "romanized": "karehaiinindesu 。"
+  },
+  {
+    "ja": "彼が突然現れたので我々はみな驚いた。",
+    "ko": "걔가 갑자기 와서 우리는 다 놀랐어.",
+    "romanized": "karegatotsuzenarawaretanodewarewarehaminaodoroita 。"
+  },
+  {
+    "ja": "トムは知っている。",
+    "ko": "톰은 알고 있어.",
+    "romanized": "tomuhashitteiru 。"
+  },
+  {
+    "ja": "パスポートを見せて下さい。",
+    "ko": "여권을 보여 주세요.",
+    "romanized": "pasupootowomisetekudasai 。"
+  },
+  {
+    "ja": "パスポートをお願いします。",
+    "ko": "여권을 보여 주세요.",
+    "romanized": "pasupootowoonegaishimasu 。"
+  },
+  {
+    "ja": "自分の年齢がわからない。",
+    "ko": "나는 내가 몇살인지 모르겠다.",
+    "romanized": "jibunnonenreigawakaranai 。"
+  },
+  {
+    "ja": "私は冬が好きです。",
+    "ko": "난 겨울이 좋아.",
+    "romanized": "watashihafuyugasukidesu 。"
+  },
+  {
+    "ja": "ジャンプして！",
+    "ko": "점프해.",
+    "romanized": "janpushite ！"
+  },
+  {
+    "ja": "跳べ！",
+    "ko": "점프해.",
+    "romanized": "tobe ！"
+  },
+  {
+    "ja": "小さな翼をバサッと広げ、青い空で会いましょう！",
+    "ko": "작은 날개를 활짝 펴고 파란 하늘에서 만나요!",
+    "romanized": "chiisanatsubasawobasatsutohiroge 、 aoisoradeaimashou ！"
+  },
+  {
+    "ja": "私はその時から兎に惹かれ始めた。",
+    "ko": "나는 그때부터 토끼에게 끌리기 시작했다.",
+    "romanized": "watashihasonotokikarausaginihikarehajimeta 。"
+  },
+  {
+    "ja": "これ確認してみて。",
+    "ko": "이거 확인해봐.",
+    "romanized": "korekakuninshitemite 。"
+  },
+  {
+    "ja": "私は本当に疲れている。",
+    "ko": "나는 정말 피곤해지고 있다.",
+    "romanized": "watashihahontounitsukareteiru 。"
+  },
+  {
+    "ja": "誰か死んでるよ。",
+    "ko": "누군가 죽었어.",
+    "romanized": "darekashinderuyo 。"
+  },
+  {
+    "ja": "ちょっと待って。",
+    "ko": "좀 기다려.",
+    "romanized": "chottomatsute 。"
+  },
+  {
+    "ja": "トムのことは個人的に知ってますよ。",
+    "ko": "난 톰을 개인적으로 알고 있어.",
+    "romanized": "tomunokotohakojintekinishittemasuyo 。"
+  },
+  {
+    "ja": "問題なのは私たちに十分な時間がないことだ。",
+    "ko": "문제는 우리는 시간이 충분하지 않다는 것이다.",
+    "romanized": "mondainanohawatashitachinijuubunnajikanganaikotoda 。"
+  },
+  {
+    "ja": "北京は中国の首都だ。",
+    "ko": "베이징은 중국의 수도이다.",
+    "romanized": "pekinhachuugokunoshutoda 。"
+  },
+  {
+    "ja": "大統領はその問題に言及することを拒否した。",
+    "ko": "대통령은 그 문제에 답하는 것을 거부했다",
+    "romanized": "daitouryouhasonomondainigenkyuusurukotowokyohishita 。"
+  },
+  {
+    "ja": "大統領はその問題について回答することを拒否した。",
+    "ko": "대통령은 그 문제에 답하는 것을 거부했다",
+    "romanized": "daitouryouhasonomondainitsuitekaitousurukotowokyohishita 。"
+  },
+  {
+    "ja": "リンゴジュース2杯ください。",
+    "ko": "사과 주스 두 잔 주세요.",
+    "romanized": "ringojuusu 2 haikudasai 。"
+  },
+  {
+    "ja": "私の学級には30人の学生がいますよ。",
+    "ko": "내 학급에는 서른 명의 학생이 있어.",
+    "romanized": "watashinogakkyuuniha 30 ninnogakuseigaimasuyo 。"
+  },
+  {
+    "ja": "君が知ってる人の中で誰が一番賢い？",
+    "ko": "네가 아는 사람 중에서 누가 가장 똑똑한 사람이야?",
+    "romanized": "kungashitteruninnonakadedaregaichibankashikoi ？"
+  },
+  {
+    "ja": "この建物は現代的に見える。",
+    "ko": "이 건물은 현대적으로 보인다.",
+    "romanized": "konotatemonohagendaitekinimieru 。"
+  },
+  {
+    "ja": "お腹が痛いです。",
+    "ko": "배가 아파요.",
+    "romanized": "oharagaitaidesu 。"
+  },
+  {
+    "ja": "トムは集中できなかったよ。",
+    "ko": "톰은 집중할 수 없었어.",
+    "romanized": "tomuhashuuchuudekinakattayo 。"
+  },
+  {
+    "ja": "私は運転するやり方を学んでるよ。",
+    "ko": "난 운전하는 법을 배우고 있어.",
+    "romanized": "watashihauntensuruyarihouwomananderuyo 。"
+  },
+  {
+    "ja": "トムは次なる行動をじっくり考えた。",
+    "ko": "톰은 다음 행동을 곰곰이 생각했어.",
+    "romanized": "tomuhatsuginarukoudouwojikkurikangaeta 。"
+  },
+  {
+    "ja": "本当の目標は何？",
+    "ko": "진짜 목표는 뭐야?",
+    "romanized": "hontounomokuhyouhanani ？"
+  },
+  {
+    "ja": "我が家はキレイです。",
+    "ko": "우리집은 깨끗해요.",
+    "romanized": "wagayahakireidesu 。"
+  },
+  {
+    "ja": "緊張しています。",
+    "ko": "긴장돼요.",
+    "romanized": "kinchoushiteimasu 。"
+  },
+  {
+    "ja": "サミはサッカー選手でした。",
+    "ko": "새미는 축구 선수였습니다.",
+    "romanized": "samihasakkaasenshudeshita 。"
+  },
+  {
+    "ja": "最近はどのように過ごされてますか？",
+    "ko": "요즘에 어떻게 지내십니까?",
+    "romanized": "saikinhadonoyounisugosaretemasuka ？"
+  },
+  {
+    "ja": "明日の天気はどう？",
+    "ko": "내일 날씨는 어때?",
+    "romanized": "ashitanotenkihadou ？"
+  },
+  {
+    "ja": "私は決してお前に言うことはないだろう。",
+    "ko": "나는 결코 너에게 말하지 않을 것이다.",
+    "romanized": "watashihakesshiteomaeniiukotohanaidarou 。"
+  },
+  {
+    "ja": "僕はトム。君は？",
+    "ko": "나는 톰이야. 너는?",
+    "romanized": "bokuhatomu 。 kunha ？"
+  },
+  {
+    "ja": "トムは毎日ピアノを練習するよ。",
+    "ko": "톰은 매일 피아노를 연습해.",
+    "romanized": "tomuhamainichipianoworenshuusuruyo 。"
+  },
+  {
+    "ja": "私はこの本があの本より好きだ。",
+    "ko": "난 이 책을 저 책보다 좋아한다.",
+    "romanized": "watashihakonohongaanohonyorisukida 。"
+  },
+  {
+    "ja": "いつ始めるつもりですか？",
+    "ko": "언제 시작할 생각이에요?",
+    "romanized": "itsuhajimerutsumoridesuka ？"
+  },
+  {
+    "ja": "トムは右目の下に独特の傷がある。",
+    "ko": "톰은 오른쪽 눈밑에 독특한 상처가 있다.",
+    "romanized": "tomuhamigimenoshitanidokutokunokizugaaru 。"
+  },
+  {
+    "ja": "この本は、１６８９年に出版されました。",
+    "ko": "이 책은 1689년에 출판되었다.",
+    "romanized": "konohonha 、 １６８９ nennishuppansaremashita 。"
+  },
+  {
+    "ja": "僕は君だよ。",
+    "ko": "나는 너야.",
+    "romanized": "bokuhakundayo 。"
+  },
+  {
+    "ja": "何故彼女がそんなに神経質になってしまったのか、私は知りません。",
+    "ko": "그녀가 왜 그렇게 불안해 하는지 모르겠어요.",
+    "romanized": "nazekanojogasonnanishinkeishitsuninatteshimattanoka 、 watashihashirimasen 。"
+  },
+  {
+    "ja": "彼は寝ない。",
+    "ko": "그는 안 잔다.",
+    "romanized": "karehanenai 。"
+  },
+  {
+    "ja": "セミは2人の子供のお父さんだ。",
+    "ko": "새미는 두 어린 아이의 아버지이다.",
+    "romanized": "semiha 2 ninnokodomonootousanda 。"
+  },
+  {
+    "ja": "みんな躊躇したよ。",
+    "ko": "모두 주저했어.",
+    "romanized": "minnachuuchoshitayo 。"
+  },
+  {
+    "ja": "誰もが躊躇した。",
+    "ko": "모두 주저했어.",
+    "romanized": "daremogachuuchoshita 。"
+  },
+  {
+    "ja": "教師に戻ろうかと考えている。",
+    "ko": "교직에 돌아갈 생각을 하고 있다.",
+    "romanized": "kyoushinimodoroukatokangaeteiru 。"
+  },
+  {
+    "ja": "私、お腹が痛いよ。",
+    "ko": "나 배 아파.",
+    "romanized": "watashi 、 oharagaitaiyo 。"
+  },
+  {
+    "ja": "何で構成されているの？",
+    "ko": "뭘로 구성되어 있어?",
+    "romanized": "nandekouseisareteiruno ？"
+  },
+  {
+    "ja": "トムは規則を知らない。",
+    "ko": "톰은 규칙을 몰라.",
+    "romanized": "tomuhakisokuwoshiranai 。"
+  },
+  {
+    "ja": "昨日お見合いした人はどうだった？",
+    "ko": "어제 선 본 남자는 어땠어?",
+    "romanized": "kinouomiaishitaninhadoudatta ？"
+  },
+  {
+    "ja": "性格もいい上に、格好よかった！",
+    "ko": "성격도 좋은 데다가 얼굴도 잘생겼어!",
+    "romanized": "seikakumoiiueni 、 kakkouyokatta ！"
+  },
+  {
+    "ja": "だから機嫌が良さそうなんだね。",
+    "ko": "그래서 기분이 좋아 보이는구나.",
+    "romanized": "dakarakigengayosasounandane 。"
+  },
+  {
+    "ja": "私はピアノが弾けます。",
+    "ko": "저는 피아노를 칠 수 있어요.",
+    "romanized": "watashihapianogahikemasu 。"
+  },
+  {
+    "ja": "いとこは私よりちょっと年上です。",
+    "ko": "사촌은 나보다 조금 연상이에요.",
+    "romanized": "itokohawatashiyorichottotoshiuedesu 。"
+  },
+  {
+    "ja": "仕事では普段フランス語は話さないよ。",
+    "ko": "일 할 때는 보통 프랑스어로 말하지 않아요.",
+    "romanized": "shigotodehafudanfuransugohahanasanaiyo 。"
+  },
+  {
+    "ja": "まだ起きてるよ。",
+    "ko": "아직 깨어있어.",
+    "romanized": "madaokiteruyo 。"
+  },
+  {
+    "ja": "駅までは歩いて1時間です。",
+    "ko": "역까지 걸어서 한시간이에요.",
+    "romanized": "ekimadehaaruite 1 jikandesu 。"
+  },
+  {
+    "ja": "それが盗まれました。",
+    "ko": "그것이 도난당했어요.",
+    "romanized": "soreganusumaremashita 。"
+  },
+  {
+    "ja": "トムは通訳を介して話をした。",
+    "ko": "톰은 통역을 통해 말을했다.",
+    "romanized": "tomuhatsuuyakuwokaishitehanashiwoshita 。"
+  },
+  {
+    "ja": "私達は、書店に行ってきました。",
+    "ko": "우리는 서점에 가서 왔습니다.",
+    "romanized": "watashitachiha 、 shotenniittekimashita 。"
+  },
+  {
+    "ja": "秘密だから、誰にも言わないでね。",
+    "ko": "비밀이라 아무에게도 말하지 말아 줘.",
+    "romanized": "himitsudakara 、 darenimoiwanaidene 。"
+  },
+  {
+    "ja": "ほんま？",
+    "ko": "맞나?",
+    "romanized": "honma ？"
+  },
+  {
+    "ja": "この写真を見ると、私は必ず子供のころを思い出す。",
+    "ko": "이 사진을 보면, 나는 반드시 어렸을 때를 기억한다.",
+    "romanized": "konoshashinwomiruto 、 watashihakanarazukodomonokorowoomoidasu 。"
+  },
+  {
+    "ja": "今夜舞台で使うギターを貸してくれる？",
+    "ko": "오늘밤 무대에서 쓸 기타좀 빌려줄래?",
+    "romanized": "konyabutaidetsukaugitaawokashitekureru ？"
+  },
+  {
+    "ja": "月に代わってお仕置きよ！",
+    "ko": "정의의 이름으로 용서하지 않겠어!",
+    "romanized": "gatsunikawatteoshiokiyo ！"
+  },
+  {
+    "ja": "フランス語は最も美しい言語だと思います。",
+    "ko": "프랑스어는 가장 아름다운 언어인 것 같아.",
+    "romanized": "furansugohamottomoutsukushiigengodatoomoimasu 。"
+  },
+  {
+    "ja": "もう手紙は書かない。",
+    "ko": "난 이제 편지 안 써.",
+    "romanized": "moutegamihakakanai 。"
+  },
+  {
+    "ja": "うん。",
+    "ko": "응.",
+    "romanized": "un 。"
+  },
+  {
+    "ja": "元気ですか。",
+    "ko": "안녕하세요?",
+    "romanized": "genkidesuka 。"
+  },
+  {
+    "ja": "お元気ですか。",
+    "ko": "안녕하세요?",
+    "romanized": "ogenkidesuka 。"
+  },
+  {
+    "ja": "彼女はそれを脱いだ。",
+    "ko": "그녀는 그것을 벗었다.",
+    "romanized": "kanojohasorewonuida 。"
+  },
+  {
+    "ja": "中国語で10まで数えられますか？",
+    "ko": "중국어로 십까지 셀 수 있습니까?",
+    "romanized": "chuugokugode 10 madekazoeraremasuka ？"
+  },
+  {
+    "ja": "これほどの災害に遭っても、冷静で毅然としていた日本人の姿は全世界の人に深い印象を残した。",
+    "ko": "이 정도의 재해를 당해도 냉정하고 확연히 하고 있던 일본인의 모습은 전 세계의 사람에게 깊은 인상을 남겼다.",
+    "romanized": "korehodonosaigainiatsutemo 、 reiseidekizentoshiteitanihonjinnosugatahazensekainoninnifukaiinshouwonokoshita 。"
+  },
+  {
+    "ja": "神様〜、どうしたら韓国語上達するの？",
+    "ko": "하나님 어떻게 하면 한국어를 잘할 수 있나요?",
+    "romanized": "kamisama 〜 、 doushitarakankokugojoutatsusuruno ？"
+  },
+  {
+    "ja": "Windows XPがリリースされた時、私は三歳でした。",
+    "ko": "윈도우즈 엑스피가 출시되었을 때 저는 세 살이었어요.",
+    "romanized": "Windows XPgaririisusaretatoki 、 watashihasansaideshita 。"
+  },
+  {
+    "ja": "嘘！",
+    "ko": "거짓말!",
+    "romanized": "uso ！"
+  },
+  {
+    "ja": "誰だ？俺だ",
+    "ko": "누구야? 나다.",
+    "romanized": " dareda ？   oreda "
+  },
+  {
+    "ja": "その鳥なら、沖縄に行った時に見たわよ。",
+    "ko": "그 새라면 오키나와에 갔을 때 봤어요.",
+    "romanized": "sonotorinara 、 okinawaniittatokinimitawayo 。"
+  },
+  {
+    "ja": "ダンスを学びたい。",
+    "ko": "춤을 배우고 싶다.",
+    "romanized": "dansuwomanabitai 。"
+  },
+  {
+    "ja": "言いたいことはそれだけです。",
+    "ko": "말하고 싶은 것은 그것뿐입니다.",
+    "romanized": "iitaikotohasoredakedesu 。"
+  },
+  {
+    "ja": "インスタント食品は塩分が多い。",
+    "ko": "인스턴트 식품은 염분이 높다.",
+    "romanized": "insutantoshokuhinhaenbungaooi 。"
+  },
+  {
+    "ja": "みんなはどこ？",
+    "ko": "다들 어디야?",
+    "romanized": "minnahadoko ？"
+  },
+  {
+    "ja": "泣かないで。",
+    "ko": "울지 마.",
+    "romanized": "nakanaide 。"
+  },
+  {
+    "ja": "俺がいるさ。",
+    "ko": "내가 있으니까.",
+    "romanized": "oregairusa 。"
+  },
+  {
+    "ja": "ホテルの予約はしたの？",
+    "ko": "호텔 예약은 했어?",
+    "romanized": "hoterunoyoyakuhashitano ？"
+  },
+  {
+    "ja": "町で用があるんだ。",
+    "ko": "동네에 볼일이 있다.",
+    "romanized": "machideyougaarunda 。"
+  },
+  {
+    "ja": "彼女は可愛いです。",
+    "ko": "여자가 귀엽다.",
+    "romanized": "kanojohakawaidesu 。"
+  },
+  {
+    "ja": "最近、体調があまりよくないんだ。",
+    "ko": "요즘 몸이 별로 좋지 않다.",
+    "romanized": "saikin 、 taichougaamariyokunainda 。"
+  },
+  {
+    "ja": "新車に乗ってみたかったんだ。",
+    "ko": "새 차를 타보고 싶었다.",
+    "romanized": "shinshaninottemitakattanda 。"
+  },
+  {
+    "ja": "よくやった！",
+    "ko": "잘 했어!",
+    "romanized": "yokuyatta ！"
+  },
+  {
+    "ja": "私たちはボストンに行きました。",
+    "ko": "우리는 보스턴에 갔다.",
+    "romanized": "watashitachihabosutonniikimashita 。"
+  },
+  {
+    "ja": "また来てね。",
+    "ko": "다시 와.",
+    "romanized": "matakitene 。"
+  },
+  {
+    "ja": "この本は私には読みやすい。",
+    "ko": "이 책을 읽는 것은 나에게 쉽다.",
+    "romanized": "konohonhawatashinihayomiyasui 。"
+  },
+  {
+    "ja": "お金はいくら持っていますか。",
+    "ko": "돈을 얼마나 가지고 계세요?",
+    "romanized": "okinhaikuramotsuteimasuka 。"
+  },
+  {
+    "ja": "いくらお金をもっていますか。",
+    "ko": "돈을 얼마나 가지고 계세요?",
+    "romanized": "ikuraokinwomotteimasuka 。"
+  },
+  {
+    "ja": "それって本物の血？",
+    "ko": "그거 진짜 피야?",
+    "romanized": "sorettehonmononochi ？"
+  },
+  {
+    "ja": "それは君の責任だ。",
+    "ko": "그건 네 책임이야.",
+    "romanized": "sorehakunnosekininda 。"
+  },
+  {
+    "ja": "私は彼の葬儀に参加した。",
+    "ko": "나는 그의 장례식에 참석했다.",
+    "romanized": "watashihakanosouginisankashita 。"
+  },
+  {
+    "ja": "僕がやります。",
+    "ko": "저는 이거 할게요.",
+    "romanized": "bokugayarimasu 。"
+  },
+  {
+    "ja": "私がやります。",
+    "ko": "저는 이거 할게요.",
+    "romanized": "watashigayarimasu 。"
+  },
+  {
+    "ja": "遅刻したね。",
+    "ko": "너 늦었어.",
+    "romanized": "chikokushitane 。"
+  },
+  {
+    "ja": "舞台には有名な音楽家がいますか。",
+    "ko": "무대 위에 유명한 음악가가 있습니까?",
+    "romanized": "butainihayuumeinaongakukagaimasuka 。"
+  },
+  {
+    "ja": "あの騒音には耐えられないよ。",
+    "ko": "나는 저 소음을 참을 수 없다.",
+    "romanized": "anosouonnihataerarenaiyo 。"
+  },
+  {
+    "ja": "ジーンとケートは双子だ。",
+    "ko": "진과 케이트는 쌍둥이야.",
+    "romanized": "jiintokeetohafutagoda 。"
+  },
+  {
+    "ja": "彼女の目は涙でいっぱいだった。",
+    "ko": "그녀의 눈이 눈물로 가득했다.",
+    "romanized": "kanojonomehanamidadeippaidatta 。"
+  },
+  {
+    "ja": "彼女は小さなパンを持っています。",
+    "ko": "그녀에게는 조그만 빵 하나가 있다.",
+    "romanized": "kanojohachiisanapanwomotsuteimasu 。"
+  },
+  {
+    "ja": "トムとデートしたいな。",
+    "ko": "나는 톰과 사귀고 싶다.",
+    "romanized": "tomutodeetoshitaina 。"
+  },
+  {
+    "ja": "トムと付き合いたいな。",
+    "ko": "나는 톰과 사귀고 싶다.",
+    "romanized": "tomutotsukiaitaina 。"
+  },
+  {
+    "ja": "東京の夜景はすばらしい。",
+    "ko": "도쿄는 야경이 끝내줘.",
+    "romanized": "toukyounoyakeihasubarashii 。"
+  },
+  {
+    "ja": "ドイツ人の友達の名前はハンスです。",
+    "ko": "내 독일인 친구 이름은 한스예요.",
+    "romanized": "doitsuninnotomodachinonamaehahansudesu 。"
+  },
+  {
+    "ja": "法のもとではすべての人は平等だ。",
+    "ko": "모든 사람은 법 아래에 동등해.",
+    "romanized": "hounomotodehasubetenoninhabyoudouda 。"
+  },
+  {
+    "ja": "問題はその子供が甘やかされすぎていたということだ。",
+    "ko": "문제는 아이를 너무 오냐오냐 키웠다는 점에 있어.",
+    "romanized": "mondaihasonokodomogaamayakasaresugiteitatoiukotoda 。"
+  },
+  {
+    "ja": "この文は、語学学習者には役に立たないよ。",
+    "ko": "이 문장은 언어 학습자에게 유용하지 않다.",
+    "romanized": "konobunha 、 gogakugakushuushanihayakunitatanaiyo 。"
+  },
+  {
+    "ja": "なんでトムは外で待ってるの？",
+    "ko": "왜 톰은 밖에서 기다리고 있는 거야?",
+    "romanized": "nandetomuhasotodematsuteruno ？"
+  },
+  {
+    "ja": "トムはボランティアをした。",
+    "ko": "톰이 자원했어.",
+    "romanized": "tomuhaboranteiawoshita 。"
+  },
+  {
+    "ja": "会社を表す英語は何ですか。",
+    "ko": "영어로 '회사'를 뭐라고 부릅니까?",
+    "romanized": " kaisha  woarawasueigohanandesuka 。"
+  },
+  {
+    "ja": "彼がショックから立ち直るのに数週間かかった。",
+    "ko": "그가 충격에서 벗어나는 데는 몇 주 걸렸다.",
+    "romanized": "karegashokkukaratachinaorunonisuushuukankakatta 。"
+  },
+  {
+    "ja": "家に着いた時、私はお腹がとてもすいていました。",
+    "ko": "집에 도착했을 때, 나는 너무 배고팠어.",
+    "romanized": "ienitsuitatoki 、 watashihaoharagatotemosuiteimashita 。"
+  },
+  {
+    "ja": "あれは鉛筆です。",
+    "ko": "그거 연필이야.",
+    "romanized": "arehaenpitsudesu 。"
+  },
+  {
+    "ja": "少年ははしごをつかみ、登りはじめた。",
+    "ko": "소년이 사다리를 잡고 오르기 시작했다.",
+    "romanized": "shounenhahashigowotsukami 、 noborihajimeta 。"
+  },
+  {
+    "ja": "私には二人の息子があり、一人は東京に、一人は名古屋にいる。",
+    "ko": "나는 아들이 둘 있는데 하나는 도쿄에 있고 다른 하나는 나고야에 있다.",
+    "romanized": "watashinihafutarinomusukogaari 、 hitorihatoukyouni 、 hitorihanagoyaniiru 。"
+  },
+  {
+    "ja": "七時三十分だった。",
+    "ko": "일곱 시 반이었다.",
+    "romanized": "shichijisanjuufundatta 。"
+  },
+  {
+    "ja": "事故があった。",
+    "ko": "사고가 벌어졌다.",
+    "romanized": "jikogaatta 。"
+  },
+  {
+    "ja": "その役者の事は聞いたことが無い。",
+    "ko": "이 배우는 들어본 적이 없다.",
+    "romanized": "sonoyakushanokotohakiitakotoganai 。"
+  },
+  {
+    "ja": "つま先の感覚がない。",
+    "ko": "발가락에 감각이 없다.",
+    "romanized": "tsumasakinokankakuganai 。"
+  },
+  {
+    "ja": "消防署は警察署の隣にあります。",
+    "ko": "소방서가 경찰서 옆에 있다.",
+    "romanized": "shouboushohakeisatsushonotonariniarimasu 。"
+  },
+  {
+    "ja": "彼は決してそのようなことをするような人ではない。",
+    "ko": "그분은 절대 그런 걸 할 사람이 아니에요.",
+    "romanized": "karehakesshitesonoyounakotowosuruyounanindehanai 。"
+  },
+  {
+    "ja": "誇張はやめなさいって100万回言ったでしょ。",
+    "ko": "과장하지 말라고 100만 번은 말했을 텐데.",
+    "romanized": "kochouhayamenasaitte 100 mankaiittadesho 。"
+  },
+  {
+    "ja": "老人は私に頼み事をした。",
+    "ko": "어떤 할아버지가 나한테 부탁을 했어.",
+    "romanized": "roujinhawatashinitanomikotowoshita 。"
+  },
+  {
+    "ja": "韓国では何語を話しますか。",
+    "ko": "한국에서는 무슨 언어로 말합니까?",
+    "romanized": "kankokudehananigowohanashimasuka 。"
+  },
+  {
+    "ja": "私はテレビを見ません。",
+    "ko": "나는 텔레비전을 보지 않는다.",
+    "romanized": "watashihaterebiwomimasen 。"
+  },
+  {
+    "ja": "これで終わりです。",
+    "ko": "이것으로 끝입니다.",
+    "romanized": "koredeowaridesu 。"
+  },
+  {
+    "ja": "そこに問題がある。",
+    "ko": "거기에 문제가 있다.",
+    "romanized": "sokonimondaigaaru 。"
+  },
+  {
+    "ja": "また話し中だ。",
+    "ko": "다시 이야기하는 중이다.",
+    "romanized": "matahanashichuuda 。"
+  },
+  {
+    "ja": "今晩は予定がある？",
+    "ko": "오늘 밤에 해야 하는 일 있어?",
+    "romanized": "konbanhayoteigaaru ？"
+  },
+  {
+    "ja": "彼は脱獄した。",
+    "ko": "그가 탈옥했다.",
+    "romanized": "karehadatsugokushita 。"
+  },
+  {
+    "ja": "この鉛筆の先ちびてる。鉛筆削りある？",
+    "ko": "이 연필 끝이 뭉툭해졌어. 연필깎이 있어?",
+    "romanized": "konoenpitsunosakichibiteru 。 enpitsukezuriaru ？"
+  },
+  {
+    "ja": "愛より尊い物はない。",
+    "ko": "사랑보다 귀중한 것은 없다.",
+    "romanized": "aiyoritoutoimonohanai 。"
+  },
+  {
+    "ja": "国際女性の日おめでとうございます！",
+    "ko": "세계 여성의 날을 축하합니다.",
+    "romanized": "kokusaijoseinonichiomedetougozaimasu ！"
+  },
+  {
+    "ja": "Tatoebaへようこそ！",
+    "ko": "타토에바에 오신 것을 환영합니다!",
+    "romanized": "Tatoebaheyoukoso ！"
+  },
+  {
+    "ja": "ケイトという女の子が君に会いにきた。",
+    "ko": "케이트라는 여자애가 널 보러 왔어.",
+    "romanized": "keitotoiuonnanokogakunniainikita 。"
+  },
+  {
+    "ja": "いいタイミングだ。",
+    "ko": "좋은 타이밍이야.",
+    "romanized": "iitaiminguda 。"
+  },
+  {
+    "ja": "あなたにキスしたい。",
+    "ko": "당신에게 키스할래요.",
+    "romanized": "anatanikisushitai 。"
+  },
+  {
+    "ja": "人々は変化を恐れる。",
+    "ko": "사람들은 변화를 두려워한다.",
+    "romanized": "hitobitohahenkawoosoreru 。"
+  },
+  {
+    "ja": "トムの演説はよかった。",
+    "ko": "톰이 한 연설은 좋았다.",
+    "romanized": "tomunoenzetsuhayokatta 。"
+  },
+  {
+    "ja": "疲れたけど寝れないわ。",
+    "ko": "피곤한데 잠이 안 와.",
+    "romanized": "tsukaretakedonerenaiwa 。"
+  },
+  {
+    "ja": "実は今日はちょっと忙しいんですよ。だから先に帰ってください。",
+    "ko": "실은 오늘 좀 바쁘거든요. 그니까 먼저 가세요.",
+    "romanized": "jitsuhakonnichihachottoisogashiindesuyo 。 dakarasakinikaetsutekudasai 。"
+  },
+  {
+    "ja": "乾杯！",
+    "ko": "건배!",
+    "romanized": "kanpai ！"
+  },
+  {
+    "ja": "朝寝坊して、危うく遅刻するところだったよ。",
+    "ko": "아침에 늦잠을 자서 하마터면 지각할 뻔했어.",
+    "romanized": "asaneboushite 、 ayaukuchikokusurutokorodattayo 。"
+  },
+  {
+    "ja": "ずっと友達でいようね。",
+    "ko": "언제까지나 친구로 지내자.",
+    "romanized": "zuttotomodachideiyoune 。"
+  },
+  {
+    "ja": "いつまでも友達でいようね。",
+    "ko": "언제까지나 친구로 지내자.",
+    "romanized": "itsumademotomodachideiyoune 。"
+  },
+  {
+    "ja": "ただの悪夢だった。",
+    "ko": "그냥 악몽이었어.",
+    "romanized": "tadanoakumudatta 。"
+  },
+  {
+    "ja": "ご安心下さい。",
+    "ko": "안심하세요.",
+    "romanized": "goanshinkudasai 。"
+  },
+  {
+    "ja": "彼女のおじさんは有名な医者です。",
+    "ko": "그녀의 삼촌은 유명한 의사입니다.",
+    "romanized": "kanojonoojisanhayuumeinaishadesu 。"
+  },
+  {
+    "ja": "すみません、出口はどこですか？",
+    "ko": "실례합니다. 출구가 어디인가요?",
+    "romanized": "sumimasen 、 deguchihadokodesuka ？"
+  },
+  {
+    "ja": "一つだけ残して全部のクレジットカードを止めた。",
+    "ko": "나는 내 신용카드를 하나만 빼고 모두 해지했다.",
+    "romanized": "hitotsudakenokoshitezenbunokurejittokaadowotometa 。"
+  },
+  {
+    "ja": "鉛筆がいるなら、貸してあげるよ。",
+    "ko": "연필이 필요하면 제가 빌려줄게요.",
+    "romanized": "enpitsugairunara 、 kashiteageruyo 。"
+  },
+  {
+    "ja": "メアリーはカトリック系の高等学校へ行きました。",
+    "ko": "메리는 가톨릭계 고등학교에 갔다.",
+    "romanized": "meariihakatorikkukeinokoutougakkouheikimashita 。"
+  },
+  {
+    "ja": "昨夜は彼が貸してくれた本に読みふけっていた。",
+    "ko": "어젯밤에 난 그가 빌려준 책에 빠져들었다.",
+    "romanized": "sakuyahakaregakashitekuretahonniyomifuketteita 。"
+  },
+  {
+    "ja": "今日トムたちとカラオケ行くんだけど来ない？",
+    "ko": "난 오늘 톰과 다른 사람들이랑 같이 노래방에 가는데 너도 같이 갈래?",
+    "romanized": "kyoutomutachitokaraokeikundakedokonai ？"
+  },
+  {
+    "ja": "モナリザはレオナルド・ダヴィンチによって描かれた。",
+    "ko": "모나리자는 레오나르도 다빈치가 그렸어.",
+    "romanized": "monarizahareonarudo . davinchiniyotteegakareta 。"
+  },
+  {
+    "ja": "ここでは天気は変わりやすい。",
+    "ko": "여긴 날씨가 변덕스러워.",
+    "romanized": "kokodehatenkihakawariyasui 。"
+  },
+  {
+    "ja": "弁護士はみんなウソつきだ。",
+    "ko": "변호사들은 모두 거짓말쟁이다.",
+    "romanized": "bengoshihaminnausotsukida 。"
+  },
+  {
+    "ja": "弁護士はみんな嘘つきだ。",
+    "ko": "변호사들은 모두 거짓말쟁이다.",
+    "romanized": "bengoshihaminnausotsukida 。"
+  },
+  {
+    "ja": "オレンジにはビタミンＣが多く含まれている。",
+    "ko": "오렌지는 많은 비타민C를 함유하고 있다.",
+    "romanized": "orenjinihabitamin gaookufukumareteiru 。"
+  },
+  {
+    "ja": "ジャガイモとニンジンの皮をむいてください。",
+    "ko": "감자와 당근의 껍질을 벗겨주세요.",
+    "romanized": "jagaimotoninjinnokawawomuitekudasai 。"
+  },
+  {
+    "ja": "ロシア語の習得する機会さえあればいいのになあ。",
+    "ko": "내가 러시아어를 배울 기회가 있었으면 좋았을 텐데.",
+    "romanized": "roshiagonoshuutokusurukikaisaearebaiinoninaa 。"
+  },
+  {
+    "ja": "バグだか何だか分かんないけど、このソフトはちゃんと動かない。",
+    "ko": "이게 버그인지 아닌지 모르겠는데, 이 소프트웨어는 제대로 동작하지 않아.",
+    "romanized": "bagudakanandakawakannaikedo 、 konosofutohachantougokanai 。"
+  },
+  {
+    "ja": "バグだか何だか分からないけど、このソフトはちゃんと動かない。",
+    "ko": "이게 버그인지 아닌지 모르겠는데, 이 소프트웨어는 제대로 동작하지 않아.",
+    "romanized": "bagudakanandakawakaranaikedo 、 konosofutohachantougokanai 。"
+  },
+  {
+    "ja": "ギリシャは島が多い。",
+    "ko": "그리스에는 섬이 많다.",
+    "romanized": "girishahashimagaooi 。"
+  },
+  {
+    "ja": "それは秘密です。",
+    "ko": "그건 비밀이에요.",
+    "romanized": "sorehahimitsudesu 。"
+  },
+  {
+    "ja": "耳が聞こえないんですか？",
+    "ko": "귀가 안 들리시나요?",
+    "romanized": "mimigakikoenaindesuka ？"
+  },
+  {
+    "ja": "私たちはブラジルからコーヒーを輸入しているんです。",
+    "ko": "우리는 브라질에서 커피를 수입한다.",
+    "romanized": "watashitachihaburajirukarakoohiiwoyunyuushiteirundesu 。"
+  },
+  {
+    "ja": "祖父は戦争で負傷した。",
+    "ko": "우리 할아버지는 전쟁에서 부상당했다.",
+    "romanized": "sofuhasensoudefushoushita 。"
+  },
+  {
+    "ja": "ラズベリーって、すごく値が張るんだよ。",
+    "ko": "라즈베리는 너무 비싸다.",
+    "romanized": "razuberiitte 、 sugokuataigaharundayo 。"
+  },
+  {
+    "ja": "英語でラブレターを書くのは簡単じゃないんだよ。",
+    "ko": "영어로 러브레터를 쓰는 것은 쉽지 않다.",
+    "romanized": "eigoderaburetaawokakunohakantanjanaindayo 。"
+  },
+  {
+    "ja": "ギリシャ語は覚えにくい。",
+    "ko": "그리스어를 배우는 것은 어렵다.",
+    "romanized": "girishagohaoboenikui 。"
+  },
+  {
+    "ja": "宗教と哲学ってどう違うんですか？",
+    "ko": "종교와 철학의 차이점은 무엇입니까?",
+    "romanized": "shuukyoutotetsugakuttedouchigaundesuka ？"
+  },
+  {
+    "ja": "彼はもはやここにはいない。",
+    "ko": "그는 더 이상 여기 없다.",
+    "romanized": "karehamohayakokonihainai 。"
+  },
+  {
+    "ja": "彼はもうここにはいない。",
+    "ko": "그는 더 이상 여기 없다.",
+    "romanized": "karehamoukokonihainai 。"
+  },
+  {
+    "ja": "どうしてまだ学校にいるの？",
+    "ko": "너 왜 아직도 학교에 있어?",
+    "romanized": "doushitemadagakkouniiruno ？"
+  },
+  {
+    "ja": "どうして学校に行かなかったの？",
+    "ko": "왜 학교에 가지 않았어?",
+    "romanized": "doushitegakkouniikanakattano ？"
+  },
+  {
+    "ja": "私は時間がない。",
+    "ko": "난 시간이 없다.",
+    "romanized": "watashihajikanganai 。"
+  },
+  {
+    "ja": "あの日は雨が降ってたんだ。",
+    "ko": "그 날은 비가 내리고 있었다.",
+    "romanized": "anonichihaamegafutsutetanda 。"
+  },
+  {
+    "ja": "私は四季の中で夏が一番好きだ。",
+    "ko": "나는 사계절 중에 여름을 제일 좋아해.",
+    "romanized": "watashihashikinonakadenatsugaichibansukida 。"
+  },
+  {
+    "ja": "彼は質問に答えた。",
+    "ko": "그는 질문에 대답했다",
+    "romanized": "karehashitsumonnikotaeta 。"
+  },
+  {
+    "ja": "毎週日曜、礼拝に行きます。",
+    "ko": "매주일요일 예배를 하러 갑니다",
+    "romanized": "maishuunichiyou 、 reihainiikimasu 。"
+  },
+  {
+    "ja": "みんな忙しいのよ。",
+    "ko": "모두 바쁘네요",
+    "romanized": "minnaisogashiinoyo 。"
+  },
+  {
+    "ja": "トムがチームに加わった。",
+    "ko": "톰이 팀에 합류했다.",
+    "romanized": "tomugachiimunikuwawatta 。"
+  },
+  {
+    "ja": "漢字、何個覚えた？",
+    "ko": "한자 몇개 외웠어?",
+    "romanized": "kanji 、 nankooboeta ？"
+  },
+  {
+    "ja": "覚えておきます。",
+    "ko": "외워두었습니다.",
+    "romanized": "oboeteokimasu 。"
+  },
+  {
+    "ja": "トムなら、通訳として働いてるよ。",
+    "ko": "톰이라면 번역일을 하고있어.",
+    "romanized": "tomunara 、 tsuuyakutoshitehataraiteruyo 。"
+  },
+  {
+    "ja": "元気な男の子ですよ。",
+    "ko": "건강한 남자아이로구나.",
+    "romanized": "genkinaotokonokodesuyo 。"
+  },
+  {
+    "ja": "この二重あごをなんとかしたいのよ。",
+    "ko": "이 이중턱을 어떻게든 하고싶어.",
+    "romanized": "kononijuuagowonantokashitainoyo 。"
+  },
+  {
+    "ja": "ホットケーキうまく焼けて嬉しい。",
+    "ko": "핫케이크가 맛있게 구워져 기뻐.",
+    "romanized": "hottokeekiumakuyaketeureshii 。"
+  },
+  {
+    "ja": "あなたは私に何の質問がしたいのですか。",
+    "ko": "당신은 나에게 어떤 질문이 하고 싶습니까?",
+    "romanized": "anatahawatashininannoshitsumongashitainodesuka 。"
+  },
+  {
+    "ja": "日本人だって、日本語を話すときに間違えることはあるさ。",
+    "ko": "일본인이지만 일본어를 말할때 틀릴때가 있어.",
+    "romanized": "nihonjindatte 、 nihongowohanasutokinimachigaerukotohaarusa 。"
+  },
+  {
+    "ja": "カメラを持ってきます。",
+    "ko": "카메라를 들고 왔습니다",
+    "romanized": "kamerawomotsutekimasu 。"
+  },
+  {
+    "ja": "トムならすぐに戻ってきますよ。",
+    "ko": "톰이라면 금방 돌아올거에요.",
+    "romanized": "tomunarasugunimodotsutekimasuyo 。"
+  },
+  {
+    "ja": "なんでナイフが必要なの？",
+    "ko": "칼이 왜 필요하니?",
+    "romanized": "nandenaifugahitsuyounano ？"
+  },
+  {
+    "ja": "この部屋は風通しがよい。",
+    "ko": "이방은 통풍이 좋아.",
+    "romanized": "konoheyahakazetooshigayoi 。"
+  },
+  {
+    "ja": "我々は人を外見で判断すべきではない。",
+    "ko": "우리들은 남을 외모로 판단해서는 안된다",
+    "romanized": "warewarehaninwogaikendehandansubekidehanai 。"
+  },
+  {
+    "ja": "例年、うちでは感謝祭の日に七面鳥を食べるんだ。",
+    "ko": "예년 집에서는 감사절에 칠면조를 먹는다",
+    "romanized": "reinen 、 uchidehakanshasainonichinishichimenchouwotaberunda 。"
+  },
+  {
+    "ja": "この箱にはリンゴが五つ入っている。",
+    "ko": "이 상자에 사과 다섯 개가 있다.",
+    "romanized": "konohakoniharingogaitsutsuitsutsuteiru 。"
+  },
+  {
+    "ja": "この箱にはりんごが五つ入っている。",
+    "ko": "이 상자에 사과 다섯 개가 있다.",
+    "romanized": "konohakoniharingogaitsutsuitsutsuteiru 。"
+  },
+  {
+    "ja": "私たちは、人間です。",
+    "ko": "우리는 사람입니다.",
+    "romanized": "watashitachiha 、 ningendesu 。"
+  },
+  {
+    "ja": "無色の緑の概念が激しく眠る。",
+    "ko": "무색의 초록색 관념들이 격렬히 잔다.",
+    "romanized": "mushokunomidorinogainengahageshikunemuru 。"
+  },
+  {
+    "ja": "彼女がいつ戻ってくるかは分かりません。",
+    "ko": "그녀가 언제 돌아올지 모르겠다.",
+    "romanized": "kanojogaitsumodotsutekurukahawakarimasen 。"
+  },
+  {
+    "ja": "アンカラに６年間住んだ。",
+    "ko": "앙카라에서 6년 동안 살았다.",
+    "romanized": "ankarani ６ nenkansunda 。"
+  },
+  {
+    "ja": "私は医者です。",
+    "ko": "나는 의사예요.",
+    "romanized": "watashihaishadesu 。"
+  },
+  {
+    "ja": "私は医師です。",
+    "ko": "나는 의사예요.",
+    "romanized": "watashihaishidesu 。"
+  },
+  {
+    "ja": "東には虹があります。",
+    "ko": "동쪽에는 무지개가 있습니다.",
+    "romanized": "higashinihanijigaarimasu 。"
+  },
+  {
+    "ja": "写真を撮ることは禁じられている。",
+    "ko": "사진 촬영은 금지되어 있습니다.",
+    "romanized": "shashinwotorukotohakinjirareteiru 。"
+  },
+  {
+    "ja": "彼女は看護師になった。",
+    "ko": "그녀는 간호사가 됐어요.",
+    "romanized": "kanojohakangoshininatta 。"
+  },
+  {
+    "ja": "友達に写真を撮ってと頼んだ。",
+    "ko": "친구에게 사진을 찍자고했습니다.",
+    "romanized": "tomodachini  shashinwototsute  totanonda 。"
+  },
+  {
+    "ja": "狼になりたい。",
+    "ko": "늑대가 되고 싶어요.",
+    "romanized": "ookamininaritai 。"
+  },
+  {
+    "ja": "アラスカに住んでいます。",
+    "ko": "알래스카에 살아요.",
+    "romanized": "arasukanisundeimasu 。"
+  },
+  {
+    "ja": "アメリカへ行く時間がない。",
+    "ko": "나는 미국에 갈 시간이 없다.",
+    "romanized": "amerikaheikujikanganai 。"
+  },
+  {
+    "ja": "一、二、三、四、五。",
+    "ko": "하나, 둘, 셋, 넷, 다섯.",
+    "romanized": "ichi 、 nisan 、 shi 、 go 。"
+  },
+  {
+    "ja": "私は中国人で、中国が大好きです。",
+    "ko": "저는 중국인이고 중국을 사랑합니다.",
+    "romanized": "watashihachuugokujinde 、 chuugokugadaisukidesu 。"
+  },
+  {
+    "ja": "家の外に猫が2匹います。",
+    "ko": "집 밖에 고양이 두 마리가 있습니다.",
+    "romanized": "ienosotoninekoga 2 hikiimasu 。"
+  },
+  {
+    "ja": "ステーキの焼き具合は、いかがいたしましょうか。",
+    "ko": "스테이크 굽기는 어떻게 해드릴까요?",
+    "romanized": "suteekinoyakiguaiha 、 ikagaitashimashouka 。"
+  },
+  {
+    "ja": "きのうは雨だったので、一日家にいました。",
+    "ko": "어제 비가 내려서 나는 하루종일 집에 있었다.",
+    "romanized": "kinouhaamedattanode 、 tsuitachiieniimashita 。"
+  },
+  {
+    "ja": "日本語が話せる方、いらっしゃいませんか？",
+    "ko": "여기 아무나 일본어 하시는 분 안 계시나요?",
+    "romanized": "nihongogahanaseruhou 、 irasshaimasenka ？"
+  },
+  {
+    "ja": "その方はどこにいますか？",
+    "ko": "그분은 어디에 겨십니까?",
+    "romanized": "sonokatahadokoniimasuka ？"
+  },
+  {
+    "ja": "友達に会って、映画を見ます。",
+    "ko": "친구를 만나서 영화를 봐요.",
+    "romanized": "tomodachiniatsute 、 eigawomimasu 。"
+  },
+  {
+    "ja": "トムって、毎年ボストンに行ってるんだよ。",
+    "ko": "톰은 매년 보스턴에 가요.",
+    "romanized": "tomutte 、 maitoshibosutonniitterundayo 。"
+  },
+  {
+    "ja": "父に会いに来ました。",
+    "ko": "아버지를 만나러 왔어요.",
+    "romanized": "chichiniainikimashita 。"
+  },
+  {
+    "ja": "どちらさまでしょうか？",
+    "ko": "누구이십니까?",
+    "romanized": "dochirasamadeshouka ？"
+  },
+  {
+    "ja": "どちらさまですか？",
+    "ko": "누구이십니까?",
+    "romanized": "dochirasamadesuka ？"
+  },
+  {
+    "ja": "この単語はどう発音するの？",
+    "ko": "이 단어를 어떻게 발음해요?",
+    "romanized": "konotangohadouhatsuonsuruno ？"
+  },
+  {
+    "ja": "行ってらっしゃい。",
+    "ko": "다녀오세요.",
+    "romanized": "itterasshai 。"
+  },
+  {
+    "ja": "ただいま。",
+    "ko": "다녀왔습니다.",
+    "romanized": "tadaima 。"
+  },
+  {
+    "ja": "いただきます。",
+    "ko": "잘 먹겠습니다.",
+    "romanized": "itadakimasu 。"
+  },
+  {
+    "ja": "お帰りなさい。",
+    "ko": "잘 다녀왔어요.",
+    "romanized": "okaerinasai 。"
+  },
+  {
+    "ja": "お疲れさまです。",
+    "ko": "수고하십니다.",
+    "romanized": "otsukaresamadesu 。"
+  },
+  {
+    "ja": "お疲れ様でした。",
+    "ko": "수고했습니다.",
+    "romanized": "otsukaresamadeshita 。"
+  },
+  {
+    "ja": "行って来ます。",
+    "ko": "다녀오겠습니다.",
+    "romanized": "ittekimasu 。"
+  },
+  {
+    "ja": "お大事に。",
+    "ko": "몸 조심해.",
+    "romanized": "odaijini 。"
+  },
+  {
+    "ja": "お世話になりました。",
+    "ko": "신세 많이 졌습니다.",
+    "romanized": "osewaninarimashita 。"
+  },
+  {
+    "ja": "宜しくお願いします。",
+    "ko": "잘 부탁합니다.",
+    "romanized": "yoroshikuonegaishimasu 。"
+  },
+  {
+    "ja": "申し訳ありません。",
+    "ko": "면목이 없습니다.",
+    "romanized": "moushiwakearimasen 。"
+  },
+  {
+    "ja": "ファイト！",
+    "ko": "파이팅!",
+    "romanized": "faito ！"
+  },
+  {
+    "ja": "お初にお目に掛かります。",
+    "ko": "처음 뵙겠습니다.",
+    "romanized": "ohatsuniomenikakarimasu 。"
+  },
+  {
+    "ja": "ご機嫌よう。",
+    "ko": "안녕히 가십시오.",
+    "romanized": "gokigenyou 。"
+  },
+  {
+    "ja": "畏まりました。",
+    "ko": "잘 알겠습니다.",
+    "romanized": "kashikomarimashita 。"
+  }
+]
